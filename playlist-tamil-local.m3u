@@ -174,31 +174,29 @@ http://nextgeninfotech.ddns.net:8080/xpres/xpres.m3u8
 http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
 #EXTINF:-1 ,SAR TV(Local)
 http://livematrix.in:1935/sartv/sartv/playlist.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1616431568_IBC siluvai.png",IBC Siluvai
-https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
 #EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616321908_maa tv copy.png",Maa TV
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
-#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",SUN TV HD
+#EXTINF:-1 group-title="SunNXT(Channel)" tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",SUN TV HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=sun-tv-hd&e=.m3u8
-#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/sun-news-white.png",SUN NEWS
+#EXTINF:-1 group-title="SunNXT(Channel)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/sun-news-white.png",SUN NEWS
 https://mhdtvapp.xyz/yupp/yupp.php?c=sun-news&e=.m3u8
-#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
+#EXTINF:-1 group-title="SunNXT(Channel)" tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=ktv-hd&e=.m3u8
-#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",SUN MUSIC HD
+#EXTINF:-1 group-title="SunNXT(Channel)" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",SUN MUSIC HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=sun-music-hd&e=.m3u8
-#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_4adabbae-d9c8-47ac-8773-dc790a378228.jpg",SUN LIFE
+#EXTINF:-1 group-title="SunNXT(Channel)" tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_4adabbae-d9c8-47ac-8773-dc790a378228.jpg",SUN LIFE
 https://mhdtvapp.xyz/yupp/yupp.php?c=sun-life&e=.m3u8
-#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/adithya-tv-white.png",Adithya TV
+#EXTINF:-1 group-title="SunNXT(Channel)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/adithya-tv-white.png",Adithya TV
 https://mhdtvapp.xyz/yupp/yupp.php?c=adithya-tv&e=.m3u8
-#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/14019/300x300_72a28627-db58-4739-b61c-4e4208897aed.jpg",GEMINI TV HD
+#EXTINF:-1 group-title="SunNXT(Channel)" tvg-logo="https://sund-images.sunnxt.com/14019/300x300_72a28627-db58-4739-b61c-4e4208897aed.jpg",GEMINI TV HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-tv-hd&e=.m3u8
-#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/26570/300x300_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg",GEMINI MOVIES HD
+#EXTINF:-1 group-title="SunNXT(Channel)" tvg-logo="https://sund-images.sunnxt.com/26570/300x300_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg",GEMINI MOVIES HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-movies-hd&e=.m3u8
-#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/26568/300x300_eaa4e437-cce0-4411-8e46-13640be94c55.jpg",GEMINI MUSIC HD
+#EXTINF:-1 group-title="SunNXT(Channel)" tvg-logo="https://sund-images.sunnxt.com/26568/300x300_eaa4e437-cce0-4411-8e46-13640be94c55.jpg",GEMINI MUSIC HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-music-hd&e=.m3u8
-#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/9027/300x300_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg",GEMINI COMEDY
+#EXTINF:-1 group-title="SunNXT(Channel)" tvg-logo="https://sund-images.sunnxt.com/9027/300x300_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg",GEMINI COMEDY
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-comedy&e=.m3u8
-#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg",GEMINI LIFE
+#EXTINF:-1 group-title="SunNXT(Channel)" tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg",GEMINI LIFE
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-life&e=.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
