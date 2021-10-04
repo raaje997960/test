@@ -10,6 +10,108 @@ http://watchindia.net:8880/live/54739/54739/2080.ts
 #EXTINF:-1 group-title="Channel&Movies", Star World HD
 http://watchindia.net:8880/live/54739/54739/2191.ts
 #EXTINF:-1 group-title="Channel&Movies", HBO
+#EXTM3U
+#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",SUN TV HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-tv-hd&e=.m3u8
+#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/sun-news-white.png",SUN NEWS
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-news&e=.m3u8
+#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=ktv-hd&e=.m3u8
+#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",SUN MUSIC HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-music-hd&e=.m3u8
+#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_4adabbae-d9c8-47ac-8773-dc790a378228.jpg",SUN LIFE
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-life&e=.m3u8
+#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/adithya-tv-white.png",Adithya TV
+https://mhdtvapp.xyz/yupp/yupp.php?c=adithya-tv&e=.m3u8
+#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/14019/300x300_72a28627-db58-4739-b61c-4e4208897aed.jpg",GEMINI TV HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-tv-hd&e=.m3u8
+#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/26570/300x300_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg",GEMINI MOVIES HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-movies-hd&e=.m3u8
+#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/26568/300x300_eaa4e437-cce0-4411-8e46-13640be94c55.jpg",GEMINI MUSIC HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-music-hd&e=.m3u8
+#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/9027/300x300_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg",GEMINI COMEDY
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-comedy&e=.m3u8
+#EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg",GEMINI LIFE
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-life&e=.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/P5EXpPy.jpg",7S Music (576p)
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/IgwQ7o5.png",Aathavan TV (720p) [Not 24/7]
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/hAgaVPa.jpg",Akaram Kidz (460p) [Not 24/7]
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png",Asianet News Tamil (360p)
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/UXg6sac.png",Captain TV (576p)
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/f7J37yv.png",EET TV (720p) [Not 24/7]
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/radWIeb.png",Isai Aruvi (576p)
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg",Kalaignar (576p)
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/ZDXVWVQ.png",Kalaignar Murasu (576p)
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qWOnWhQ.png",Kalaignar Seithikal (576p)
+http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://i.imgur.com/bqXRXaZ.png",Kalaignar Sirippoli (576p)
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Sv4bLGX.png",Makkal TV (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0l1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/FAytBoW.png",MK Six (576p)
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/m8DPQd6.png",MK Tunes (576p)
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/UxxbaR3.png",MK TV (576p)
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/oBjgUTc.png",News 7 Tamil (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0kp/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/xgEQiso.png",Peppers (576p)
+http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/1q1LQQ9.png",Puthuyugam TV (576p)
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/D03gyp2.png",Sana TV (576p) [Not 24/7]
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LsacUVi.png",Santhora TV (720p)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+
+#EXTINF:-1 ,Sneh TAMIL (HD)- ADHTIYA TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
+#EXTINF:-1 ,Sneh TAMIL (HD)- COLORS TAMIL HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
+#EXTINF:-1 ,Sneh TAMIL (HD)- DD PODHIGAI
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40809
+#EXTINF:-1 ,Sneh TAMIL (HD)- FOX LIFE HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
+#EXTINF:-1 ,Sneh TAMIL (HD)- JAYA TV HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40814
+#EXTINF:-1 ,Sneh TAMIL (HD)- KTV HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40815
+#EXTINF:-1 ,Sneh TAMIL (HD)- NAT GEO WILD HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40817
+#EXTINF:-1 ,Sneh TAMIL (HD)- NATIONAL GEOGRAPHIC HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40818
+#EXTINF:-1 ,Sneh TAMIL (HD)- RAJ TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40821
+#EXTINF:-1 ,Sneh TAMIL (HD)- SONY BBC EARTH HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
+#EXTINF:-1 ,Sneh TAMIL (HD)- STAR VIJAY HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40824
+#EXTINF:-1 ,Sneh TAMIL (HD)- SUN LIFE
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40825
+#EXTINF:-1 ,Sneh TAMIL (HD)- SUN TV HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40828
+#EXTINF:-1 ,Sneh TAMIL (HD)- ZEE TAMIL HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40835
+#EXTINF:-1 ,Sneh TAMIL (HD)- TVI HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40847
+#EXTINF:-1 ,Sneh TAMIL (HD)- ATHAVAN TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40851
+#EXTINF:-1 ,group-title="Sneh |South India| ",  7SMUSIC
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86088
 http://watchindia.net:8880/live/54739/54739/2081.ts
 #EXTINF:-1 group-title="Channel&Movies", Star Maa HD 1
 http://watchindia.net:8880/live/54739/54739/933.ts
