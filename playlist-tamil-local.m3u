@@ -39,7 +39,6 @@ http://watchindia.net:8880/live/54739/54739/869.ts
 http://watchindia.net:8880/live/54739/54739/2084.ts
 #EXTINF:-1 group-title="Channel&Movies", Adithya TV
 http://watchindia.net:8880/live/54739/54739/855.ts
-
 #EXTINF:-1 group-title="Channel&Movies", Colors Tamil
 http://watchindia.net:8880/live/54739/54739/2083.ts
 #EXTINF:-1 group-title="Channel&Movies", Captain News
@@ -68,17 +67,14 @@ http://watchindia.net:8880/live/54739/54739/845.ts
 http://watchindia.net:8880/live/54739/54739/871.ts
 #EXTINF:-1 group-title="Channel&Movies", Murasu TV
 http://watchindia.net:8880/live/54739/54739/880.ts
-
 #EXTINF:-1 group-title="Channel&Movies", National Geographic HD
 http://watchindia.net:8880/live/54739/54739/790.ts
-
 #EXTINF:-1 group-title="Channel&Movies", Peppers
 http://watchindia.net:8880/live/54739/54739/870.ts
 #EXTINF:-1 group-title="Channel&Movies", Polimer TV
 http://watchindia.net:8880/live/54739/54739/2147.ts
 #EXTINF:-1 group-title="Channel&Movies", Polimer News
 http://watchindia.net:8880/live/54739/54739/877.ts
-
 #EXTINF:-1 group-title="Channel&Movies", Puthiya Thalaimurai
 http://watchindia.net:8880/live/54739/54739/879.ts
 #EXTINF:-1 group-title="Channel&Movies", Puthuyugam TV
@@ -87,7 +83,6 @@ http://watchindia.net:8880/live/54739/54739/865.ts
 http://watchindia.net:8880/live/54739/54739/857.ts
 #EXTINF:-1 group-title="Channel&Movies", Raj Musix
 http://watchindia.net:8880/live/54739/54739/286.ts
-
 #EXTINF:-1 group-title="Channel&Movies", Raj News
 http://watchindia.net:8880/live/54739/54739/291.ts
 #EXTINF:-1 group-title="Channel&Movies", Raj TV
@@ -126,6 +121,40 @@ http://watchindia.net:8880/live/54739/54739/2039.ts
 http://watchindia.net:8880/live/54739/54739/2142.ts
 #EXTINF:-1 group-title="Channel&Movies", Kalaignar News
 http://watchindia.net:8880/live/54739/54739/874.ts
+#EXTINF:-1 group-title="Sports",Sony Six HD 1
+http://watchindia.net:8880/live/54739/54739/1763.ts
+#EXTINF:-1 group-title="Sports",Sony Six HD 2
+http://watchindia.net:8880/live/54739/54739/2144.ts
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD 1
+http://watchindia.net:8880/live/54739/54739/1756.ts
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD 2
+http://watchindia.net:8880/live/54739/54739/2215.ts
+#EXTINF:-1 group-title="Sports",Sony Ten 2 HD
+http://watchindia.net:8880/live/54739/54739/1757.ts
+#EXTINF:-1 group-title="Sports",Sony Ten 3 HD
+http://watchindia.net:8880/live/54739/54739/1758.ts
+#EXTINF:-1 group-title="Sports",Ten Sports
+http://watchindia.net:8880/live/54739/54739/1068.ts
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD Hindi 1
+http://watchindia.net:8880/live/54739/54739/1072.ts
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD Hindi 2
+http://watchindia.net:8880/live/54739/54739/2167.ts
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD 1
+http://watchindia.net:8880/live/54739/54739/808.ts
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD 2
+http://watchindia.net:8880/live/54739/54739/2162.ts
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD 3
+http://watchindia.net:8880/live/54739/54739/2186.ts
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD 4
+http://watchindia.net:8880/live/54739/54739/2232.ts
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD 1
+http://watchindia.net:8880/live/54739/54739/1069.ts
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD 2
+http://watchindia.net:8880/live/54739/54739/2163.ts
+#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD
+http://watchindia.net:8880/live/54739/54739/1070.ts
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
+http://watchindia.net:8880/live/54739/54739/1071.ts
 #EXTINF:-1 group-title="Channel&Movies", Malayalam Box Office
 http://watchindia.net:8880/live/54739/54739/2156.ts
 #EXTINF:-1 group-title="Channel&Movies", Bollywood Box Office
