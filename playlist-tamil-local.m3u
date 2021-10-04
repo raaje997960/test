@@ -1,88 +1,88 @@
 #EXTM3U
-#EXTINF:-1 group-title="Channel&Movies", Sony BBC Earth HD
+#EXTINF:-1 group-title="Channel", Sony BBC Earth HD
 http://watchindia.net:8880/live/54739/54739/789.ts
-#EXTINF:-1 group-title="Channel&Movies", Sony TV HD
+#EXTINF:-1 group-title="Channel", Sony TV HD
 http://watchindia.net:8880/live/54739/54739/1969.ts
-#EXTINF:-1 group-title="Channel&Movies", Sony TV HD 2
+#EXTINF:-1 group-title="Channel", Sony TV HD 2
 http://watchindia.net:8880/live/54739/54739/2141.ts
-#EXTINF:-1 group-title="Channel&Movies", Star Movies HD
+#EXTINF:-1 group-title="Channel", Star Movies HD
 http://watchindia.net:8880/live/54739/54739/2080.ts
-#EXTINF:-1 group-title="Channel&Movies", Star World HD
+#EXTINF:-1 group-title="Channel", Star World HD
 http://watchindia.net:8880/live/54739/54739/2191.ts
-#EXTINF:-1 group-title="Channel&Movies", HBO
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Jaya_Plus
+#EXTINF:-1 group-title="Channel", HBO
+#EXTINF:-1 ,group-title="Channel ",  Jaya_Plus
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86064
-#EXTINF:-1 ,group-title="Sneh |South India| ",  IMAYAM_TV
+#EXTINF:-1 ,group-title="Channel ",  IMAYAM_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86105
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Dheeran_TV
+#EXTINF:-1 ,group-title="Channel ",  Dheeran_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86101
-#EXTINF:-1 ,group-title="Sneh |South India| ",  CAPTAIN_TV
+#EXTINF:-1 ,group-title="Channel ",  CAPTAIN_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86097
-#EXTINF:-1 ,group-title="Sneh |South India| ",  KALAIGNAR_CHITHIRAM
+#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_CHITHIRAM
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86109
-#EXTINF:-1 ,group-title="Sneh |South India| ",  KALAIGNAR_ISAI_ARUVI
+#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_ISAI_ARUVI
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86110
-#EXTINF:-1 ,group-title="Sneh |South India| ",  KALAIGNAR_MURASU
+#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_MURASU
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86111
-#EXTINF:-1 ,group-title="Sneh |South India| ",  KALAIGNAR_SEITHIGAL
+#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_SEITHIGAL
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86112
-#EXTINF:-1 ,group-title="Sneh |South India| ",  KALAIGNAR_SIRIPPOLI
+#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_SIRIPPOLI
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86113
-#EXTINF:-1 ,group-title="Sneh |South India| ",  KALAIGNAR_TV
+#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86114
-#EXTINF:-1 ,group-title="Sneh |South India| ",  MAKKAL_TV
+#EXTINF:-1 ,group-title="Channel ",  MAKKAL_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86119
-#EXTINF:-1 ,group-title="Sneh |South India| ",  MK_SIX
+#EXTINF:-1 ,group-title="Channel ",  MK_SIX
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86127
-#EXTINF:-1 ,group-title="Sneh |South India| ",  MK_TELEVISION
+#EXTINF:-1 ,group-title="Channel ",  MK_TELEVISION
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86128
-#EXTINF:-1 ,group-title="Sneh |South India| ",  MK_TUNES
+#EXTINF:-1 ,group-title="Channel ",  MK_TUNES
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86129
-#EXTINF:-1 ,group-title="Sneh |South India| ",  MOON_TV
+#EXTINF:-1 ,group-title="Channel ",  MOON_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86130
-#EXTINF:-1 ,group-title="Sneh |South India| ",  SATHIYAM_TV
+#EXTINF:-1 ,group-title="Channel ",  SATHIYAM_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86143
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Sun Music HD
+#EXTINF:-1 ,group-title="Channel ",  Sun Music HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Sun News
+#EXTINF:-1 ,group-title="Channel ",  Sun News
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Sun tv HD
+#EXTINF:-1 ,group-title="Channel ",  Sun tv HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
-#EXTINF:-1 ,group-title="Sneh |South India| ",  SUN_LIFE
+#EXTINF:-1 ,group-title="Channel ",  SUN_LIFE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
-#EXTINF:-1 ,group-title="Sneh |South India| ",  TAMILAN_TELEVISION
+#EXTINF:-1 ,group-title="Channel ",  TAMILAN_TELEVISION
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86149
-#EXTINF:-1 ,group-title="Sneh |South India| ",  WIN_TV
+#EXTINF:-1 ,group-title="Channel ",  WIN_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86163
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Zee Tamil HD
+#EXTINF:-1 ,group-title="Channel ",  Zee Tamil HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL PLC" tvg-logo="https://singamcloud.com/tv/upload/1616305845_hari tv.png",Hari Tv
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616305845_hari tv.png",Hari Tv
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL PLC" tvg-logo="https://singamcloud.com/tv/upload/1616319770_vani plus.png",Vani plus
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616319770_vani plus.png",Vani plus
 http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL Education" tvg-logo="https://singamcloud.com/tv/upload/1616305553_kalvi tv.png",Kalvi Tv
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616305553_kalvi tv.png",Kalvi Tv
 http://198.144.149.82:8080/KALVI_GR10/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL PLC" tvg-logo="https://singamcloud.com/tv/upload/1618489114_sai tv.png",SAI TV
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1618489114_sai tv.png",SAI TV
 http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL News" tvg-logo="https://singamcloud.com/tv/upload/1616307885_malai musasu.png",Malai Murasu
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616307885_malai musasu.png",Malai Murasu
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL News" tvg-logo="https://singamcloud.com/tv/upload/1616305063_news18 tamilnadu.png",NEWS18 TAMILNADU
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616305063_news18 tamilnadu.png",NEWS18 TAMILNADU
 http://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL News" tvg-logo="https://singamcloud.com/tv/upload/1616305166_news 7.png",NEWS7 TAMIL
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616305166_news 7.png",NEWS7 TAMIL
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL News" tvg-logo="https://singamcloud.com/tv/upload/1616307885_malai musasu.png",Malai Murasu
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616307885_malai musasu.png",Malai Murasu
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL News" tvg-logo="https://singamcloud.com/tv/upload/1616307129_thanthi tv.png",Thanthi TV
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616307129_thanthi tv.png",Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL Music" tvg-logo="https://singamcloud.com/tv/upload/1622186279_sun music.png",Sun Music
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1622186279_sun music.png",Sun Music
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL International" tvg-logo="https://singamcloud.com/tv/upload/1622176561_santhoratv.png",Santhora tv
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1622176561_santhoratv.png",Santhora tv
 http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL International" tvg-logo="https://singamcloud.com/tv/upload/1622176085_tvi hd.png",TVI HD
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1622176085_tvi hd.png",TVI HD
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL PLC" tvg-logo="https://singamcloud.com/tv/upload/1622175914_MN tv.png",MN TV
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1622175914_MN tv.png",MN TV
 https://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL International" tvg-logo="https://singamcloud.com/tv/upload/1622174946_aus tamil.png",Aus Tamil
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1622174946_aus tamil.png",Aus Tamil
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 #EXTINF:-1 ,DAN TAMIL(INTL)
 https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
@@ -176,7 +176,7 @@ http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
 http://livematrix.in:1935/sartv/sartv/playlist.m3u8
 #EXTINF:-1 group-title="Sneh CLOUD TAMIL Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1616431568_IBC siluvai.png",IBC Siluvai
 https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
-#EXTINF:-1 group-title="Sneh CLOUD TAMIL PLC" tvg-logo="https://singamcloud.com/tv/upload/1616321908_maa tv copy.png",Maa TV
+#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616321908_maa tv copy.png",Maa TV
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
 #EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",SUN TV HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=sun-tv-hd&e=.m3u8
@@ -200,8 +200,6 @@ https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-music-hd&e=.m3u8
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-comedy&e=.m3u8
 #EXTINF:-1 group-title="SunNXT(HackTech TV - Yupptv)" tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg",GEMINI LIFE
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-life&e=.m3u8
-
-#EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/P5EXpPy.jpg",7S Music (576p)
@@ -277,118 +275,118 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40835
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40847
 #EXTINF:-1 ,Sneh TAMIL (HD)- ATHAVAN TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40851
-#EXTINF:-1 ,group-title="Sneh |South India| ",  7SMUSIC
+#EXTINF:-1 ,group-title="Channel ",  7SMUSIC
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86088
 http://watchindia.net:8880/live/54739/54739/2081.ts
-#EXTINF:-1 group-title="Channel&Movies", Star Maa HD 1
+#EXTINF:-1 group-title="Channel", Star Maa HD 1
 http://watchindia.net:8880/live/54739/54739/933.ts
-#EXTINF:-1 group-title="Channel&Movies", Star Maa HD 2
+#EXTINF:-1 group-title="Channel", Star Maa HD 2
 http://watchindia.net:8880/live/54739/54739/2168.ts
-#EXTINF:-1 group-title="Channel&Movies", Star Maa Movies HD
+#EXTINF:-1 group-title="Channel", Star Maa Movies HD
 http://watchindia.net:8880/live/54739/54739/934.ts
-#EXTINF:-1 group-title="Channel&Movies", Star Maa Gold HD
+#EXTINF:-1 group-title="Channel", Star Maa Gold HD
 http://watchindia.net:8880/live/54739/54739/935.ts
-#EXTINF:-1 group-title="Channel&Movies", Star Vijay HD
+#EXTINF:-1 group-title="Channel", Star Vijay HD
 http://watchindia.net:8880/live/54739/54739/846.ts
-#EXTINF:-1 group-title="Channel&Movies", Star Vijay HD 2
+#EXTINF:-1 group-title="Channel", Star Vijay HD 2
 http://watchindia.net:8880/live/54739/54739/2140.ts
-#EXTINF:-1 group-title="Channel&Movies", Star Vijay Super
+#EXTINF:-1 group-title="Channel", Star Vijay Super
 http://watchindia.net:8880/live/54739/54739/2190.ts
-#EXTINF:-1 group-title="Channel&Movies", Sun TV HD
+#EXTINF:-1 group-title="Channel", Sun TV HD
 http://watchindia.net:8880/live/54739/54739/843.ts
-#EXTINF:-1 group-title="Channel&Movies", Sun TV HD USA
+#EXTINF:-1 group-title="Channel", Sun TV HD USA
 http://watchindia.net:8880/live/54739/54739/2089.ts
-#EXTINF:-1 group-title="Channel&Movies", Sun Life
+#EXTINF:-1 group-title="Channel", Sun Life
 http://watchindia.net:8880/live/54739/54739/847.ts
-#EXTINF:-1 group-title="Channel&Movies", Sun Music HD
+#EXTINF:-1 group-title="Channel", Sun Music HD
 http://watchindia.net:8880/live/54739/54739/844.ts
-#EXTINF:-1 group-title="Channel&Movies", Sun News
+#EXTINF:-1 group-title="Channel", Sun News
 http://watchindia.net:8880/live/54739/54739/869.ts
-#EXTINF:-1 group-title="Channel&Movies", Sirippoli TV
+#EXTINF:-1 group-title="Channel", Sirippoli TV
 http://watchindia.net:8880/live/54739/54739/2084.ts
-#EXTINF:-1 group-title="Channel&Movies", Adithya TV
+#EXTINF:-1 group-title="Channel", Adithya TV
 http://watchindia.net:8880/live/54739/54739/855.ts
-#EXTINF:-1 group-title="Channel&Movies", Colors Tamil
+#EXTINF:-1 group-title="Channel", Colors Tamil
 http://watchindia.net:8880/live/54739/54739/2083.ts
-#EXTINF:-1 group-title="Channel&Movies", Captain News
+#EXTINF:-1 group-title="Channel", Captain News
 http://watchindia.net:8880/live/54739/54739/878.ts
-#EXTINF:-1 group-title="Channel&Movies", Captain TV
+#EXTINF:-1 group-title="Channel", Captain TV
 http://watchindia.net:8880/live/54739/54739/876.ts
-#EXTINF:-1 group-title="Channel&Movies", Discovery Tamil
+#EXTINF:-1 group-title="Channel", Discovery Tamil
 http://watchindia.net:8880/live/54739/54739/2085.ts
-#EXTINF:-1 group-title="Channel&Movies", History TV HD
+#EXTINF:-1 group-title="Channel", History TV HD
 http://watchindia.net:8880/live/54739/54739/791.ts
-#EXTINF:-1 group-title="Channel&Movies", Jaya Max
+#EXTINF:-1 group-title="Channel", Jaya Max
 http://watchindia.net:8880/live/54739/54739/852.ts
-#EXTINF:-1 group-title="Channel&Movies", Jaya Movie
+#EXTINF:-1 group-title="Channel", Jaya Movie
 http://watchindia.net:8880/live/54739/54739/849.ts
-#EXTINF:-1 group-title="Channel&Movies", Jaya Plus
+#EXTINF:-1 group-title="Channel", Jaya Plus
 http://watchindia.net:8880/live/54739/54739/850.ts
-#EXTINF:-1 group-title="Channel&Movies", Jaya TV HD
+#EXTINF:-1 group-title="Channel", Jaya TV HD
 http://watchindia.net:8880/live/54739/54739/851.ts
-#EXTINF:-1 group-title="Channel&Movies", Isaiaruvi TV
+#EXTINF:-1 group-title="Channel", Isaiaruvi TV
 http://watchindia.net:8880/live/54739/54739/2149.ts
-#EXTINF:-1 group-title="Channel&Movies", Kalaignar TV
+#EXTINF:-1 group-title="Channel", Kalaignar TV
 http://watchindia.net:8880/live/54739/54739/2148.ts
-#EXTINF:-1 group-title="Channel&Movies", KTV HD
+#EXTINF:-1 group-title="Channel", KTV HD
 http://watchindia.net:8880/live/54739/54739/845.ts
-#EXTINF:-1 group-title="Channel&Movies", Makkal TV
+#EXTINF:-1 group-title="Channel", Makkal TV
 http://watchindia.net:8880/live/54739/54739/871.ts
-#EXTINF:-1 group-title="Channel&Movies", Murasu TV
+#EXTINF:-1 group-title="Channel", Murasu TV
 http://watchindia.net:8880/live/54739/54739/880.ts
-#EXTINF:-1 group-title="Channel&Movies", National Geographic HD
+#EXTINF:-1 group-title="Channel", National Geographic HD
 http://watchindia.net:8880/live/54739/54739/790.ts
-#EXTINF:-1 group-title="Channel&Movies", Peppers
+#EXTINF:-1 group-title="Channel", Peppers
 http://watchindia.net:8880/live/54739/54739/870.ts
-#EXTINF:-1 group-title="Channel&Movies", Polimer TV
+#EXTINF:-1 group-title="Channel", Polimer TV
 http://watchindia.net:8880/live/54739/54739/2147.ts
-#EXTINF:-1 group-title="Channel&Movies", Polimer News
+#EXTINF:-1 group-title="Channel", Polimer News
 http://watchindia.net:8880/live/54739/54739/877.ts
-#EXTINF:-1 group-title="Channel&Movies", Puthiya Thalaimurai
+#EXTINF:-1 group-title="Channel", Puthiya Thalaimurai
 http://watchindia.net:8880/live/54739/54739/879.ts
-#EXTINF:-1 group-title="Channel&Movies", Puthuyugam TV
+#EXTINF:-1 group-title="Channel", Puthuyugam TV
 http://watchindia.net:8880/live/54739/54739/865.ts
-#EXTINF:-1 group-title="Channel&Movies", Raj Digital Plus
+#EXTINF:-1 group-title="Channel", Raj Digital Plus
 http://watchindia.net:8880/live/54739/54739/857.ts
-#EXTINF:-1 group-title="Channel&Movies", Raj Musix
+#EXTINF:-1 group-title="Channel", Raj Musix
 http://watchindia.net:8880/live/54739/54739/286.ts
-#EXTINF:-1 group-title="Channel&Movies", Raj News
+#EXTINF:-1 group-title="Channel", Raj News
 http://watchindia.net:8880/live/54739/54739/291.ts
-#EXTINF:-1 group-title="Channel&Movies", Raj TV
+#EXTINF:-1 group-title="Channel", Raj TV
 http://watchindia.net:8880/live/54739/54739/854.ts
-#EXTINF:-1 group-title="Channel&Movies", Tamil Vision TV
+#EXTINF:-1 group-title="Channel", Tamil Vision TV
 http://watchindia.net:8880/live/54739/54739/863.ts
-#EXTINF:-1 group-title="Channel&Movies", Tamilian TV
+#EXTINF:-1 group-title="Channel", Tamilian TV
 http://watchindia.net:8880/live/54739/54739/864.ts
-#EXTINF:-1 group-title="Channel&Movies", Thanthi TV
+#EXTINF:-1 group-title="Channel", Thanthi TV
 http://watchindia.net:8880/live/54739/54739/860.ts
-#EXTINF:-1 group-title="Channel&Movies", Thanthi TV
+#EXTINF:-1 group-title="Channel", Thanthi TV
 http://watchindia.net:8880/live/54739/54739/947.ts
-#EXTINF:-1 group-title="Channel&Movies", TravelXP HD
+#EXTINF:-1 group-title="Channel", TravelXP HD
 http://watchindia.net:8880/live/54739/54739/792.ts
-#EXTINF:-1 group-title="Channel&Movies", Vasanth TV
+#EXTINF:-1 group-title="Channel", Vasanth TV
 http://watchindia.net:8880/live/54739/54739/858.ts
-#EXTINF:-1 group-title="Channel&Movies", Vendhar TV
+#EXTINF:-1 group-title="Channel", Vendhar TV
 http://watchindia.net:8880/live/54739/54739/2146.ts
-#EXTINF:-1 group-title="Channel&Movies", Zee Tamil
+#EXTINF:-1 group-title="Channel", Zee Tamil
 http://watchindia.net:8880/live/54739/54739/887.ts
-#EXTINF:-1 group-title="Channel&Movies", Sony Pix HD
+#EXTINF:-1 group-title="Channel", Sony Pix HD
 http://watchindia.net:8880/live/54739/54739/2101.ts
-#EXTINF:-1 group-title="Channel&Movies", Movies Now HD
+#EXTINF:-1 group-title="Channel", Movies Now HD
 http://watchindia.net:8880/live/54739/54739/2102.ts
-#EXTINF:-1 group-title="Channel&Movies", Discovery Channel
+#EXTINF:-1 group-title="Channel", Discovery Channel
 http://watchindia.net:8880/live/54739/54739/2036.ts
-#EXTINF:-1 group-title="Channel&Movies", Discovery Life
+#EXTINF:-1 group-title="Channel", Discovery Life
 http://watchindia.net:8880/live/54739/54739/2124.ts
-#EXTINF:-1 group-title="Channel&Movies", National Geographic
+#EXTINF:-1 group-title="Channel", National Geographic
 http://watchindia.net:8880/live/54739/54739/2037.ts
-#EXTINF:-1 group-title="Channel&Movies", Nat Geo Wild
+#EXTINF:-1 group-title="Channel", Nat Geo Wild
 http://watchindia.net:8880/live/54739/54739/2047.ts
-#EXTINF:-1 group-title="Channel&Movies", Animal Planet
+#EXTINF:-1 group-title="Channel", Animal Planet
 http://watchindia.net:8880/live/54739/54739/2039.ts
-#EXTINF:-1 group-title="Channel&Movies", Zee Thirai
+#EXTINF:-1 group-title="Channel", Zee Thirai
 http://watchindia.net:8880/live/54739/54739/2142.ts
-#EXTINF:-1 group-title="Channel&Movies", Kalaignar News
+#EXTINF:-1 group-title="Channel", Kalaignar News
 http://watchindia.net:8880/live/54739/54739/874.ts
 #EXTINF:-1 group-title="Sports",Sony Six HD 1
 http://watchindia.net:8880/live/54739/54739/1763.ts
@@ -424,1279 +422,1280 @@ http://watchindia.net:8880/live/54739/54739/2163.ts
 http://watchindia.net:8880/live/54739/54739/1070.ts
 #EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 http://watchindia.net:8880/live/54739/54739/1071.ts
-#EXTINF:-1 group-title="Channel&Movies", Malayalam Box Office
+#EXTINF:-1 group-title="Channel", Malayalam Box Office
 http://watchindia.net:8880/live/54739/54739/2156.ts
-#EXTINF:-1 group-title="Channel&Movies", Bollywood Box Office
+#EXTINF:-1 group-title="Channel", Bollywood Box Office
 http://watchindia.net:8880/live/54739/54739/2157.ts
-#EXTINF:-1 group-title="Channel&Movies", Kollywood Box Office
+#EXTINF:-1 group-title="Channel", Kollywood Box Office
 http://watchindia.net:8880/live/54739/54739/2152.ts
-#EXTINF:-1 group-title="Channel&Movies", Colors TV HD 2
+#EXTINF:-1 group-title="Channel", Colors TV HD 2
 http://watchindia.net:8880/live/54739/54739/2264.ts
-#EXTINF:-1 group-title="Channel&Movies", Telugu Box Office
+#EXTINF:-1 group-title="Channel", Telugu Box Office
 http://watchindia.net:8880/live/54739/54739/2155.ts
-#EXTINF:-1 group-title="Channel&Movies", Bol Entertainment
+#EXTINF:-1 group-title="Channel", Bol Entertainment
 http://watchindia.net:8880/live/54739/54739/1030.ts
-#EXTINF:-1 group-title="Channel&Movies", Anjaam Pathiraa (2020)
+
+#EXTINF:-1 group-title="Movies", Anjaam Pathiraa (2020)
 http://watchindia.net:8880/movie/54739/54739/1076.mkv
-#EXTINF:-1 group-title="Channel&Movies", Varane Avashyamund (2020)
+#EXTINF:-1 group-title="Movies", Varane Avashyamund (2020)
 http://watchindia.net:8880/movie/54739/54739/1078.mkv
-#EXTINF:-1 group-title="Channel&Movies", Veembu (2020)
+#EXTINF:-1 group-title="Movies", Veembu (2020)
 http://watchindia.net:8880/movie/54739/54739/1080.mp4
-#EXTINF:-1 group-title="Channel&Movies", Fancy Dress (2019)
+#EXTINF:-1 group-title="Movies", Fancy Dress (2019)
 http://watchindia.net:8880/movie/54739/54739/1081.mkv
-#EXTINF:-1 group-title="Channel&Movies", World Famous Lover (2020)
+#EXTINF:-1 group-title="Movies", World Famous Lover (2020)
 http://watchindia.net:8880/movie/54739/54739/1082.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pranaya Meenukalude Kadal (2019)
+#EXTINF:-1 group-title="Movies", Pranaya Meenukalude Kadal (2019)
 http://watchindia.net:8880/movie/54739/54739/1083.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kumbarees (2019)
+#EXTINF:-1 group-title="Movies", Kumbarees (2019)
 http://watchindia.net:8880/movie/54739/54739/1084.mkv
-#EXTINF:-1 group-title="Channel&Movies", Patham Classile Pranayam (2019)
+#EXTINF:-1 group-title="Movies", Patham Classile Pranayam (2019)
 http://watchindia.net:8880/movie/54739/54739/1085.mkv
-#EXTINF:-1 group-title="Channel&Movies", Trance (2020)
+#EXTINF:-1 group-title="Movies", Trance (2020)
 http://watchindia.net:8880/movie/54739/54739/1087.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ayyappanum Koshiyum (2020)
+#EXTINF:-1 group-title="Movies", Ayyappanum Koshiyum (2020)
 http://watchindia.net:8880/movie/54739/54739/1088.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pattas (2020)
+#EXTINF:-1 group-title="Movies", Pattas (2020)
 http://watchindia.net:8880/movie/54739/54739/1089.mkv
-#EXTINF:-1 group-title="Channel&Movies", Anveshanam (2020)
+#EXTINF:-1 group-title="Movies", Anveshanam (2020)
 http://watchindia.net:8880/movie/54739/54739/1090.mkv
-#EXTINF:-1 group-title="Channel&Movies", Marconi Mathai (2019)
+#EXTINF:-1 group-title="Movies", Marconi Mathai (2019)
 http://watchindia.net:8880/movie/54739/54739/1091.mkv
-#EXTINF:-1 group-title="Channel&Movies", Forensic (2020)
+#EXTINF:-1 group-title="Movies", Forensic (2020)
 http://watchindia.net:8880/movie/54739/54739/1092.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sathyam Paranja Viswasikkuvo (2019)
+#EXTINF:-1 group-title="Movies", Sathyam Paranja Viswasikkuvo (2019)
 http://watchindia.net:8880/movie/54739/54739/1093.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ormayil Oru Shishiram (2019)
+#EXTINF:-1 group-title="Movies", Ormayil Oru Shishiram (2019)
 http://watchindia.net:8880/movie/54739/54739/1094.mkv
-#EXTINF:-1 group-title="Channel&Movies", Shylock (2020)
+#EXTINF:-1 group-title="Movies", Shylock (2020)
 http://watchindia.net:8880/movie/54739/54739/1095.mkv
-#EXTINF:-1 group-title="Channel&Movies", Big Brother (2019)
+#EXTINF:-1 group-title="Movies", Big Brother (2019)
 http://watchindia.net:8880/movie/54739/54739/1096.mkv
-#EXTINF:-1 group-title="Channel&Movies", Darbar (2020)
+#EXTINF:-1 group-title="Movies", Darbar (2020)
 http://watchindia.net:8880/movie/54739/54739/1097.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chunkzz (2017)
+#EXTINF:-1 group-title="Movies", Chunkzz (2017)
 http://watchindia.net:8880/movie/54739/54739/1098.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ala Vaikunthapurramuloo (2020)
+#EXTINF:-1 group-title="Movies", Ala Vaikunthapurramuloo (2020)
 http://watchindia.net:8880/movie/54739/54739/1099.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sagaa (2019)
+#EXTINF:-1 group-title="Movies", Sagaa (2019)
 http://watchindia.net:8880/movie/54739/54739/1100.mkv
-#EXTINF:-1 group-title="Channel&Movies", Guppy (2016)
+#EXTINF:-1 group-title="Movies", Guppy (2016)
 http://watchindia.net:8880/movie/54739/54739/1101.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bigil (2019)
+#EXTINF:-1 group-title="Movies", Bigil (2019)
 http://watchindia.net:8880/movie/54739/54739/1102.mkv
-#EXTINF:-1 group-title="Channel&Movies", IDI: Inspector Dawood Ibrahim (2016)
+#EXTINF:-1 group-title="Movies", IDI: Inspector Dawood Ibrahim (2016)
 http://watchindia.net:8880/movie/54739/54739/1103.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kammatipaadam (2016)
+#EXTINF:-1 group-title="Movies", Kammatipaadam (2016)
 http://watchindia.net:8880/movie/54739/54739/1104.mkv
-#EXTINF:-1 group-title="Channel&Movies", Role Models (2017)
+#EXTINF:-1 group-title="Movies", Role Models (2017)
 http://watchindia.net:8880/movie/54739/54739/1105.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pulimurugan (2016)
+#EXTINF:-1 group-title="Movies", Pulimurugan (2016)
 http://watchindia.net:8880/movie/54739/54739/1106.mkv
-#EXTINF:-1 group-title="Channel&Movies", Drishyam (2013)
+#EXTINF:-1 group-title="Movies", Drishyam (2013)
 http://watchindia.net:8880/movie/54739/54739/1107.mkv
-#EXTINF:-1 group-title="Channel&Movies", God's Own Country (2014)
+#EXTINF:-1 group-title="Movies", God's Own Country (2014)
 http://watchindia.net:8880/movie/54739/54739/1109.mkv
-#EXTINF:-1 group-title="Channel&Movies", Premam (2015)
+#EXTINF:-1 group-title="Movies", Premam (2015)
 http://watchindia.net:8880/movie/54739/54739/1110.mkv
-#EXTINF:-1 group-title="Channel&Movies", ABCD: American-Born Confused Desi (2013)
+#EXTINF:-1 group-title="Movies", ABCD: American-Born Confused Desi (2013)
 http://watchindia.net:8880/movie/54739/54739/1111.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bangalore Days (2014)
+#EXTINF:-1 group-title="Movies", Bangalore Days (2014)
 http://watchindia.net:8880/movie/54739/54739/1112.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vikramadithyan (2014)
+#EXTINF:-1 group-title="Movies", Vikramadithyan (2014)
 http://watchindia.net:8880/movie/54739/54739/1113.mkv
-#EXTINF:-1 group-title="Channel&Movies", Action Hero Biju (2016)
+#EXTINF:-1 group-title="Movies", Action Hero Biju (2016)
 http://watchindia.net:8880/movie/54739/54739/1114.mkv
-#EXTINF:-1 group-title="Channel&Movies", Tiyaan (2017)
+#EXTINF:-1 group-title="Movies", Tiyaan (2017)
 http://watchindia.net:8880/movie/54739/54739/1115.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ustad Hotel (2012)
+#EXTINF:-1 group-title="Movies", Ustad Hotel (2012)
 http://watchindia.net:8880/movie/54739/54739/1116.mkv
-#EXTINF:-1 group-title="Channel&Movies", Charlie (2015)
+#EXTINF:-1 group-title="Movies", Charlie (2015)
 http://watchindia.net:8880/movie/54739/54739/1117.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pathinettam Padi (2019)
+#EXTINF:-1 group-title="Movies", Pathinettam Padi (2019)
 http://watchindia.net:8880/movie/54739/54739/1118.mkv
-#EXTINF:-1 group-title="Channel&Movies", Casanovva (2012)
+#EXTINF:-1 group-title="Movies", Casanovva (2012)
 http://watchindia.net:8880/movie/54739/54739/1119.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pokkiri Raja (2010)
+#EXTINF:-1 group-title="Movies", Pokkiri Raja (2010)
 http://watchindia.net:8880/movie/54739/54739/1120.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thoppil Joppan (2016)
+#EXTINF:-1 group-title="Movies", Thoppil Joppan (2016)
 http://watchindia.net:8880/movie/54739/54739/1121.mkv
-#EXTINF:-1 group-title="Channel&Movies", Friday (2012)
+#EXTINF:-1 group-title="Movies", Friday (2012)
 http://watchindia.net:8880/movie/54739/54739/1108.mkv
-#EXTINF:-1 group-title="Channel&Movies", Neram (2013)
+#EXTINF:-1 group-title="Movies", Neram (2013)
 http://watchindia.net:8880/movie/54739/54739/1123.mkv
-#EXTINF:-1 group-title="Channel&Movies", Njaan (2014)
+#EXTINF:-1 group-title="Movies", Njaan (2014)
 http://watchindia.net:8880/movie/54739/54739/1124.mkv
-#EXTINF:-1 group-title="Channel&Movies", Salalah Mobiles (2014)
+#EXTINF:-1 group-title="Movies", Salalah Mobiles (2014)
 http://watchindia.net:8880/movie/54739/54739/1125.mkv
-#EXTINF:-1 group-title="Channel&Movies", Neelakasham Pachakadal Chuvanna Bhoomi (2013)
+#EXTINF:-1 group-title="Movies", Neelakasham Pachakadal Chuvanna Bhoomi (2013)
 http://watchindia.net:8880/movie/54739/54739/1126.mkv
-#EXTINF:-1 group-title="Channel&Movies", Second Show (2012)
+#EXTINF:-1 group-title="Movies", Second Show (2012)
 http://watchindia.net:8880/movie/54739/54739/1127.avi
-#EXTINF:-1 group-title="Channel&Movies", Pattam Pole (2013)
+#EXTINF:-1 group-title="Movies", Pattam Pole (2013)
 http://watchindia.net:8880/movie/54739/54739/1128.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kali (2016)
+#EXTINF:-1 group-title="Movies", Kali (2016)
 http://watchindia.net:8880/movie/54739/54739/1129.mkv
-#EXTINF:-1 group-title="Channel&Movies", Theevram (2012)
+#EXTINF:-1 group-title="Movies", Theevram (2012)
 http://watchindia.net:8880/movie/54739/54739/1130.mp4
-#EXTINF:-1 group-title="Channel&Movies", 100 Days Of Love (2015)
+#EXTINF:-1 group-title="Movies", 100 Days Of Love (2015)
 http://watchindia.net:8880/movie/54739/54739/1131.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vaayai Moodi Pesavum (2014)
+#EXTINF:-1 group-title="Movies", Vaayai Moodi Pesavum (2014)
 http://watchindia.net:8880/movie/54739/54739/1132.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chola (2019)
+#EXTINF:-1 group-title="Movies", Chola (2019)
 http://watchindia.net:8880/movie/54739/54739/1134.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vikruthi (2019)
+#EXTINF:-1 group-title="Movies", Vikruthi (2019)
 http://watchindia.net:8880/movie/54739/54739/1135.mkv
-#EXTINF:-1 group-title="Channel&Movies", Munthiri Monchan (2019)
+#EXTINF:-1 group-title="Movies", Munthiri Monchan (2019)
 http://watchindia.net:8880/movie/54739/54739/1136.mkv
-#EXTINF:-1 group-title="Channel&Movies", Prathi Poovankozhi (2019)
+#EXTINF:-1 group-title="Movies", Prathi Poovankozhi (2019)
 http://watchindia.net:8880/movie/54739/54739/1137.mp4
-#EXTINF:-1 group-title="Channel&Movies", Oru Mass Kadha Veendum (2019)
+#EXTINF:-1 group-title="Movies", Oru Mass Kadha Veendum (2019)
 http://watchindia.net:8880/movie/54739/54739/1138.mp4
-#EXTINF:-1 group-title="Channel&Movies", Angu Vaikuntapurathu (2020)
+#EXTINF:-1 group-title="Movies", Angu Vaikuntapurathu (2020)
 http://watchindia.net:8880/movie/54739/54739/1139.mkv
-#EXTINF:-1 group-title="Channel&Movies", Raatchasi (2019)
+#EXTINF:-1 group-title="Movies", Raatchasi (2019)
 http://watchindia.net:8880/movie/54739/54739/1140.mkv
-#EXTINF:-1 group-title="Channel&Movies", The Gambinos (2019)
+#EXTINF:-1 group-title="Movies", The Gambinos (2019)
 http://watchindia.net:8880/movie/54739/54739/1141.mkv
-#EXTINF:-1 group-title="Channel&Movies", Driving Licence (2019)
+#EXTINF:-1 group-title="Movies", Driving Licence (2019)
 http://watchindia.net:8880/movie/54739/54739/1142.mkv
-#EXTINF:-1 group-title="Channel&Movies", Edakkad Battalion 06 (2019)
+#EXTINF:-1 group-title="Movies", Edakkad Battalion 06 (2019)
 http://watchindia.net:8880/movie/54739/54739/1143.mp4
-#EXTINF:-1 group-title="Channel&Movies", Porinju Mariyam Jose (2019)
+#EXTINF:-1 group-title="Movies", Porinju Mariyam Jose (2019)
 http://watchindia.net:8880/movie/54739/54739/1144.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kaappaan (2019)
+#EXTINF:-1 group-title="Movies", Kaappaan (2019)
 http://watchindia.net:8880/movie/54739/54739/1145.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kettyolaanu Ente Malakha (2019)
+#EXTINF:-1 group-title="Movies", Kettyolaanu Ente Malakha (2019)
 http://watchindia.net:8880/movie/54739/54739/1146.mkv
-#EXTINF:-1 group-title="Channel&Movies", Safe (2019)
+#EXTINF:-1 group-title="Movies", Safe (2019)
 http://watchindia.net:8880/movie/54739/54739/1147.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kakshi: Amminippilla (2019)
+#EXTINF:-1 group-title="Movies", Kakshi: Amminippilla (2019)
 http://watchindia.net:8880/movie/54739/54739/1148.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aakasha Ganga 2 (2019)
+#EXTINF:-1 group-title="Movies", Aakasha Ganga 2 (2019)
 http://watchindia.net:8880/movie/54739/54739/1149.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kamala (2019)
+#EXTINF:-1 group-title="Movies", Kamala (2019)
 http://watchindia.net:8880/movie/54739/54739/1150.mkv
-#EXTINF:-1 group-title="Channel&Movies", Shubharathri (2019)
+#EXTINF:-1 group-title="Movies", Shubharathri (2019)
 http://watchindia.net:8880/movie/54739/54739/1151.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sachin (2019)
+#EXTINF:-1 group-title="Movies", Sachin (2019)
 http://watchindia.net:8880/movie/54739/54739/1152.mkv
-#EXTINF:-1 group-title="Channel&Movies", Naan Petta Makan (2019)
+#EXTINF:-1 group-title="Movies", Naan Petta Makan (2019)
 http://watchindia.net:8880/movie/54739/54739/1153.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mamangam (2019)
+#EXTINF:-1 group-title="Movies", Mamangam (2019)
 http://watchindia.net:8880/movie/54739/54739/1154.mkv
-#EXTINF:-1 group-title="Channel&Movies", Shibu (2019)
+#EXTINF:-1 group-title="Movies", Shibu (2019)
 http://watchindia.net:8880/movie/54739/54739/1155.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thottappan (2019)
+#EXTINF:-1 group-title="Movies", Thottappan (2019)
 http://watchindia.net:8880/movie/54739/54739/1156.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ulta (2019)
+#EXTINF:-1 group-title="Movies", Ulta (2019)
 http://watchindia.net:8880/movie/54739/54739/1213.mp4
-#EXTINF:-1 group-title="Channel&Movies", Moothon (2019)
+#EXTINF:-1 group-title="Movies", Moothon (2019)
 http://watchindia.net:8880/movie/54739/54739/1215.mkv
-#EXTINF:-1 group-title="Channel&Movies", 41: Nalpathiyonnu (2019)
+#EXTINF:-1 group-title="Movies", 41: Nalpathiyonnu (2019)
 http://watchindia.net:8880/movie/54739/54739/1216.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ganagandharvan (2019)
+#EXTINF:-1 group-title="Movies", Ganagandharvan (2019)
 http://watchindia.net:8880/movie/54739/54739/1217.mkv
-#EXTINF:-1 group-title="Channel&Movies", Manoharam (2019)
+#EXTINF:-1 group-title="Movies", Manoharam (2019)
 http://watchindia.net:8880/movie/54739/54739/1218.mkv
-#EXTINF:-1 group-title="Channel&Movies", Love Action Drama (2019)
+#EXTINF:-1 group-title="Movies", Love Action Drama (2019)
 http://watchindia.net:8880/movie/54739/54739/1219.mkv
-#EXTINF:-1 group-title="Channel&Movies", Under World (2019)
+#EXTINF:-1 group-title="Movies", Under World (2019)
 http://watchindia.net:8880/movie/54739/54739/1220.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kalki (2019)
+#EXTINF:-1 group-title="Movies", Kalki (2019)
 http://watchindia.net:8880/movie/54739/54739/1221.mp4
-#EXTINF:-1 group-title="Channel&Movies", Helen (2019)
+#EXTINF:-1 group-title="Movies", Helen (2019)
 http://watchindia.net:8880/movie/54739/54739/1222.mkv
-#EXTINF:-1 group-title="Channel&Movies", Android Kunjappan Version 5.25 (2019)
+#EXTINF:-1 group-title="Movies", Android Kunjappan Version 5.25 (2019)
 http://watchindia.net:8880/movie/54739/54739/1223.mkv
-#EXTINF:-1 group-title="Channel&Movies",  Aadya Rathri (2019)
+#EXTINF:-1 group-title="Movies",  Aadya Rathri (2019)
 http://watchindia.net:8880/movie/54739/54739/1224.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sullu (2019)
+#EXTINF:-1 group-title="Movies", Sullu (2019)
 http://watchindia.net:8880/movie/54739/54739/1225.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bhayanakam (2018)
+#EXTINF:-1 group-title="Movies", Bhayanakam (2018)
 http://watchindia.net:8880/movie/54739/54739/1226.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mangalathu Vasundhara (2019)
+#EXTINF:-1 group-title="Movies", Mangalathu Vasundhara (2019)
 http://watchindia.net:8880/movie/54739/54739/1228.mkv
-#EXTINF:-1 group-title="Channel&Movies", The Gambler (2019)
+#EXTINF:-1 group-title="Movies", The Gambler (2019)
 http://watchindia.net:8880/movie/54739/54739/1229.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aramm (2017)
+#EXTINF:-1 group-title="Movies", Aramm (2017)
 http://watchindia.net:8880/movie/54739/54739/1230.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pattabhiraman (2019)
+#EXTINF:-1 group-title="Movies", Pattabhiraman (2019)
 http://watchindia.net:8880/movie/54739/54739/1231.mkv
-#EXTINF:-1 group-title="Channel&Movies", Jack & Daniel (2019)
+#EXTINF:-1 group-title="Movies", Jack & Daniel (2019)
 http://watchindia.net:8880/movie/54739/54739/1232.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ottam (2019)
+#EXTINF:-1 group-title="Movies", Ottam (2019)
 http://watchindia.net:8880/movie/54739/54739/1234.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sye Raa Narasimha Reddy (2019)
+#EXTINF:-1 group-title="Movies", Sye Raa Narasimha Reddy (2019)
 http://watchindia.net:8880/movie/54739/54739/1279.mkv
-#EXTINF:-1 group-title="Channel&Movies", Margamkali (2019)
+#EXTINF:-1 group-title="Movies", Margamkali (2019)
 http://watchindia.net:8880/movie/54739/54739/1280.mkv
-#EXTINF:-1 group-title="Channel&Movies", Maffi Dona (2019)
+#EXTINF:-1 group-title="Movies", Maffi Dona (2019)
 http://watchindia.net:8880/movie/54739/54739/1281.mkv
-#EXTINF:-1 group-title="Channel&Movies", Happy Sardar (2019)
+#EXTINF:-1 group-title="Movies", Happy Sardar (2019)
 http://watchindia.net:8880/movie/54739/54739/1283.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kaly (2018)
+#EXTINF:-1 group-title="Movies", Kaly (2018)
 http://watchindia.net:8880/movie/54739/54739/1284.mkv
-#EXTINF:-1 group-title="Channel&Movies", Brother's Day (2019)
+#EXTINF:-1 group-title="Movies", Brother's Day (2019)
 http://watchindia.net:8880/movie/54739/54739/1285.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ittymaani: Made In China (2019)
+#EXTINF:-1 group-title="Movies", Ittymaani: Made In China (2019)
 http://watchindia.net:8880/movie/54739/54739/1286.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chilappol Penkutty (2019)
+#EXTINF:-1 group-title="Movies", Chilappol Penkutty (2019)
 http://watchindia.net:8880/movie/54739/54739/1287.mkv
-#EXTINF:-1 group-title="Channel&Movies", Saaho (2019)
+#EXTINF:-1 group-title="Movies", Saaho (2019)
 http://watchindia.net:8880/movie/54739/54739/1288.mkv
-#EXTINF:-1 group-title="Channel&Movies", Children's Park (2019)
+#EXTINF:-1 group-title="Movies", Children's Park (2019)
 http://watchindia.net:8880/movie/54739/54739/1304.mkv
-#EXTINF:-1 group-title="Channel&Movies", Janaadhipan (2019)
+#EXTINF:-1 group-title="Movies", Janaadhipan (2019)
 http://watchindia.net:8880/movie/54739/54739/1305.mkv
-#EXTINF:-1 group-title="Channel&Movies", Oru Kuprasidha Payyan (2018)
+#EXTINF:-1 group-title="Movies", Oru Kuprasidha Payyan (2018)
 http://watchindia.net:8880/movie/54739/54739/1306.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ormma (2019)
+#EXTINF:-1 group-title="Movies", Ormma (2019)
 http://watchindia.net:8880/movie/54739/54739/1308.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kalippu (2019)
+#EXTINF:-1 group-title="Movies", Kalippu (2019)
 http://watchindia.net:8880/movie/54739/54739/1309.mkv
-#EXTINF:-1 group-title="Channel&Movies", Poovalliyum Kunjadum (2019)
+#EXTINF:-1 group-title="Movies", Poovalliyum Kunjadum (2019)
 http://watchindia.net:8880/movie/54739/54739/1310.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pailwaan (2019)
+#EXTINF:-1 group-title="Movies", Pailwaan (2019)
 http://watchindia.net:8880/movie/54739/54739/1311.mkv
-#EXTINF:-1 group-title="Channel&Movies", Premasoothram (2018)
+#EXTINF:-1 group-title="Movies", Premasoothram (2018)
 http://watchindia.net:8880/movie/54739/54739/1312.mkv
-#EXTINF:-1 group-title="Channel&Movies", Jallikattu (2019)
+#EXTINF:-1 group-title="Movies", Jallikattu (2019)
 http://watchindia.net:8880/movie/54739/54739/1313.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thamaasha (2019)
+#EXTINF:-1 group-title="Movies", Thamaasha (2019)
 http://watchindia.net:8880/movie/54739/54739/1317.mkv
-#EXTINF:-1 group-title="Channel&Movies", An International Local Story (2019)
+#EXTINF:-1 group-title="Movies", An International Local Story (2019)
 http://watchindia.net:8880/movie/54739/54739/1318.mp4
-#EXTINF:-1 group-title="Channel&Movies", And The Oscar Goes To... (2019)
+#EXTINF:-1 group-title="Movies", And The Oscar Goes To... (2019)
 http://watchindia.net:8880/movie/54739/54739/1319.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thanneer Mathan Dhinangal (2019)
+#EXTINF:-1 group-title="Movies", Thanneer Mathan Dhinangal (2019)
 http://watchindia.net:8880/movie/54739/54739/1320.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ambili (2019)
+#EXTINF:-1 group-title="Movies", Ambili (2019)
 http://watchindia.net:8880/movie/54739/54739/1321.mkv
-#EXTINF:-1 group-title="Channel&Movies", Oru Yamandan Premakadha (2019)
+#EXTINF:-1 group-title="Movies", Oru Yamandan Premakadha (2019)
 http://watchindia.net:8880/movie/54739/54739/1322.mkv
-#EXTINF:-1 group-title="Channel&Movies", Gauthamante Radham (2020)
+#EXTINF:-1 group-title="Movies", Gauthamante Radham (2020)
 http://watchindia.net:8880/movie/54739/54739/1323.mkv
-#EXTINF:-1 group-title="Channel&Movies", Irupathiyonnaam Noottaandu (2019)
+#EXTINF:-1 group-title="Movies", Irupathiyonnaam Noottaandu (2019)
 http://watchindia.net:8880/movie/54739/54739/1325.mkv
-#EXTINF:-1 group-title="Channel&Movies", Veer-Zaara (2004)
+#EXTINF:-1 group-title="Movies", Veer-Zaara (2004)
 http://watchindia.net:8880/movie/54739/54739/1386.mkv
-#EXTINF:-1 group-title="Channel&Movies", Raees (2017)
+#EXTINF:-1 group-title="Movies", Raees (2017)
 http://watchindia.net:8880/movie/54739/54739/1387.mkv
-#EXTINF:-1 group-title="Channel&Movies", Main Hoon Na (2004)
+#EXTINF:-1 group-title="Movies", Main Hoon Na (2004)
 http://watchindia.net:8880/movie/54739/54739/1388.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bhoothnath (2008)
+#EXTINF:-1 group-title="Movies", Bhoothnath (2008)
 http://watchindia.net:8880/movie/54739/54739/1389.mkv
-#EXTINF:-1 group-title="Channel&Movies", Guddu (1995)
+#EXTINF:-1 group-title="Movies", Guddu (1995)
 http://watchindia.net:8880/movie/54739/54739/1390.mkv
-#EXTINF:-1 group-title="Channel&Movies", Heyy Babyy (2007)
+#EXTINF:-1 group-title="Movies", Heyy Babyy (2007)
 http://watchindia.net:8880/movie/54739/54739/1391.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dil Aashna Hai (1992)
+#EXTINF:-1 group-title="Movies", Dil Aashna Hai (1992)
 http://watchindia.net:8880/movie/54739/54739/1392.mp4
-#EXTINF:-1 group-title="Channel&Movies", Swades (2004)
+#EXTINF:-1 group-title="Movies", Swades (2004)
 http://watchindia.net:8880/movie/54739/54739/1393.mkv
-#EXTINF:-1 group-title="Channel&Movies", Devdas (2002)
+#EXTINF:-1 group-title="Movies", Devdas (2002)
 http://watchindia.net:8880/movie/54739/54739/1394.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kabhi Alvida Naa Kehna (2006)
+#EXTINF:-1 group-title="Movies", Kabhi Alvida Naa Kehna (2006)
 http://watchindia.net:8880/movie/54739/54739/1395.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chamatkar (1992)
+#EXTINF:-1 group-title="Movies", Chamatkar (1992)
 http://watchindia.net:8880/movie/54739/54739/1396.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kabhi Haan Kabhi Naa (1994)
+#EXTINF:-1 group-title="Movies", Kabhi Haan Kabhi Naa (1994)
 http://watchindia.net:8880/movie/54739/54739/1397.mkv
-#EXTINF:-1 group-title="Channel&Movies", Deewana (1992)
+#EXTINF:-1 group-title="Movies", Deewana (1992)
 http://watchindia.net:8880/movie/54739/54739/1398.mkv
-#EXTINF:-1 group-title="Channel&Movies", Jab Harry Met Sejal (2017)
+#EXTINF:-1 group-title="Movies", Jab Harry Met Sejal (2017)
 http://watchindia.net:8880/movie/54739/54739/1399.mkv
-#EXTINF:-1 group-title="Channel&Movies", Duplicate (1998)
+#EXTINF:-1 group-title="Movies", Duplicate (1998)
 http://watchindia.net:8880/movie/54739/54739/1400.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kabhi Khushi Kabhie Gham (2001)
+#EXTINF:-1 group-title="Movies", Kabhi Khushi Kabhie Gham (2001)
 http://watchindia.net:8880/movie/54739/54739/1401.mkv
-#EXTINF:-1 group-title="Channel&Movies", Om Shanti Om (2007)
+#EXTINF:-1 group-title="Movies", Om Shanti Om (2007)
 http://watchindia.net:8880/movie/54739/54739/1402.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chaahat (1996)
+#EXTINF:-1 group-title="Movies", Chaahat (1996)
 http://watchindia.net:8880/movie/54739/54739/1403.mkv
-#EXTINF:-1 group-title="Channel&Movies", Raju Ban Gaya Gentleman (1992)
+#EXTINF:-1 group-title="Movies", Raju Ban Gaya Gentleman (1992)
 http://watchindia.net:8880/movie/54739/54739/1404.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ram Jaane (1995)
+#EXTINF:-1 group-title="Movies", Ram Jaane (1995)
 http://watchindia.net:8880/movie/54739/54739/1405.mp4
-#EXTINF:-1 group-title="Channel&Movies", Baazigar (1993)
+#EXTINF:-1 group-title="Movies", Baazigar (1993)
 http://watchindia.net:8880/movie/54739/54739/1406.mkv
-#EXTINF:-1 group-title="Channel&Movies", Baadshah (1999)
+#EXTINF:-1 group-title="Movies", Baadshah (1999)
 http://watchindia.net:8880/movie/54739/54739/1407.mkv
-#EXTINF:-1 group-title="Channel&Movies", One 2 Ka 4 (2001)
+#EXTINF:-1 group-title="Movies", One 2 Ka 4 (2001)
 http://watchindia.net:8880/movie/54739/54739/1408.mp4
-#EXTINF:-1 group-title="Channel&Movies", Kuch Kuch Hota Hai (1998)
+#EXTINF:-1 group-title="Movies", Kuch Kuch Hota Hai (1998)
 http://watchindia.net:8880/movie/54739/54739/1409.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aśoka (2001)
+#EXTINF:-1 group-title="Movies", Aśoka (2001)
 http://watchindia.net:8880/movie/54739/54739/1410.mkv
-#EXTINF:-1 group-title="Channel&Movies", King Uncle (1993)
+#EXTINF:-1 group-title="Movies", King Uncle (1993)
 http://watchindia.net:8880/movie/54739/54739/1411.mkv
-#EXTINF:-1 group-title="Channel&Movies", Fan (2016)
+#EXTINF:-1 group-title="Movies", Fan (2016)
 http://watchindia.net:8880/movie/54739/54739/1412.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chalte Chalte (2003)
+#EXTINF:-1 group-title="Movies", Chalte Chalte (2003)
 http://watchindia.net:8880/movie/54739/54739/1413.mkv
-#EXTINF:-1 group-title="Channel&Movies", Trimurti (1995)
+#EXTINF:-1 group-title="Movies", Trimurti (1995)
 http://watchindia.net:8880/movie/54739/54739/1414.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kal Ho Naa Ho (2003)
+#EXTINF:-1 group-title="Movies", Kal Ho Naa Ho (2003)
 http://watchindia.net:8880/movie/54739/54739/1415.mkv
-#EXTINF:-1 group-title="Channel&Movies", Happy New Year (2014)
+#EXTINF:-1 group-title="Movies", Happy New Year (2014)
 http://watchindia.net:8880/movie/54739/54739/1416.mkv
-#EXTINF:-1 group-title="Channel&Movies", Hey Ram (2000)
+#EXTINF:-1 group-title="Movies", Hey Ram (2000)
 http://watchindia.net:8880/movie/54739/54739/1417.mkv
-#EXTINF:-1 group-title="Channel&Movies", Darr (1993)
+#EXTINF:-1 group-title="Movies", Darr (1993)
 http://watchindia.net:8880/movie/54739/54739/1418.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mohabbatein (2000)
+#EXTINF:-1 group-title="Movies", Mohabbatein (2000)
 http://watchindia.net:8880/movie/54739/54739/1419.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pardes (1997)
+#EXTINF:-1 group-title="Movies", Pardes (1997)
 http://watchindia.net:8880/movie/54739/54739/1420.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dil To Pagal Hai (1997)
+#EXTINF:-1 group-title="Movies", Dil To Pagal Hai (1997)
 http://watchindia.net:8880/movie/54739/54739/1421.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dil Se.. (1998)
+#EXTINF:-1 group-title="Movies", Dil Se.. (1998)
 http://watchindia.net:8880/movie/54739/54739/1422.mkv
-#EXTINF:-1 group-title="Channel&Movies", Yes Boss (1997)
+#EXTINF:-1 group-title="Movies", Yes Boss (1997)
 http://watchindia.net:8880/movie/54739/54739/1423.mp4
-#EXTINF:-1 group-title="Channel&Movies", Chennai Express (2013)
+#EXTINF:-1 group-title="Movies", Chennai Express (2013)
 http://watchindia.net:8880/movie/54739/54739/1424.mkv
-#EXTINF:-1 group-title="Channel&Movies", Rab Ne Bana Di Jodi (2008)
+#EXTINF:-1 group-title="Movies", Rab Ne Bana Di Jodi (2008)
 http://watchindia.net:8880/movie/54739/54739/1425.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dulha Mil Gaya (2010)
+#EXTINF:-1 group-title="Movies", Dulha Mil Gaya (2010)
 http://watchindia.net:8880/movie/54739/54739/1426.mkv
-#EXTINF:-1 group-title="Channel&Movies", Oh Darling! Yeh Hai India! (1995)
+#EXTINF:-1 group-title="Movies", Oh Darling! Yeh Hai India! (1995)
 http://watchindia.net:8880/movie/54739/54739/1427.mkv
-#EXTINF:-1 group-title="Channel&Movies", Don 2 (2011)
+#EXTINF:-1 group-title="Movies", Don 2 (2011)
 http://watchindia.net:8880/movie/54739/54739/1428.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dear Zindagi (2016)
+#EXTINF:-1 group-title="Movies", Dear Zindagi (2016)
 http://watchindia.net:8880/movie/54739/54739/1429.mkv
-#EXTINF:-1 group-title="Channel&Movies", Koyla (1997)
+#EXTINF:-1 group-title="Movies", Koyla (1997)
 http://watchindia.net:8880/movie/54739/54739/1430.mkv
-#EXTINF:-1 group-title="Channel&Movies", Phir Bhi Dil Hai Hindustani (2000)
+#EXTINF:-1 group-title="Movies", Phir Bhi Dil Hai Hindustani (2000)
 http://watchindia.net:8880/movie/54739/54739/1431.mkv
-#EXTINF:-1 group-title="Channel&Movies", Anjaam (1994)
+#EXTINF:-1 group-title="Movies", Anjaam (1994)
 http://watchindia.net:8880/movie/54739/54739/1432.mkv
-#EXTINF:-1 group-title="Channel&Movies", Shakti: The Power (2002)
+#EXTINF:-1 group-title="Movies", Shakti: The Power (2002)
 http://watchindia.net:8880/movie/54739/54739/1433.mkv
-#EXTINF:-1 group-title="Channel&Movies", Karan Arjun (1995)
+#EXTINF:-1 group-title="Movies", Karan Arjun (1995)
 http://watchindia.net:8880/movie/54739/54739/1434.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ra.One (2011)
+#EXTINF:-1 group-title="Movies", Ra.One (2011)
 http://watchindia.net:8880/movie/54739/54739/1435.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dilwale (2015)
+#EXTINF:-1 group-title="Movies", Dilwale (2015)
 http://watchindia.net:8880/movie/54739/54739/1436.mkv
-#EXTINF:-1 group-title="Channel&Movies", Jab Tak Hai Jaan (2012)
+#EXTINF:-1 group-title="Movies", Jab Tak Hai Jaan (2012)
 http://watchindia.net:8880/movie/54739/54739/1437.mkv
-#EXTINF:-1 group-title="Channel&Movies", My Name Is Khan (2010)
+#EXTINF:-1 group-title="Movies", My Name Is Khan (2010)
 http://watchindia.net:8880/movie/54739/54739/1438.mkv
-#EXTINF:-1 group-title="Channel&Movies", Hum Tumhare Hain Sanam (2002)
+#EXTINF:-1 group-title="Movies", Hum Tumhare Hain Sanam (2002)
 http://watchindia.net:8880/movie/54739/54739/1439.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dilwale Dulhania Le Jayenge (1995)
+#EXTINF:-1 group-title="Movies", Dilwale Dulhania Le Jayenge (1995)
 http://watchindia.net:8880/movie/54739/54739/1440.mkv
-#EXTINF:-1 group-title="Channel&Movies", Maya Memsaab (1993)
+#EXTINF:-1 group-title="Movies", Maya Memsaab (1993)
 http://watchindia.net:8880/movie/54739/54739/1441.mkv
-#EXTINF:-1 group-title="Channel&Movies", Yeh Lamhe Judaai Ke (2004)
+#EXTINF:-1 group-title="Movies", Yeh Lamhe Judaai Ke (2004)
 http://watchindia.net:8880/movie/54739/54739/1442.mkv
-#EXTINF:-1 group-title="Channel&Movies", Paheli (2005)
+#EXTINF:-1 group-title="Movies", Paheli (2005)
 http://watchindia.net:8880/movie/54739/54739/1443.mkv
-#EXTINF:-1 group-title="Channel&Movies", Zamaana Deewana (1995)
+#EXTINF:-1 group-title="Movies", Zamaana Deewana (1995)
 http://watchindia.net:8880/movie/54739/54739/1444.mp4
-#EXTINF:-1 group-title="Channel&Movies", English Babu Desi Mem (1996)
+#EXTINF:-1 group-title="Movies", English Babu Desi Mem (1996)
 http://watchindia.net:8880/movie/54739/54739/1445.mkv
-#EXTINF:-1 group-title="Channel&Movies", Munnariyippu (2014)
+#EXTINF:-1 group-title="Movies", Munnariyippu (2014)
 http://watchindia.net:8880/movie/54739/54739/1446.mkv
-#EXTINF:-1 group-title="Channel&Movies", Loudspeaker (2009)
+#EXTINF:-1 group-title="Movies", Loudspeaker (2009)
 http://watchindia.net:8880/movie/54739/54739/1447.mp4
-#EXTINF:-1 group-title="Channel&Movies", Vesham (2004)
+#EXTINF:-1 group-title="Movies", Vesham (2004)
 http://watchindia.net:8880/movie/54739/54739/1448.mkv
-#EXTINF:-1 group-title="Channel&Movies", Utopiayile Rajavu (2015)
+#EXTINF:-1 group-title="Movies", Utopiayile Rajavu (2015)
 http://watchindia.net:8880/movie/54739/54739/1449.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kunjananthante Kada (2013)
+#EXTINF:-1 group-title="Movies", Kunjananthante Kada (2013)
 http://watchindia.net:8880/movie/54739/54739/1450.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mayavi (2007)
+#EXTINF:-1 group-title="Movies", Mayavi (2007)
 http://watchindia.net:8880/movie/54739/54739/1451.avi
-#EXTINF:-1 group-title="Channel&Movies", Balyakalasakhi (2014)
+#EXTINF:-1 group-title="Movies", Balyakalasakhi (2014)
 http://watchindia.net:8880/movie/54739/54739/1452.avi
-#EXTINF:-1 group-title="Channel&Movies", Yugapurushan (2010)
+#EXTINF:-1 group-title="Movies", Yugapurushan (2010)
 http://watchindia.net:8880/movie/54739/54739/1453.mp4
-#EXTINF:-1 group-title="Channel&Movies", Manglish (2014)
+#EXTINF:-1 group-title="Movies", Manglish (2014)
 http://watchindia.net:8880/movie/54739/54739/1454.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pranchiyettan & The Saint (2010)
+#EXTINF:-1 group-title="Movies", Pranchiyettan & The Saint (2010)
 http://watchindia.net:8880/movie/54739/54739/1455.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chattambinadu (2009)
+#EXTINF:-1 group-title="Movies", Chattambinadu (2009)
 http://watchindia.net:8880/movie/54739/54739/1456.mp4
-#EXTINF:-1 group-title="Channel&Movies", Chronic Bachelor (2003)
+#EXTINF:-1 group-title="Movies", Chronic Bachelor (2003)
 http://watchindia.net:8880/movie/54739/54739/1457.avi
-#EXTINF:-1 group-title="Channel&Movies", Dada Sahib (2000)
+#EXTINF:-1 group-title="Movies", Dada Sahib (2000)
 http://watchindia.net:8880/movie/54739/54739/1458.mp4
-#EXTINF:-1 group-title="Channel&Movies", Pathemari (2015)
+#EXTINF:-1 group-title="Movies", Pathemari (2015)
 http://watchindia.net:8880/movie/54739/54739/1459.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kaiyoppu (2007)
+#EXTINF:-1 group-title="Movies", Kaiyoppu (2007)
 http://watchindia.net:8880/movie/54739/54739/1460.mkv
-#EXTINF:-1 group-title="Channel&Movies", Love in Singapore (2009)
+#EXTINF:-1 group-title="Movies", Love in Singapore (2009)
 http://watchindia.net:8880/movie/54739/54739/1461.avi
-#EXTINF:-1 group-title="Channel&Movies", Thappana (2012)
+#EXTINF:-1 group-title="Movies", Thappana (2012)
 http://watchindia.net:8880/movie/54739/54739/1462.mkv
-#EXTINF:-1 group-title="Channel&Movies", Best of Luck (2010)
+#EXTINF:-1 group-title="Movies", Best of Luck (2010)
 http://watchindia.net:8880/movie/54739/54739/1463.mp4
-#EXTINF:-1 group-title="Channel&Movies", Varsham (2014)
+#EXTINF:-1 group-title="Movies", Varsham (2014)
 http://watchindia.net:8880/movie/54739/54739/1464.mkv
-#EXTINF:-1 group-title="Channel&Movies", Acha Dhin (2015)
+#EXTINF:-1 group-title="Movies", Acha Dhin (2015)
 http://watchindia.net:8880/movie/54739/54739/1465.mkv
-#EXTINF:-1 group-title="Channel&Movies", Roudram (2008)
+#EXTINF:-1 group-title="Movies", Roudram (2008)
 http://watchindia.net:8880/movie/54739/54739/1466.avi
-#EXTINF:-1 group-title="Channel&Movies", Praise the Lord (2014)
+#EXTINF:-1 group-title="Movies", Praise the Lord (2014)
 http://watchindia.net:8880/movie/54739/54739/1467.mkv
-#EXTINF:-1 group-title="Channel&Movies", Immanuel (2013)
+#EXTINF:-1 group-title="Movies", Immanuel (2013)
 http://watchindia.net:8880/movie/54739/54739/1468.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bombay March 12 (2011)
+#EXTINF:-1 group-title="Movies", Bombay March 12 (2011)
 http://watchindia.net:8880/movie/54739/54739/1470.mkv
-#EXTINF:-1 group-title="Channel&Movies", Parunthu (2008)
+#EXTINF:-1 group-title="Movies", Parunthu (2008)
 http://watchindia.net:8880/movie/54739/54739/1471.mp4
-#EXTINF:-1 group-title="Channel&Movies", Karutha Pakshikal (2006)
+#EXTINF:-1 group-title="Movies", Karutha Pakshikal (2006)
 http://watchindia.net:8880/movie/54739/54739/1472.mp4
-#EXTINF:-1 group-title="Channel&Movies", Daivathinte Swantham Cleetus (2013)
+#EXTINF:-1 group-title="Movies", Daivathinte Swantham Cleetus (2013)
 http://watchindia.net:8880/movie/54739/54739/1473.mkv
-#EXTINF:-1 group-title="Channel&Movies", Venicile Vyapari (2011)
+#EXTINF:-1 group-title="Movies", Venicile Vyapari (2011)
 http://watchindia.net:8880/movie/54739/54739/1474.mp4
-#EXTINF:-1 group-title="Channel&Movies", Daddy Cool (2009)
+#EXTINF:-1 group-title="Movies", Daddy Cool (2009)
 http://watchindia.net:8880/movie/54739/54739/1475.mp4
-#EXTINF:-1 group-title="Channel&Movies", Ee Pattanathil Bhootham (2009)
+#EXTINF:-1 group-title="Movies", Ee Pattanathil Bhootham (2009)
 http://watchindia.net:8880/movie/54739/54739/1476.avi
-#EXTINF:-1 group-title="Channel&Movies", Bhaskar The Rascal (2015)
+#EXTINF:-1 group-title="Movies", Bhaskar The Rascal (2015)
 http://watchindia.net:8880/movie/54739/54739/1477.mkv
-#EXTINF:-1 group-title="Channel&Movies", Silence (2013)
+#EXTINF:-1 group-title="Movies", Silence (2013)
 http://watchindia.net:8880/movie/54739/54739/1478.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mission 90 Days (2007)
+#EXTINF:-1 group-title="Movies", Mission 90 Days (2007)
 http://watchindia.net:8880/movie/54739/54739/1479.avi
-#EXTINF:-1 group-title="Channel&Movies", Jawan of Vellimala (2012)
+#EXTINF:-1 group-title="Movies", Jawan of Vellimala (2012)
 http://watchindia.net:8880/movie/54739/54739/1480.avi
-#EXTINF:-1 group-title="Channel&Movies", Face 2 Face (2012)
+#EXTINF:-1 group-title="Movies", Face 2 Face (2012)
 http://watchindia.net:8880/movie/54739/54739/1481.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kutty Srank (2010)
+#EXTINF:-1 group-title="Movies", Kutty Srank (2010)
 http://watchindia.net:8880/movie/54739/54739/1482.avi
-#EXTINF:-1 group-title="Channel&Movies", Oh! Baby (2019)
+#EXTINF:-1 group-title="Movies", Oh! Baby (2019)
 http://watchindia.net:8880/movie/54739/54739/1483.mkv
-#EXTINF:-1 group-title="Channel&Movies", Who (2018)
+#EXTINF:-1 group-title="Movies", Who (2018)
 http://watchindia.net:8880/movie/54739/54739/1484.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mathai Kuzhappakkaranalla (2014)
+#EXTINF:-1 group-title="Movies", Mathai Kuzhappakkaranalla (2014)
 http://watchindia.net:8880/movie/54739/54739/1631.mkv
-#EXTINF:-1 group-title="Channel&Movies", Philips and the Monkey Pen (2013)
+#EXTINF:-1 group-title="Movies", Philips and the Monkey Pen (2013)
 http://watchindia.net:8880/movie/54739/54739/1632.mkv
-#EXTINF:-1 group-title="Channel&Movies", Amar Akbar Anthony (2015)
+#EXTINF:-1 group-title="Movies", Amar Akbar Anthony (2015)
 http://watchindia.net:8880/movie/54739/54739/1633.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aamayum Muyalum (2014)
+#EXTINF:-1 group-title="Movies", Aamayum Muyalum (2014)
 http://watchindia.net:8880/movie/54739/54739/1634.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mumbai Police (2013)
+#EXTINF:-1 group-title="Movies", Mumbai Police (2013)
 http://watchindia.net:8880/movie/54739/54739/1635.mkv
-#EXTINF:-1 group-title="Channel&Movies", School Bus (2016)
+#EXTINF:-1 group-title="Movies", School Bus (2016)
 http://watchindia.net:8880/movie/54739/54739/1636.mkv
-#EXTINF:-1 group-title="Channel&Movies", Blood and Chocolate (2007)
+#EXTINF:-1 group-title="Movies", Blood and Chocolate (2007)
 http://watchindia.net:8880/movie/54739/54739/1637.mp4
-#EXTINF:-1 group-title="Channel&Movies", Patham Nilayile Theevandi (2009)
+#EXTINF:-1 group-title="Movies", Patham Nilayile Theevandi (2009)
 http://watchindia.net:8880/movie/54739/54739/1638.mp4
-#EXTINF:-1 group-title="Channel&Movies", Trivandrum Lodge (2012)
+#EXTINF:-1 group-title="Movies", Trivandrum Lodge (2012)
 http://watchindia.net:8880/movie/54739/54739/1639.mkv
-#EXTINF:-1 group-title="Channel&Movies", Su.. Su... Sudhi Vathmeekam (2015)
+#EXTINF:-1 group-title="Movies", Su.. Su... Sudhi Vathmeekam (2015)
 http://watchindia.net:8880/movie/54739/54739/1640.mkv
-#EXTINF:-1 group-title="Channel&Movies", Lal Bahadur Shastri (2014)
+#EXTINF:-1 group-title="Movies", Lal Bahadur Shastri (2014)
 http://watchindia.net:8880/movie/54739/54739/1641.mp4
-#EXTINF:-1 group-title="Channel&Movies", Nallavan (2010)
+#EXTINF:-1 group-title="Movies", Nallavan (2010)
 http://watchindia.net:8880/movie/54739/54739/1642.mp4
-#EXTINF:-1 group-title="Channel&Movies", IDI: Inspector Dawood Ibrahim (2016)
+#EXTINF:-1 group-title="Movies", IDI: Inspector Dawood Ibrahim (2016)
 http://watchindia.net:8880/movie/54739/54739/1643.mkv
-#EXTINF:-1 group-title="Channel&Movies", Lukka Chuppi (2015)
+#EXTINF:-1 group-title="Movies", Lukka Chuppi (2015)
 http://watchindia.net:8880/movie/54739/54739/1644.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ivar Vivahitharayal...? (2009)
+#EXTINF:-1 group-title="Movies", Ivar Vivahitharayal...? (2009)
 http://watchindia.net:8880/movie/54739/54739/1645.mkv
-#EXTINF:-1 group-title="Channel&Movies", 101 Weddings (2012)
+#EXTINF:-1 group-title="Movies", 101 Weddings (2012)
 http://watchindia.net:8880/movie/54739/54739/1646.mkv
-#EXTINF:-1 group-title="Channel&Movies", De Maveli Kombathu (2011)
+#EXTINF:-1 group-title="Movies", De Maveli Kombathu (2011)
 http://watchindia.net:8880/movie/54739/54739/1647.mkv
-#EXTINF:-1 group-title="Channel&Movies", Poppins (2012)
+#EXTINF:-1 group-title="Movies", Poppins (2012)
 http://watchindia.net:8880/movie/54739/54739/1648.mkv
-#EXTINF:-1 group-title="Channel&Movies", Four Friends (2010)
+#EXTINF:-1 group-title="Movies", Four Friends (2010)
 http://watchindia.net:8880/movie/54739/54739/1649.mp4
-#EXTINF:-1 group-title="Channel&Movies", Kumbasaram (2015)
+#EXTINF:-1 group-title="Movies", Kumbasaram (2015)
 http://watchindia.net:8880/movie/54739/54739/1650.mkv
-#EXTINF:-1 group-title="Channel&Movies", Payyans (2011)
+#EXTINF:-1 group-title="Movies", Payyans (2011)
 http://watchindia.net:8880/movie/54739/54739/1651.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vadhiyar (2012)
+#EXTINF:-1 group-title="Movies", Vadhiyar (2012)
 http://watchindia.net:8880/movie/54739/54739/1652.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pretham (2016)
+#EXTINF:-1 group-title="Movies", Pretham (2016)
 http://watchindia.net:8880/movie/54739/54739/1653.mkv
-#EXTINF:-1 group-title="Channel&Movies", Players (2012)
+#EXTINF:-1 group-title="Movies", Players (2012)
 http://watchindia.net:8880/movie/54739/54739/1654.mkv
-#EXTINF:-1 group-title="Channel&Movies", English: An Autumn in London (2012)
+#EXTINF:-1 group-title="Movies", English: An Autumn in London (2012)
 http://watchindia.net:8880/movie/54739/54739/1655.mkv
-#EXTINF:-1 group-title="Channel&Movies", Minnaminnikoottam (2008)
+#EXTINF:-1 group-title="Movies", Minnaminnikoottam (2008)
 http://watchindia.net:8880/movie/54739/54739/1656.mp4
-#EXTINF:-1 group-title="Channel&Movies", Seconds (2014)
+#EXTINF:-1 group-title="Movies", Seconds (2014)
 http://watchindia.net:8880/movie/54739/54739/1657.mkv
-#EXTINF:-1 group-title="Channel&Movies", Beautiful (2011)
+#EXTINF:-1 group-title="Movies", Beautiful (2011)
 http://watchindia.net:8880/movie/54739/54739/1658.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aadu (2015)
+#EXTINF:-1 group-title="Movies", Aadu (2015)
 http://watchindia.net:8880/movie/54739/54739/1659.mkv
-#EXTINF:-1 group-title="Channel&Movies", Apothecary (2014)
+#EXTINF:-1 group-title="Movies", Apothecary (2014)
 http://watchindia.net:8880/movie/54739/54739/1660.mp4
-#EXTINF:-1 group-title="Channel&Movies", Jilebi (2015)
+#EXTINF:-1 group-title="Movies", Jilebi (2015)
 http://watchindia.net:8880/movie/54739/54739/1661.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pigman (2013)
+#EXTINF:-1 group-title="Movies", Pigman (2013)
 http://watchindia.net:8880/movie/54739/54739/1662.mp4
-#EXTINF:-1 group-title="Channel&Movies", Iyobinte Pusthakam (2014)
+#EXTINF:-1 group-title="Movies", Iyobinte Pusthakam (2014)
 http://watchindia.net:8880/movie/54739/54739/1663.mkv
-#EXTINF:-1 group-title="Channel&Movies", David and Goliath (2013)
+#EXTINF:-1 group-title="Movies", David and Goliath (2013)
 http://watchindia.net:8880/movie/54739/54739/1664.mkv
-#EXTINF:-1 group-title="Channel&Movies", Punyalan Agarbattis (2013)
+#EXTINF:-1 group-title="Movies", Punyalan Agarbattis (2013)
 http://watchindia.net:8880/movie/54739/54739/1665.mkv
-#EXTINF:-1 group-title="Channel&Movies", Gulumaal: The Escape (2009)
+#EXTINF:-1 group-title="Movies", Gulumaal: The Escape (2009)
 http://watchindia.net:8880/movie/54739/54739/1666.mp4
-#EXTINF:-1 group-title="Channel&Movies", Thank You (2013)
+#EXTINF:-1 group-title="Movies", Thank You (2013)
 http://watchindia.net:8880/movie/54739/54739/1667.mp4
-#EXTINF:-1 group-title="Channel&Movies", Shajahanum Pareekuttiyum (2016)
+#EXTINF:-1 group-title="Movies", Shajahanum Pareekuttiyum (2016)
 http://watchindia.net:8880/movie/54739/54739/1668.mkv
-#EXTINF:-1 group-title="Channel&Movies", Innathe Chintha Vishayam (2008)
+#EXTINF:-1 group-title="Movies", Innathe Chintha Vishayam (2008)
 http://watchindia.net:8880/movie/54739/54739/1669.mp4
-#EXTINF:-1 group-title="Channel&Movies", Angel John (2009)
+#EXTINF:-1 group-title="Movies", Angel John (2009)
 http://watchindia.net:8880/movie/54739/54739/1670.mkv
-#EXTINF:-1 group-title="Channel&Movies", Christian Brothers (2011)
+#EXTINF:-1 group-title="Movies", Christian Brothers (2011)
 http://watchindia.net:8880/movie/54739/54739/1671.mkv
-#EXTINF:-1 group-title="Channel&Movies", Janakan (2010)
+#EXTINF:-1 group-title="Movies", Janakan (2010)
 http://watchindia.net:8880/movie/54739/54739/1672.mp4
-#EXTINF:-1 group-title="Channel&Movies", Alexander The Great (2010)
+#EXTINF:-1 group-title="Movies", Alexander The Great (2010)
 http://watchindia.net:8880/movie/54739/54739/1673.mp4
-#EXTINF:-1 group-title="Channel&Movies", Ennum Eppozhum (2015)
+#EXTINF:-1 group-title="Movies", Ennum Eppozhum (2015)
 http://watchindia.net:8880/movie/54739/54739/1674.mkv
-#EXTINF:-1 group-title="Channel&Movies", Flash (2007)
+#EXTINF:-1 group-title="Movies", Flash (2007)
 http://watchindia.net:8880/movie/54739/54739/1675.mp4
-#EXTINF:-1 group-title="Channel&Movies", Aakasha Gopuram (2008)
+#EXTINF:-1 group-title="Movies", Aakasha Gopuram (2008)
 http://watchindia.net:8880/movie/54739/54739/1677.mp4
-#EXTINF:-1 group-title="Channel&Movies", Achaneyanenikkishtam (2001)
+#EXTINF:-1 group-title="Movies", Achaneyanenikkishtam (2001)
 http://watchindia.net:8880/movie/54739/54739/1678.mp4
-#EXTINF:-1 group-title="Channel&Movies", Paradesi (2007)
+#EXTINF:-1 group-title="Movies", Paradesi (2007)
 http://watchindia.net:8880/movie/54739/54739/1679.mp4
-#EXTINF:-1 group-title="Channel&Movies", Casanovva (2012)
+#EXTINF:-1 group-title="Movies", Casanovva (2012)
 http://watchindia.net:8880/movie/54739/54739/1680.mkv
-#EXTINF:-1 group-title="Channel&Movies", Peruchazhi (2014)
+#EXTINF:-1 group-title="Movies", Peruchazhi (2014)
 http://watchindia.net:8880/movie/54739/54739/1681.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kandahar (2010)
+#EXTINF:-1 group-title="Movies", Kandahar (2010)
 http://watchindia.net:8880/movie/54739/54739/1682.mp4
-#EXTINF:-1 group-title="Channel&Movies", Lailaa O Lailaa (2015)
+#EXTINF:-1 group-title="Movies", Lailaa O Lailaa (2015)
 http://watchindia.net:8880/movie/54739/54739/1683.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sagar Alias Jacky Reloaded (2009)
+#EXTINF:-1 group-title="Movies", Sagar Alias Jacky Reloaded (2009)
 http://watchindia.net:8880/movie/54739/54739/1684.mp4
-#EXTINF:-1 group-title="Channel&Movies", Geethanjali (2013)
+#EXTINF:-1 group-title="Movies", Geethanjali (2013)
 http://watchindia.net:8880/movie/54739/54739/1685.mp4
-#EXTINF:-1 group-title="Channel&Movies", Run Baby Run (2012)
+#EXTINF:-1 group-title="Movies", Run Baby Run (2012)
 http://watchindia.net:8880/movie/54739/54739/1686.mkv
-#EXTINF:-1 group-title="Channel&Movies", Evidam Swargamanu (2009)
+#EXTINF:-1 group-title="Movies", Evidam Swargamanu (2009)
 http://watchindia.net:8880/movie/54739/54739/1687.mp4
-#EXTINF:-1 group-title="Channel&Movies", Chotta Mumbai (2007)
+#EXTINF:-1 group-title="Movies", Chotta Mumbai (2007)
 http://watchindia.net:8880/movie/54739/54739/1688.mkv
-#EXTINF:-1 group-title="Channel&Movies", Alibhai (2007)
+#EXTINF:-1 group-title="Movies", Alibhai (2007)
 http://watchindia.net:8880/movie/54739/54739/1689.mp4
-#EXTINF:-1 group-title="Channel&Movies", Vismayathumbathu (2004)
+#EXTINF:-1 group-title="Movies", Vismayathumbathu (2004)
 http://watchindia.net:8880/movie/54739/54739/1690.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mr. Fraud (2014)
+#EXTINF:-1 group-title="Movies", Mr. Fraud (2014)
 http://watchindia.net:8880/movie/54739/54739/1691.mkv
-#EXTINF:-1 group-title="Channel&Movies", China Town (2011)
+#EXTINF:-1 group-title="Movies", China Town (2011)
 http://watchindia.net:8880/movie/54739/54739/1692.mp4
-#EXTINF:-1 group-title="Channel&Movies", Lokpal (2013)
+#EXTINF:-1 group-title="Movies", Lokpal (2013)
 http://watchindia.net:8880/movie/54739/54739/1693.mkv
-#EXTINF:-1 group-title="Channel&Movies", Naran (2005)
+#EXTINF:-1 group-title="Movies", Naran (2005)
 http://watchindia.net:8880/movie/54739/54739/1694.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kanal (2015)
+#EXTINF:-1 group-title="Movies", Kanal (2015)
 http://watchindia.net:8880/movie/54739/54739/1695.mkv
-#EXTINF:-1 group-title="Channel&Movies", Hello (2007)
+#EXTINF:-1 group-title="Movies", Hello (2007)
 http://watchindia.net:8880/movie/54739/54739/1696.mkv
-#EXTINF:-1 group-title="Channel&Movies", Loham (2015)
+#EXTINF:-1 group-title="Movies", Loham (2015)
 http://watchindia.net:8880/movie/54739/54739/1697.mkv
-#EXTINF:-1 group-title="Channel&Movies", Karmayodha (2012)
+#EXTINF:-1 group-title="Movies", Karmayodha (2012)
 http://watchindia.net:8880/movie/54739/54739/1698.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mizhikal Sakshi (2008)
+#EXTINF:-1 group-title="Movies", Mizhikal Sakshi (2008)
 http://watchindia.net:8880/movie/54739/54739/1699.mp4
-#EXTINF:-1 group-title="Channel&Movies", Engeyum Eppodhum (2011)
+#EXTINF:-1 group-title="Movies", Engeyum Eppodhum (2011)
 http://watchindia.net:8880/movie/54739/54739/1700.mkv
-#EXTINF:-1 group-title="Channel&Movies", Jilla (2014)
+#EXTINF:-1 group-title="Movies", Jilla (2014)
 http://watchindia.net:8880/movie/54739/54739/1701.mkv
-#EXTINF:-1 group-title="Channel&Movies", Billa II (2012)
+#EXTINF:-1 group-title="Movies", Billa II (2012)
 http://watchindia.net:8880/movie/54739/54739/1702.mkv
-#EXTINF:-1 group-title="Channel&Movies", Engeyum Kadhal (2011)
+#EXTINF:-1 group-title="Movies", Engeyum Kadhal (2011)
 http://watchindia.net:8880/movie/54739/54739/1703.mkv
-#EXTINF:-1 group-title="Channel&Movies", Karnan (1964)
+#EXTINF:-1 group-title="Movies", Karnan (1964)
 http://watchindia.net:8880/movie/54739/54739/1704.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kaavalan (2011)
+#EXTINF:-1 group-title="Movies", Kaavalan (2011)
 http://watchindia.net:8880/movie/54739/54739/1705.mkv
-#EXTINF:-1 group-title="Channel&Movies", Angadi Theru (2010)
+#EXTINF:-1 group-title="Movies", Angadi Theru (2010)
 http://watchindia.net:8880/movie/54739/54739/1706.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aadhavan (2009)
+#EXTINF:-1 group-title="Movies", Aadhavan (2009)
 http://watchindia.net:8880/movie/54739/54739/1707.mkv
-#EXTINF:-1 group-title="Channel&Movies", Biriyani (2013)
+#EXTINF:-1 group-title="Movies", Biriyani (2013)
 http://watchindia.net:8880/movie/54739/54739/1708.mkv
-#EXTINF:-1 group-title="Channel&Movies", Singam II (2013)
+#EXTINF:-1 group-title="Movies", Singam II (2013)
 http://watchindia.net:8880/movie/54739/54739/1710.mkv
-#EXTINF:-1 group-title="Channel&Movies", Cuckoo (2014)
+#EXTINF:-1 group-title="Movies", Cuckoo (2014)
 http://watchindia.net:8880/movie/54739/54739/1711.mkv
-#EXTINF:-1 group-title="Channel&Movies", Soodhu Kavvum (2013)
+#EXTINF:-1 group-title="Movies", Soodhu Kavvum (2013)
 http://watchindia.net:8880/movie/54739/54739/1712.mkv
-#EXTINF:-1 group-title="Channel&Movies", Billa (2007)
+#EXTINF:-1 group-title="Movies", Billa (2007)
 http://watchindia.net:8880/movie/54739/54739/1713.mkv
-#EXTINF:-1 group-title="Channel&Movies", Anjaan (2014)
+#EXTINF:-1 group-title="Movies", Anjaan (2014)
 http://watchindia.net:8880/movie/54739/54739/1714.mkv
-#EXTINF:-1 group-title="Channel&Movies", Boss Engira Bhaskaran (2010)
+#EXTINF:-1 group-title="Movies", Boss Engira Bhaskaran (2010)
 http://watchindia.net:8880/movie/54739/54739/1715.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kanthaswamy (2009)
+#EXTINF:-1 group-title="Movies", Kanthaswamy (2009)
 http://watchindia.net:8880/movie/54739/54739/1717.mkv
-#EXTINF:-1 group-title="Channel&Movies", Arinthum Ariyamalum (2005)
+#EXTINF:-1 group-title="Movies", Arinthum Ariyamalum (2005)
 http://watchindia.net:8880/movie/54739/54739/1718.mkv
-#EXTINF:-1 group-title="Channel&Movies", Baasha (1995)
+#EXTINF:-1 group-title="Movies", Baasha (1995)
 http://watchindia.net:8880/movie/54739/54739/1719.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ethir Neechal (2013)
+#EXTINF:-1 group-title="Movies", Ethir Neechal (2013)
 http://watchindia.net:8880/movie/54739/54739/1720.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ko (2011)
+#EXTINF:-1 group-title="Movies", Ko (2011)
 http://watchindia.net:8880/movie/54739/54739/1721.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ghajini (2005)
+#EXTINF:-1 group-title="Movies", Ghajini (2005)
 http://watchindia.net:8880/movie/54739/54739/1725.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chandramukhi (2005)
+#EXTINF:-1 group-title="Movies", Chandramukhi (2005)
 http://watchindia.net:8880/movie/54739/54739/1726.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thalaivaa (2013)
+#EXTINF:-1 group-title="Movies", Thalaivaa (2013)
 http://watchindia.net:8880/movie/54739/54739/1728.mkv
-#EXTINF:-1 group-title="Channel&Movies", Madrasapattinam (2010)
+#EXTINF:-1 group-title="Movies", Madrasapattinam (2010)
 http://watchindia.net:8880/movie/54739/54739/1730.mkv
-#EXTINF:-1 group-title="Channel&Movies", Singam (2010)
+#EXTINF:-1 group-title="Movies", Singam (2010)
 http://watchindia.net:8880/movie/54739/54739/1731.mkv
-#EXTINF:-1 group-title="Channel&Movies", Rhythm (2000)
+#EXTINF:-1 group-title="Movies", Rhythm (2000)
 http://watchindia.net:8880/movie/54739/54739/1732.mkv
-#EXTINF:-1 group-title="Channel&Movies", Yavarum Nalam (2009)
+#EXTINF:-1 group-title="Movies", Yavarum Nalam (2009)
 http://watchindia.net:8880/movie/54739/54739/1733.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kuruvi (2008)
+#EXTINF:-1 group-title="Movies", Kuruvi (2008)
 http://watchindia.net:8880/movie/54739/54739/1735.mkv
-#EXTINF:-1 group-title="Channel&Movies", Villu (2009)
+#EXTINF:-1 group-title="Movies", Villu (2009)
 http://watchindia.net:8880/movie/54739/54739/1736.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mankatha (2011)
+#EXTINF:-1 group-title="Movies", Mankatha (2011)
 http://watchindia.net:8880/movie/54739/54739/1737.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sivaji: The Boss (2007)
+#EXTINF:-1 group-title="Movies", Sivaji: The Boss (2007)
 http://watchindia.net:8880/movie/54739/54739/1738.mkv
-#EXTINF:-1 group-title="Channel&Movies", Raavanan (2010)
+#EXTINF:-1 group-title="Movies", Raavanan (2010)
 http://watchindia.net:8880/movie/54739/54739/1739.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pokkiri (2007)
+#EXTINF:-1 group-title="Movies", Pokkiri (2007)
 http://watchindia.net:8880/movie/54739/54739/1740.mkv
-#EXTINF:-1 group-title="Channel&Movies", Raja Rani (2013)
+#EXTINF:-1 group-title="Movies", Raja Rani (2013)
 http://watchindia.net:8880/movie/54739/54739/1741.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vaanam (2011)
+#EXTINF:-1 group-title="Movies", Vaanam (2011)
 http://watchindia.net:8880/movie/54739/54739/1742.mkv
-#EXTINF:-1 group-title="Channel&Movies", Maattrraan (2012)
+#EXTINF:-1 group-title="Movies", Maattrraan (2012)
 http://watchindia.net:8880/movie/54739/54739/1743.mkv
-#EXTINF:-1 group-title="Channel&Movies", Velayudham (2011)
+#EXTINF:-1 group-title="Movies", Velayudham (2011)
 http://watchindia.net:8880/movie/54739/54739/1744.mkv
-#EXTINF:-1 group-title="Channel&Movies", Naan Sigappu Manithan (2014)
+#EXTINF:-1 group-title="Movies", Naan Sigappu Manithan (2014)
 http://watchindia.net:8880/movie/54739/54739/1745.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thuppakki (2012)
+#EXTINF:-1 group-title="Movies", Thuppakki (2012)
 http://watchindia.net:8880/movie/54739/54739/1746.mkv
-#EXTINF:-1 group-title="Channel&Movies", Paiyaa (2010)
+#EXTINF:-1 group-title="Movies", Paiyaa (2010)
 http://watchindia.net:8880/movie/54739/54739/1747.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vinnaithaandi Varuvaayaa (2010)
+#EXTINF:-1 group-title="Movies", Vinnaithaandi Varuvaayaa (2010)
 http://watchindia.net:8880/movie/54739/54739/1748.mkv
-#EXTINF:-1 group-title="Channel&Movies", Muthu (1995)
+#EXTINF:-1 group-title="Movies", Muthu (1995)
 http://watchindia.net:8880/movie/54739/54739/1749.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ponnar Shankar (2011)
+#EXTINF:-1 group-title="Movies", Ponnar Shankar (2011)
 http://watchindia.net:8880/movie/54739/54739/1750.mkv
-#EXTINF:-1 group-title="Channel&Movies", Naan Mahan Alla (2010)
+#EXTINF:-1 group-title="Movies", Naan Mahan Alla (2010)
 http://watchindia.net:8880/movie/54739/54739/1751.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thiruvilayadal (1965)
+#EXTINF:-1 group-title="Movies", Thiruvilayadal (1965)
 http://watchindia.net:8880/movie/54739/54739/1752.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thaandavam (2012)
+#EXTINF:-1 group-title="Movies", Thaandavam (2012)
 http://watchindia.net:8880/movie/54739/54739/1753.mkv
-#EXTINF:-1 group-title="Channel&Movies", Unnaipol Oruvan (2009)
+#EXTINF:-1 group-title="Movies", Unnaipol Oruvan (2009)
 http://watchindia.net:8880/movie/54739/54739/1754.mkv
-#EXTINF:-1 group-title="Channel&Movies", Naan Ee (2012)
+#EXTINF:-1 group-title="Movies", Naan Ee (2012)
 http://watchindia.net:8880/movie/54739/54739/1755.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aakasha Mittayee (2017)
+#EXTINF:-1 group-title="Movies", Aakasha Mittayee (2017)
 http://watchindia.net:8880/movie/54739/54739/1759.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sindhubaadh (2019)
+#EXTINF:-1 group-title="Movies", Sindhubaadh (2019)
 http://watchindia.net:8880/movie/54739/54739/1760.mp4
-#EXTINF:-1 group-title="Channel&Movies", Kaithi (2019)
+#EXTINF:-1 group-title="Movies", Kaithi (2019)
 http://watchindia.net:8880/movie/54739/54739/1764.mkv
-#EXTINF:-1 group-title="Channel&Movies", Neeyum Njanum (2019)
+#EXTINF:-1 group-title="Movies", Neeyum Njanum (2019)
 http://watchindia.net:8880/movie/54739/54739/1765.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ilayaraja (2019)
+#EXTINF:-1 group-title="Movies", Ilayaraja (2019)
 http://watchindia.net:8880/movie/54739/54739/1766.mkv
-#EXTINF:-1 group-title="Channel&Movies", Uyare (2019)
+#EXTINF:-1 group-title="Movies", Uyare (2019)
 http://watchindia.net:8880/movie/54739/54739/1767.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dhamaka (2020)
+#EXTINF:-1 group-title="Movies", Dhamaka (2020)
 http://watchindia.net:8880/movie/54739/54739/1768.mkv
-#EXTINF:-1 group-title="Channel&Movies", Unda (2019)
+#EXTINF:-1 group-title="Movies", Unda (2019)
 http://watchindia.net:8880/movie/54739/54739/1769.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ladoo (2018)
+#EXTINF:-1 group-title="Movies", Ladoo (2018)
 http://watchindia.net:8880/movie/54739/54739/1770.avi
-#EXTINF:-1 group-title="Channel&Movies", Kuttymama (2019)
+#EXTINF:-1 group-title="Movies", Kuttymama (2019)
 http://watchindia.net:8880/movie/54739/54739/1771.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dear Comrade (2019)
+#EXTINF:-1 group-title="Movies", Dear Comrade (2019)
 http://watchindia.net:8880/movie/54739/54739/1772.mkv
-#EXTINF:-1 group-title="Channel&Movies", Madura Raja (2019)
+#EXTINF:-1 group-title="Movies", Madura Raja (2019)
 http://watchindia.net:8880/movie/54739/54739/1773.mkv
-#EXTINF:-1 group-title="Channel&Movies", Amar Akbar Anthony (1977)
+#EXTINF:-1 group-title="Movies", Amar Akbar Anthony (1977)
 http://watchindia.net:8880/movie/54739/54739/1774.mkv
-#EXTINF:-1 group-title="Channel&Movies", Agneepath (1990)
+#EXTINF:-1 group-title="Movies", Agneepath (1990)
 http://watchindia.net:8880/movie/54739/54739/1775.mkv
-#EXTINF:-1 group-title="Channel&Movies", Shamitabh (2015)
+#EXTINF:-1 group-title="Movies", Shamitabh (2015)
 http://watchindia.net:8880/movie/54739/54739/1776.mkv
-#EXTINF:-1 group-title="Channel&Movies", Hindustan Ki Kasam (1999)
+#EXTINF:-1 group-title="Movies", Hindustan Ki Kasam (1999)
 http://watchindia.net:8880/movie/54739/54739/1777.mp4
-#EXTINF:-1 group-title="Channel&Movies", Rann (2010)
+#EXTINF:-1 group-title="Movies", Rann (2010)
 http://watchindia.net:8880/movie/54739/54739/1778.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sanjog (1971)
+#EXTINF:-1 group-title="Movies", Sanjog (1971)
 http://watchindia.net:8880/movie/54739/54739/1779.mkv
-#EXTINF:-1 group-title="Channel&Movies", Do Anjaane (1976)
+#EXTINF:-1 group-title="Movies", Do Anjaane (1976)
 http://watchindia.net:8880/movie/54739/54739/1780.mp4
-#EXTINF:-1 group-title="Channel&Movies", Naseeb (1981)
+#EXTINF:-1 group-title="Movies", Naseeb (1981)
 http://watchindia.net:8880/movie/54739/54739/1781.mp4
-#EXTINF:-1 group-title="Channel&Movies", Besharam (1978)
+#EXTINF:-1 group-title="Movies", Besharam (1978)
 http://watchindia.net:8880/movie/54739/54739/1782.mp4
-#EXTINF:-1 group-title="Channel&Movies", Dev (2004)
+#EXTINF:-1 group-title="Movies", Dev (2004)
 http://watchindia.net:8880/movie/54739/54739/1783.mkv
-#EXTINF:-1 group-title="Channel&Movies", Khud-Daar (1982)
+#EXTINF:-1 group-title="Movies", Khud-Daar (1982)
 http://watchindia.net:8880/movie/54739/54739/1784.mp4
-#EXTINF:-1 group-title="Channel&Movies", Kabhi Alvida Naa Kehna (2006)
+#EXTINF:-1 group-title="Movies", Kabhi Alvida Naa Kehna (2006)
 http://watchindia.net:8880/movie/54739/54739/1785.mkv
-#EXTINF:-1 group-title="Channel&Movies", Waqt (2005)
+#EXTINF:-1 group-title="Movies", Waqt (2005)
 http://watchindia.net:8880/movie/54739/54739/1786.mkv
-#EXTINF:-1 group-title="Channel&Movies", Namak Haraam (1973)
+#EXTINF:-1 group-title="Movies", Namak Haraam (1973)
 http://watchindia.net:8880/movie/54739/54739/1787.mkv
-#EXTINF:-1 group-title="Channel&Movies", Cheeni Kum (2007)
+#EXTINF:-1 group-title="Movies", Cheeni Kum (2007)
 http://watchindia.net:8880/movie/54739/54739/1788.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bade Miyan Chote Miyan (1998)
+#EXTINF:-1 group-title="Movies", Bade Miyan Chote Miyan (1998)
 http://watchindia.net:8880/movie/54739/54739/1789.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aankhen (2002)
+#EXTINF:-1 group-title="Movies", Aankhen (2002)
 http://watchindia.net:8880/movie/54739/54739/1790.mp4
-#EXTINF:-1 group-title="Channel&Movies", Shaan (1980)
+#EXTINF:-1 group-title="Movies", Shaan (1980)
 http://watchindia.net:8880/movie/54739/54739/1792.mp4
-#EXTINF:-1 group-title="Channel&Movies", Baghban (2003)
+#EXTINF:-1 group-title="Movies", Baghban (2003)
 http://watchindia.net:8880/movie/54739/54739/1793.mkv
-#EXTINF:-1 group-title="Channel&Movies", Indrajeet (1991)
+#EXTINF:-1 group-title="Movies", Indrajeet (1991)
 http://watchindia.net:8880/movie/54739/54739/1794.mp4
-#EXTINF:-1 group-title="Channel&Movies", Parvarish (1977)
+#EXTINF:-1 group-title="Movies", Parvarish (1977)
 http://watchindia.net:8880/movie/54739/54739/1795.mp4
-#EXTINF:-1 group-title="Channel&Movies", Bbuddah Hoga Terra Baap (2011)
+#EXTINF:-1 group-title="Movies", Bbuddah Hoga Terra Baap (2011)
 http://watchindia.net:8880/movie/54739/54739/1796.mkv
-#EXTINF:-1 group-title="Channel&Movies", Immaan Dharam (1977)
+#EXTINF:-1 group-title="Movies", Immaan Dharam (1977)
 http://watchindia.net:8880/movie/54739/54739/1797.mp4
-#EXTINF:-1 group-title="Channel&Movies", Sarkar 3 (2017)
+#EXTINF:-1 group-title="Movies", Sarkar 3 (2017)
 http://watchindia.net:8880/movie/54739/54739/1798.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mr. Natwarlal (1979)
+#EXTINF:-1 group-title="Movies", Mr. Natwarlal (1979)
 http://watchindia.net:8880/movie/54739/54739/1799.mkv
-#EXTINF:-1 group-title="Channel&Movies", Hum Kisi Se Kum Nahin (2002)
+#EXTINF:-1 group-title="Movies", Hum Kisi Se Kum Nahin (2002)
 http://watchindia.net:8880/movie/54739/54739/1800.mkv
-#EXTINF:-1 group-title="Channel&Movies", Akayla (1991)
+#EXTINF:-1 group-title="Movies", Akayla (1991)
 http://watchindia.net:8880/movie/54739/54739/1801.mp4
-#EXTINF:-1 group-title="Channel&Movies", Suhaag (1979)
+#EXTINF:-1 group-title="Movies", Suhaag (1979)
 http://watchindia.net:8880/movie/54739/54739/1802.mkv
-#EXTINF:-1 group-title="Channel&Movies", Family: Ties of Blood (2006)
+#EXTINF:-1 group-title="Movies", Family: Ties of Blood (2006)
 http://watchindia.net:8880/movie/54739/54739/1803.mkv
-#EXTINF:-1 group-title="Channel&Movies", Nishabd (2007)
+#EXTINF:-1 group-title="Movies", Nishabd (2007)
 http://watchindia.net:8880/movie/54739/54739/1804.mkv
-#EXTINF:-1 group-title="Channel&Movies", Wazir (2016)
+#EXTINF:-1 group-title="Movies", Wazir (2016)
 http://watchindia.net:8880/movie/54739/54739/1805.mp4
-#EXTINF:-1 group-title="Channel&Movies", Bunty Aur Babli (2005)
+#EXTINF:-1 group-title="Movies", Bunty Aur Babli (2005)
 http://watchindia.net:8880/movie/54739/54739/1806.mkv
-#EXTINF:-1 group-title="Channel&Movies", Virudh (2005)
+#EXTINF:-1 group-title="Movies", Virudh (2005)
 http://watchindia.net:8880/movie/54739/54739/1807.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ek Rishtaa: The Bond of Love (2001)
+#EXTINF:-1 group-title="Movies", Ek Rishtaa: The Bond of Love (2001)
 http://watchindia.net:8880/movie/54739/54739/1808.mkv
-#EXTINF:-1 group-title="Channel&Movies", Jaadugar (1989)
+#EXTINF:-1 group-title="Movies", Jaadugar (1989)
 http://watchindia.net:8880/movie/54739/54739/1809.mkv
-#EXTINF:-1 group-title="Channel&Movies", Desh Premi (1982)
+#EXTINF:-1 group-title="Movies", Desh Premi (1982)
 http://watchindia.net:8880/movie/54739/54739/1810.mkv
-#EXTINF:-1 group-title="Channel&Movies", Jurmana (1979)
+#EXTINF:-1 group-title="Movies", Jurmana (1979)
 http://watchindia.net:8880/movie/54739/54739/1811.mp4
-#EXTINF:-1 group-title="Channel&Movies", The Great Gambler (1979)
+#EXTINF:-1 group-title="Movies", The Great Gambler (1979)
 http://watchindia.net:8880/movie/54739/54739/1812.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aks (2001)
+#EXTINF:-1 group-title="Movies", Aks (2001)
 http://watchindia.net:8880/movie/54739/54739/1813.mp4
-#EXTINF:-1 group-title="Channel&Movies", Dostana (1980)
+#EXTINF:-1 group-title="Movies", Dostana (1980)
 http://watchindia.net:8880/movie/54739/54739/1814.mkv
-#EXTINF:-1 group-title="Channel&Movies", Major Saab (1998)
+#EXTINF:-1 group-title="Movies", Major Saab (1998)
 http://watchindia.net:8880/movie/54739/54739/1815.mp4
-#EXTINF:-1 group-title="Channel&Movies", Teen Patti (2010)
+#EXTINF:-1 group-title="Movies", Teen Patti (2010)
 http://watchindia.net:8880/movie/54739/54739/1816.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kyun...! Ho Gaya Na (2004)
+#EXTINF:-1 group-title="Movies", Kyun...! Ho Gaya Na (2004)
 http://watchindia.net:8880/movie/54739/54739/1818.mkv
-#EXTINF:-1 group-title="Channel&Movies", Hum (1991)
+#EXTINF:-1 group-title="Movies", Hum (1991)
 http://watchindia.net:8880/movie/54739/54739/1819.mp4
-#EXTINF:-1 group-title="Channel&Movies", Kaalia (1981)
+#EXTINF:-1 group-title="Movies", Kaalia (1981)
 http://watchindia.net:8880/movie/54739/54739/1820.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bhoothnath Returns (2014)
+#EXTINF:-1 group-title="Movies", Bhoothnath Returns (2014)
 http://watchindia.net:8880/movie/54739/54739/1821.mkv
-#EXTINF:-1 group-title="Channel&Movies", Adalat (1976)
+#EXTINF:-1 group-title="Movies", Adalat (1976)
 http://watchindia.net:8880/movie/54739/54739/1822.mp4
-#EXTINF:-1 group-title="Channel&Movies", Alaap (1977)
+#EXTINF:-1 group-title="Movies", Alaap (1977)
 http://watchindia.net:8880/movie/54739/54739/1823.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chupke Chupke (1975)
+#EXTINF:-1 group-title="Movies", Chupke Chupke (1975)
 http://watchindia.net:8880/movie/54739/54739/1824.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mrityudaata (1997)
+#EXTINF:-1 group-title="Movies", Mrityudaata (1997)
 http://watchindia.net:8880/movie/54739/54739/1825.mp4
-#EXTINF:-1 group-title="Channel&Movies", Department (2012)
+#EXTINF:-1 group-title="Movies", Department (2012)
 http://watchindia.net:8880/movie/54739/54739/1826.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dil Jo Bhi Kahey... (2006)
+#EXTINF:-1 group-title="Movies", Dil Jo Bhi Kahey... (2006)
 http://watchindia.net:8880/movie/54739/54739/1827.mkv
-#EXTINF:-1 group-title="Channel&Movies", God Tussi Great Ho (2008)
+#EXTINF:-1 group-title="Movies", God Tussi Great Ho (2008)
 http://watchindia.net:8880/movie/54739/54739/1829.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bansi Birju (1972)
+#EXTINF:-1 group-title="Movies", Bansi Birju (1972)
 http://watchindia.net:8880/movie/54739/54739/1830.mp4
-#EXTINF:-1 group-title="Channel&Movies", Delhi-6 (2009)
+#EXTINF:-1 group-title="Movies", Delhi-6 (2009)
 http://watchindia.net:8880/movie/54739/54739/1831.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aaj Ka Arjun (1990)
+#EXTINF:-1 group-title="Movies", Aaj Ka Arjun (1990)
 http://watchindia.net:8880/movie/54739/54739/1832.mkv
-#EXTINF:-1 group-title="Channel&Movies", Shahenshah (1988)
+#EXTINF:-1 group-title="Movies", Shahenshah (1988)
 http://watchindia.net:8880/movie/54739/54739/1833.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kabhi Kabhie (1976)
+#EXTINF:-1 group-title="Movies", Kabhi Kabhie (1976)
 http://watchindia.net:8880/movie/54739/54739/1834.mp4
-#EXTINF:-1 group-title="Channel&Movies", Don (1978)
+#EXTINF:-1 group-title="Movies", Don (1978)
 http://watchindia.net:8880/movie/54739/54739/1835.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mohabbatein (2000)
+#EXTINF:-1 group-title="Movies", Mohabbatein (2000)
 http://watchindia.net:8880/movie/54739/54739/1836.mkv
-#EXTINF:-1 group-title="Channel&Movies", Silsila (1981)
+#EXTINF:-1 group-title="Movies", Silsila (1981)
 http://watchindia.net:8880/movie/54739/54739/1837.mkv
-#EXTINF:-1 group-title="Channel&Movies", Black (2005)
+#EXTINF:-1 group-title="Movies", Black (2005)
 http://watchindia.net:8880/movie/54739/54739/1838.mp4
-#EXTINF:-1 group-title="Channel&Movies", Zameer (1975)
+#EXTINF:-1 group-title="Movies", Zameer (1975)
 http://watchindia.net:8880/movie/54739/54739/1839.mkv
-#EXTINF:-1 group-title="Channel&Movies", Hera Pheri (1976)
+#EXTINF:-1 group-title="Movies", Hera Pheri (1976)
 http://watchindia.net:8880/movie/54739/54739/1840.mkv
-#EXTINF:-1 group-title="Channel&Movies", Benaam (1974)
+#EXTINF:-1 group-title="Movies", Benaam (1974)
 http://watchindia.net:8880/movie/54739/54739/1841.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mili (1975)
+#EXTINF:-1 group-title="Movies", Mili (1975)
 http://watchindia.net:8880/movie/54739/54739/1842.mkv
-#EXTINF:-1 group-title="Channel&Movies", Nastik (1983)
+#EXTINF:-1 group-title="Movies", Nastik (1983)
 http://watchindia.net:8880/movie/54739/54739/1843.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bhoothnath (2008)
+#EXTINF:-1 group-title="Movies", Bhoothnath (2008)
 http://watchindia.net:8880/movie/54739/54739/1844.mkv
-#EXTINF:-1 group-title="Channel&Movies", Anand (1971)
+#EXTINF:-1 group-title="Movies", Anand (1971)
 http://watchindia.net:8880/movie/54739/54739/1845.mkv
-#EXTINF:-1 group-title="Channel&Movies", Baabul (2006)
+#EXTINF:-1 group-title="Movies", Baabul (2006)
 http://watchindia.net:8880/movie/54739/54739/1847.mkv
-#EXTINF:-1 group-title="Channel&Movies", Te3n (2016)
+#EXTINF:-1 group-title="Movies", Te3n (2016)
 http://watchindia.net:8880/movie/54739/54739/1848.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kaala Patthar (1979)
+#EXTINF:-1 group-title="Movies", Kaala Patthar (1979)
 http://watchindia.net:8880/movie/54739/54739/1849.mkv
-#EXTINF:-1 group-title="Channel&Movies", Inquilaab (1984)
+#EXTINF:-1 group-title="Movies", Inquilaab (1984)
 http://watchindia.net:8880/movie/54739/54739/1850.mkv
-#EXTINF:-1 group-title="Channel&Movies", Eklavya: The Royal Guard (2007)
+#EXTINF:-1 group-title="Movies", Eklavya: The Royal Guard (2007)
 http://watchindia.net:8880/movie/54739/54739/1851.mkv
-#EXTINF:-1 group-title="Channel&Movies", Gangaa Jamunaa Saraswathi (1988)
+#EXTINF:-1 group-title="Movies", Gangaa Jamunaa Saraswathi (1988)
 http://watchindia.net:8880/movie/54739/54739/1852.mkv
-#EXTINF:-1 group-title="Channel&Movies", Namak Halaal (1982)
+#EXTINF:-1 group-title="Movies", Namak Halaal (1982)
 http://watchindia.net:8880/movie/54739/54739/1853.mkv
-#EXTINF:-1 group-title="Channel&Movies", Faraar (1975)
+#EXTINF:-1 group-title="Movies", Faraar (1975)
 http://watchindia.net:8880/movie/54739/54739/1854.mkv
-#EXTINF:-1 group-title="Channel&Movies", The Last Lear (2008)
+#EXTINF:-1 group-title="Movies", The Last Lear (2008)
 http://watchindia.net:8880/movie/54739/54739/1855.mkv
-#EXTINF:-1 group-title="Channel&Movies", Hello Brother (1999)
+#EXTINF:-1 group-title="Movies", Hello Brother (1999)
 http://watchindia.net:8880/movie/54739/54739/1856.mp4
-#EXTINF:-1 group-title="Channel&Movies", Sarkar Raj (2008)
+#EXTINF:-1 group-title="Movies", Sarkar Raj (2008)
 http://watchindia.net:8880/movie/54739/54739/1857.mkv
-#EXTINF:-1 group-title="Channel&Movies", Khakee (2004)
+#EXTINF:-1 group-title="Movies", Khakee (2004)
 http://watchindia.net:8880/movie/54739/54739/1858.mkv
-#EXTINF:-1 group-title="Channel&Movies", Agni Varsha (2002)
+#EXTINF:-1 group-title="Movies", Agni Varsha (2002)
 http://watchindia.net:8880/movie/54739/54739/1859.mp4
-#EXTINF:-1 group-title="Channel&Movies", Yaarana (1981)
+#EXTINF:-1 group-title="Movies", Yaarana (1981)
 http://watchindia.net:8880/movie/54739/54739/1860.mkv
-#EXTINF:-1 group-title="Channel&Movies", Satyagraha (2013)
+#EXTINF:-1 group-title="Movies", Satyagraha (2013)
 http://watchindia.net:8880/movie/54739/54739/1861.mkv
-#EXTINF:-1 group-title="Channel&Movies", Abhimaan (1973)
+#EXTINF:-1 group-title="Movies", Abhimaan (1973)
 http://watchindia.net:8880/movie/54739/54739/1862.mp4
-#EXTINF:-1 group-title="Channel&Movies", Shootout at Lokhandwala (2007)
+#EXTINF:-1 group-title="Movies", Shootout at Lokhandwala (2007)
 http://watchindia.net:8880/movie/54739/54739/1863.mkv
-#EXTINF:-1 group-title="Channel&Movies", Satte Pe Satta (1982)
+#EXTINF:-1 group-title="Movies", Satte Pe Satta (1982)
 http://watchindia.net:8880/movie/54739/54739/1864.mkv
-#EXTINF:-1 group-title="Channel&Movies", Gehri Chaal (1973)
+#EXTINF:-1 group-title="Movies", Gehri Chaal (1973)
 http://watchindia.net:8880/movie/54739/54739/1865.mp4
-#EXTINF:-1 group-title="Channel&Movies", Coolie (1983)
+#EXTINF:-1 group-title="Movies", Coolie (1983)
 http://watchindia.net:8880/movie/54739/54739/1866.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kandahar (2010)
+#EXTINF:-1 group-title="Movies", Kandahar (2010)
 http://watchindia.net:8880/movie/54739/54739/1867.mkv
-#EXTINF:-1 group-title="Channel&Movies", Piku (2015)
+#EXTINF:-1 group-title="Movies", Piku (2015)
 http://watchindia.net:8880/movie/54739/54739/1868.mkv
-#EXTINF:-1 group-title="Channel&Movies", Jhoom Barabar Jhoom (2007)
+#EXTINF:-1 group-title="Movies", Jhoom Barabar Jhoom (2007)
 http://watchindia.net:8880/movie/54739/54739/1869.mkv
-#EXTINF:-1 group-title="Channel&Movies", Lakshya (2004)
+#EXTINF:-1 group-title="Movies", Lakshya (2004)
 http://watchindia.net:8880/movie/54739/54739/1870.mkv
-#EXTINF:-1 group-title="Channel&Movies", Armaan (2003)
+#EXTINF:-1 group-title="Movies", Armaan (2003)
 http://watchindia.net:8880/movie/54739/54739/1871.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sholay (1975)
+#EXTINF:-1 group-title="Movies", Sholay (1975)
 http://watchindia.net:8880/movie/54739/54739/1872.mp4
-#EXTINF:-1 group-title="Channel&Movies", Saat Hindustani (1969)
+#EXTINF:-1 group-title="Movies", Saat Hindustani (1969)
 http://watchindia.net:8880/movie/54739/54739/1873.mp4
-#EXTINF:-1 group-title="Channel&Movies", Ek Nazar (1972)
+#EXTINF:-1 group-title="Movies", Ek Nazar (1972)
 http://watchindia.net:8880/movie/54739/54739/1874.mp4
-#EXTINF:-1 group-title="Channel&Movies", Aarakshan (2011)
+#EXTINF:-1 group-title="Movies", Aarakshan (2011)
 http://watchindia.net:8880/movie/54739/54739/1875.mkv
-#EXTINF:-1 group-title="Channel&Movies", Khoon Pasina (1977)
+#EXTINF:-1 group-title="Movies", Khoon Pasina (1977)
 http://watchindia.net:8880/movie/54739/54739/1876.mp4
-#EXTINF:-1 group-title="Channel&Movies", Barsaat Ki Ek Raat (1981)
+#EXTINF:-1 group-title="Movies", Barsaat Ki Ek Raat (1981)
 http://watchindia.net:8880/movie/54739/54739/1877.mp4
-#EXTINF:-1 group-title="Channel&Movies", Kabhi Khushi Kabhie Gham (2001)
+#EXTINF:-1 group-title="Movies", Kabhi Khushi Kabhie Gham (2001)
 http://watchindia.net:8880/movie/54739/54739/1878.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ek Ajnabee (2005)
+#EXTINF:-1 group-title="Movies", Ek Ajnabee (2005)
 http://watchindia.net:8880/movie/54739/54739/1879.mp4
-#EXTINF:-1 group-title="Channel&Movies", Boom (2003)
+#EXTINF:-1 group-title="Movies", Boom (2003)
 http://watchindia.net:8880/movie/54739/54739/1880.mkv
-#EXTINF:-1 group-title="Channel&Movies", Trishul (1978)
+#EXTINF:-1 group-title="Movies", Trishul (1978)
 http://watchindia.net:8880/movie/54739/54739/1881.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pink (2016)
+#EXTINF:-1 group-title="Movies", Pink (2016)
 http://watchindia.net:8880/movie/54739/54739/1882.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ab Tumhare Hawale Watan Saathiyo (2004)
+#EXTINF:-1 group-title="Movies", Ab Tumhare Hawale Watan Saathiyo (2004)
 http://watchindia.net:8880/movie/54739/54739/1883.mp4
-#EXTINF:-1 group-title="Channel&Movies", Bandhe Haath (1973)
+#EXTINF:-1 group-title="Movies", Bandhe Haath (1973)
 http://watchindia.net:8880/movie/54739/54739/1885.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bemisal (1982)
+#EXTINF:-1 group-title="Movies", Bemisal (1982)
 http://watchindia.net:8880/movie/54739/54739/1887.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bada Kabutar (1973)
+#EXTINF:-1 group-title="Movies", Bada Kabutar (1973)
 http://watchindia.net:8880/movie/54739/54739/1888.mp4
-#EXTINF:-1 group-title="Channel&Movies", Aladin (2009)
+#EXTINF:-1 group-title="Movies", Aladin (2009)
 http://watchindia.net:8880/movie/54739/54739/1889.mkv
-#EXTINF:-1 group-title="Channel&Movies", Andhaa Kaanoon
+#EXTINF:-1 group-title="Movies", Andhaa Kaanoon
 http://watchindia.net:8880/movie/54739/54739/1890.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mask (2019)
+#EXTINF:-1 group-title="Movies", Mask (2019)
 http://watchindia.net:8880/movie/54739/54739/1891.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kantharam (2019)
+#EXTINF:-1 group-title="Movies", Kantharam (2019)
 http://watchindia.net:8880/movie/54739/54739/1892.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mr. & Ms. Rowdy (2019)
+#EXTINF:-1 group-title="Movies", Mr. & Ms. Rowdy (2019)
 http://watchindia.net:8880/movie/54739/54739/1893.mp4
-#EXTINF:-1 group-title="Channel&Movies", Prashna Parihara Shala (2019)
+#EXTINF:-1 group-title="Movies", Prashna Parihara Shala (2019)
 http://watchindia.net:8880/movie/54739/54739/1894.mkv
-#EXTINF:-1 group-title="Channel&Movies", Athiran (2019)
+#EXTINF:-1 group-title="Movies", Athiran (2019)
 http://watchindia.net:8880/movie/54739/54739/1896.mkv
-#EXTINF:-1 group-title="Channel&Movies", Virus (2019)
+#EXTINF:-1 group-title="Movies", Virus (2019)
 http://watchindia.net:8880/movie/54739/54739/1897.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kumbalangi Nights (2019)
+#EXTINF:-1 group-title="Movies", Kumbalangi Nights (2019)
 http://watchindia.net:8880/movie/54739/54739/1898.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ishq (2019)
+#EXTINF:-1 group-title="Movies", Ishq (2019)
 http://watchindia.net:8880/movie/54739/54739/1899.mkv
-#EXTINF:-1 group-title="Channel&Movies", Daivam Sakshi (2019)
+#EXTINF:-1 group-title="Movies", Daivam Sakshi (2019)
 http://watchindia.net:8880/movie/54739/54739/1900.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sakalakalashala (2019)
+#EXTINF:-1 group-title="Movies", Sakalakalashala (2019)
 http://watchindia.net:8880/movie/54739/54739/1901.mkv
-#EXTINF:-1 group-title="Channel&Movies", My Story (2018)
+#EXTINF:-1 group-title="Movies", My Story (2018)
 http://watchindia.net:8880/movie/54739/54739/1902.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kayamkulam Kochunni (2018)
+#EXTINF:-1 group-title="Movies", Kayamkulam Kochunni (2018)
 http://watchindia.net:8880/movie/54739/54739/1904.mkv
-#EXTINF:-1 group-title="Channel&Movies", Lucifer (2019)
+#EXTINF:-1 group-title="Movies", Lucifer (2019)
 http://watchindia.net:8880/movie/54739/54739/1903.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mera Naam Shaji (2019)
+#EXTINF:-1 group-title="Movies", Mera Naam Shaji (2019)
 http://watchindia.net:8880/movie/54739/54739/1905.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vaarikkuzhiyile Kolapathakam (2019)
+#EXTINF:-1 group-title="Movies", Vaarikkuzhiyile Kolapathakam (2019)
 http://watchindia.net:8880/movie/54739/54739/1906.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pixelia (2018)
+#EXTINF:-1 group-title="Movies", Pixelia (2018)
 http://watchindia.net:8880/movie/54739/54739/1907.mkv
-#EXTINF:-1 group-title="Channel&Movies", Maradona (2018)
+#EXTINF:-1 group-title="Movies", Maradona (2018)
 http://watchindia.net:8880/movie/54739/54739/1908.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kammara Sambhavam (2018)
+#EXTINF:-1 group-title="Movies", Kammara Sambhavam (2018)
 http://watchindia.net:8880/movie/54739/54739/1909.mkv
-#EXTINF:-1 group-title="Channel&Movies", Contessa (2018)
+#EXTINF:-1 group-title="Movies", Contessa (2018)
 http://watchindia.net:8880/movie/54739/54739/1910.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mere Pyare Deshvasiyom (2019)
+#EXTINF:-1 group-title="Movies", Mere Pyare Deshvasiyom (2019)
 http://watchindia.net:8880/movie/54739/54739/1911.mp4
-#EXTINF:-1 group-title="Channel&Movies", Kanaa (2018)
+#EXTINF:-1 group-title="Movies", Kanaa (2018)
 http://watchindia.net:8880/movie/54739/54739/1912.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kosrakollikal (2019)
+#EXTINF:-1 group-title="Movies", Kosrakollikal (2019)
 http://watchindia.net:8880/movie/54739/54739/1913.mkv
-#EXTINF:-1 group-title="Channel&Movies", E (2017)
+#EXTINF:-1 group-title="Movies", E (2017)
 http://watchindia.net:8880/movie/54739/54739/1915.mkv
-#EXTINF:-1 group-title="Channel&Movies", Rangasthalam (2018)
+#EXTINF:-1 group-title="Movies", Rangasthalam (2018)
 http://watchindia.net:8880/movie/54739/54739/1916.mp4
-#EXTINF:-1 group-title="Channel&Movies", Soothrakkaran (2019)
+#EXTINF:-1 group-title="Movies", Soothrakkaran (2019)
 http://watchindia.net:8880/movie/54739/54739/1917.mkv
-#EXTINF:-1 group-title="Channel&Movies", Njan Prakashan (2018)
+#EXTINF:-1 group-title="Movies", Njan Prakashan (2018)
 http://watchindia.net:8880/movie/54739/54739/1926.mkv
-#EXTINF:-1 group-title="Channel&Movies", Oru Adaar Love (2019)
+#EXTINF:-1 group-title="Movies", Oru Adaar Love (2019)
 http://watchindia.net:8880/movie/54739/54739/1927.mkv
-#EXTINF:-1 group-title="Channel&Movies", Nithyaharitha Nayakan (2018)
+#EXTINF:-1 group-title="Movies", Nithyaharitha Nayakan (2018)
 http://watchindia.net:8880/movie/54739/54739/1928.mp4
-#EXTINF:-1 group-title="Channel&Movies", Neeli (2018)
+#EXTINF:-1 group-title="Movies", Neeli (2018)
 http://watchindia.net:8880/movie/54739/54739/1930.mkv
-#EXTINF:-1 group-title="Channel&Movies", Maari 2 (2018)
+#EXTINF:-1 group-title="Movies", Maari 2 (2018)
 http://watchindia.net:8880/movie/54739/54739/1931.mp4
-#EXTINF:-1 group-title="Channel&Movies", Kodathi Samaksham Balan Vakeel (2019)
+#EXTINF:-1 group-title="Movies", Kodathi Samaksham Balan Vakeel (2019)
 http://watchindia.net:8880/movie/54739/54739/1932.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chandragiri (2018)
+#EXTINF:-1 group-title="Movies", Chandragiri (2018)
 http://watchindia.net:8880/movie/54739/54739/1933.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ave Maria (2019)
+#EXTINF:-1 group-title="Movies", Ave Maria (2019)
 http://watchindia.net:8880/movie/54739/54739/1934.mkv
-#EXTINF:-1 group-title="Channel&Movies", Allu Ramendran (2019)
+#EXTINF:-1 group-title="Movies", Allu Ramendran (2019)
 http://watchindia.net:8880/movie/54739/54739/1935.mp4
-#EXTINF:-1 group-title="Channel&Movies", June (2019)
+#EXTINF:-1 group-title="Movies", June (2019)
 http://watchindia.net:8880/movie/54739/54739/1936.mkv
-#EXTINF:-1 group-title="Channel&Movies", 9 (2019)
+#EXTINF:-1 group-title="Movies", 9 (2019)
 http://watchindia.net:8880/movie/54739/54739/1937.mkv
-#EXTINF:-1 group-title="Channel&Movies", Paapam Cheyyathavar Kalleriyatte (2020)
+#EXTINF:-1 group-title="Movies", Paapam Cheyyathavar Kalleriyatte (2020)
 http://watchindia.net:8880/movie/54739/54739/1939.mkv
-#EXTINF:-1 group-title="Channel&Movies", Childhood Friends (2019)
+#EXTINF:-1 group-title="Movies", Childhood Friends (2019)
 http://watchindia.net:8880/movie/54739/54739/1940.mkv
-#EXTINF:-1 group-title="Channel&Movies", Lonappante Mammodisa (2019)
+#EXTINF:-1 group-title="Movies", Lonappante Mammodisa (2019)
 http://watchindia.net:8880/movie/54739/54739/1960.mkv
-#EXTINF:-1 group-title="Channel&Movies", 369 (2018)
+#EXTINF:-1 group-title="Movies", 369 (2018)
 http://watchindia.net:8880/movie/54739/54739/1961.mkv
-#EXTINF:-1 group-title="Channel&Movies", Paviettante Madhurachooral (2018)
+#EXTINF:-1 group-title="Movies", Paviettante Madhurachooral (2018)
 http://watchindia.net:8880/movie/54739/54739/1962.mkv
-#EXTINF:-1 group-title="Channel&Movies", Iblis (2018)
+#EXTINF:-1 group-title="Movies", Iblis (2018)
 http://watchindia.net:8880/movie/54739/54739/1963.mkv
-#EXTINF:-1 group-title="Channel&Movies", Theekuchiyum Panithulliyum (2018)
+#EXTINF:-1 group-title="Movies", Theekuchiyum Panithulliyum (2018)
 http://watchindia.net:8880/movie/54739/54739/1964.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ratsasan (2018)
+#EXTINF:-1 group-title="Movies", Ratsasan (2018)
 http://watchindia.net:8880/movie/54739/54739/1965.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vijay Superum Pournamiyum (2019)
+#EXTINF:-1 group-title="Movies", Vijay Superum Pournamiyum (2019)
 http://watchindia.net:8880/movie/54739/54739/1966.mkv
-#EXTINF:-1 group-title="Channel&Movies", Autorsha (2018)
+#EXTINF:-1 group-title="Movies", Autorsha (2018)
 http://watchindia.net:8880/movie/54739/54739/1967.mkv
-#EXTINF:-1 group-title="Channel&Movies", Odiyan (2018)
+#EXTINF:-1 group-title="Movies", Odiyan (2018)
 http://watchindia.net:8880/movie/54739/54739/1968.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mikhael (2019)
+#EXTINF:-1 group-title="Movies", Mikhael (2019)
 http://watchindia.net:8880/movie/54739/54739/1972.mkv
-#EXTINF:-1 group-title="Channel&Movies", Saamy² (2018)
+#EXTINF:-1 group-title="Movies", Saamy² (2018)
 http://watchindia.net:8880/movie/54739/54739/1973.mkv
-#EXTINF:-1 group-title="Channel&Movies", Shubh Mangal Zyada Saavdhan (2020)
+#EXTINF:-1 group-title="Movies", Shubh Mangal Zyada Saavdhan (2020)
 http://watchindia.net:8880/movie/54739/54739/1974.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thappad (2020)
+#EXTINF:-1 group-title="Movies", Thappad (2020)
 http://watchindia.net:8880/movie/54739/54739/1975.mkv
-#EXTINF:-1 group-title="Channel&Movies", Malang (2020)
+#EXTINF:-1 group-title="Movies", Malang (2020)
 http://watchindia.net:8880/movie/54739/54739/1976.mkv
-#EXTINF:-1 group-title="Channel&Movies", Yeh Saali Aashiqui (2019)
+#EXTINF:-1 group-title="Movies", Yeh Saali Aashiqui (2019)
 http://watchindia.net:8880/movie/54739/54739/1977.mkv
-#EXTINF:-1 group-title="Channel&Movies", Guilty (2020)
+#EXTINF:-1 group-title="Movies", Guilty (2020)
 http://watchindia.net:8880/movie/54739/54739/1978.mkv
-#EXTINF:-1 group-title="Channel&Movies", Love Aaj Kal (2020)
+#EXTINF:-1 group-title="Movies", Love Aaj Kal (2020)
 http://watchindia.net:8880/movie/54739/54739/1979.mkv
-#EXTINF:-1 group-title="Channel&Movies", Jawaani Jaaneman (2020)
+#EXTINF:-1 group-title="Movies", Jawaani Jaaneman (2020)
 http://watchindia.net:8880/movie/54739/54739/1980.mkv
-#EXTINF:-1 group-title="Channel&Movies", Angrezi Medium (2020)
+#EXTINF:-1 group-title="Movies", Angrezi Medium (2020)
 http://watchindia.net:8880/movie/54739/54739/1981.mkv
-#EXTINF:-1 group-title="Channel&Movies", Street Dancer 3D (2020)
+#EXTINF:-1 group-title="Movies", Street Dancer 3D (2020)
 http://watchindia.net:8880/movie/54739/54739/1982.avi
-#EXTINF:-1 group-title="Channel&Movies", Maska (2020)
+#EXTINF:-1 group-title="Movies", Maska (2020)
 http://watchindia.net:8880/movie/54739/54739/1983.mkv
-#EXTINF:-1 group-title="Channel&Movies", Panga (2020)
+#EXTINF:-1 group-title="Movies", Panga (2020)
 http://watchindia.net:8880/movie/54739/54739/1984.mkv
-#EXTINF:-1 group-title="Channel&Movies", Tanhaji: The Unsung Warrior (2020)
+#EXTINF:-1 group-title="Movies", Tanhaji: The Unsung Warrior (2020)
 http://watchindia.net:8880/movie/54739/54739/1985.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bunker
+#EXTINF:-1 group-title="Movies", Bunker
 http://watchindia.net:8880/movie/54739/54739/1986.avi
-#EXTINF:-1 group-title="Channel&Movies", Hacked (2020)
+#EXTINF:-1 group-title="Movies", Hacked (2020)
 http://watchindia.net:8880/movie/54739/54739/1987.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ekram (2020)
+#EXTINF:-1 group-title="Movies", Ekram (2020)
 http://watchindia.net:8880/movie/54739/54739/1988.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kaamyaab (2020)
+#EXTINF:-1 group-title="Movies", Kaamyaab (2020)
 http://watchindia.net:8880/movie/54739/54739/1989.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bamfaad (2020)
+#EXTINF:-1 group-title="Movies", Bamfaad (2020)
 http://watchindia.net:8880/movie/54739/54739/1990.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bypass Road (2019)
+#EXTINF:-1 group-title="Movies", Bypass Road (2019)
 http://watchindia.net:8880/movie/54739/54739/1991.mkv
-#EXTINF:-1 group-title="Channel&Movies", Jai Mummy Di (2020)
+#EXTINF:-1 group-title="Movies", Jai Mummy Di (2020)
 http://watchindia.net:8880/movie/54739/54739/1992.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bhoot: Part One - The Haunted Ship (2020)
+#EXTINF:-1 group-title="Movies", Bhoot: Part One - The Haunted Ship (2020)
 http://watchindia.net:8880/movie/54739/54739/1993.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chembarathipoo (2017)
+#EXTINF:-1 group-title="Movies", Chembarathipoo (2017)
 http://watchindia.net:8880/movie/54739/54739/1994.mkv
-#EXTINF:-1 group-title="Channel&Movies", Blackboard vs Whiteboard (2019)
+#EXTINF:-1 group-title="Movies", Blackboard vs Whiteboard (2019)
 http://watchindia.net:8880/movie/54739/54739/1995.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kinavalli (2018)
+#EXTINF:-1 group-title="Movies", Kinavalli (2018)
 http://watchindia.net:8880/movie/54739/54739/1998.mkv
-#EXTINF:-1 group-title="Channel&Movies", Moonnara (2018)
+#EXTINF:-1 group-title="Movies", Moonnara (2018)
 http://watchindia.net:8880/movie/54739/54739/1999.mkv
-#EXTINF:-1 group-title="Channel&Movies", Olessia (2019)
+#EXTINF:-1 group-title="Movies", Olessia (2019)
 http://watchindia.net:8880/movie/54739/54739/2000.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dakini (2018)
+#EXTINF:-1 group-title="Movies", Dakini (2018)
 http://watchindia.net:8880/movie/54739/54739/2001.mp4
-#EXTINF:-1 group-title="Channel&Movies", Vakathirivu (2019)
+#EXTINF:-1 group-title="Movies", Vakathirivu (2019)
 http://watchindia.net:8880/movie/54739/54739/2002.mkv
-#EXTINF:-1 group-title="Channel&Movies", Rameshan Oru Peralla (2019)
+#EXTINF:-1 group-title="Movies", Rameshan Oru Peralla (2019)
 http://watchindia.net:8880/movie/54739/54739/2003.mkv
-#EXTINF:-1 group-title="Channel&Movies", Drama (2018)
+#EXTINF:-1 group-title="Movies", Drama (2018)
 http://watchindia.net:8880/movie/54739/54739/2004.mkv
-#EXTINF:-1 group-title="Channel&Movies", DiwanjiMoola Grand Prix (2018)
+#EXTINF:-1 group-title="Movies", DiwanjiMoola Grand Prix (2018)
 http://watchindia.net:8880/movie/54739/54739/2005.mp4
-#EXTINF:-1 group-title="Channel&Movies", Ikkayude Shakadam (2019)
+#EXTINF:-1 group-title="Movies", Ikkayude Shakadam (2019)
 http://watchindia.net:8880/movie/54739/54739/2006.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bobby (2017)
+#EXTINF:-1 group-title="Movies", Bobby (2017)
 http://watchindia.net:8880/movie/54739/54739/2007.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chila NewGen Nattuvisheshangal (2019)
+#EXTINF:-1 group-title="Movies", Chila NewGen Nattuvisheshangal (2019)
 http://watchindia.net:8880/movie/54739/54739/2008.mkv
-#EXTINF:-1 group-title="Channel&Movies", Uriyadi (2020)
+#EXTINF:-1 group-title="Movies", Uriyadi (2020)
 http://watchindia.net:8880/movie/54739/54739/2009.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thelivu (2019)
+#EXTINF:-1 group-title="Movies", Thelivu (2019)
 http://watchindia.net:8880/movie/54739/54739/2012.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aanakallan (2018)
+#EXTINF:-1 group-title="Movies", Aanakallan (2018)
 http://watchindia.net:8880/movie/54739/54739/2013.mkv
-#EXTINF:-1 group-title="Channel&Movies", Koode (2018)
+#EXTINF:-1 group-title="Movies", Koode (2018)
 http://watchindia.net:8880/movie/54739/54739/2014.mp4
-#EXTINF:-1 group-title="Channel&Movies", K.G.F: Chapter 1 (2018)
+#EXTINF:-1 group-title="Movies", K.G.F: Chapter 1 (2018)
 http://watchindia.net:8880/movie/54739/54739/2015.mkv
-#EXTINF:-1 group-title="Channel&Movies", Pretham 2 (2018)
+#EXTINF:-1 group-title="Movies", Pretham 2 (2018)
 http://watchindia.net:8880/movie/54739/54739/2016.mkv
-#EXTINF:-1 group-title="Channel&Movies", Ente Ummante Peru (2018)
+#EXTINF:-1 group-title="Movies", Ente Ummante Peru (2018)
 http://watchindia.net:8880/movie/54739/54739/2017.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thattumpurath Achuthan (2018)
+#EXTINF:-1 group-title="Movies", Thattumpurath Achuthan (2018)
 http://watchindia.net:8880/movie/54739/54739/2018.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kala Viplavam Pranayam (2018)
+#EXTINF:-1 group-title="Movies", Kala Viplavam Pranayam (2018)
 http://watchindia.net:8880/movie/54739/54739/2022.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kuttanadan Marpappa (2018)
+#EXTINF:-1 group-title="Movies", Kuttanadan Marpappa (2018)
 http://watchindia.net:8880/movie/54739/54739/2023.mkv
-#EXTINF:-1 group-title="Channel&Movies", Walter 
+#EXTINF:-1 group-title="Movies", Walter 
 http://watchindia.net:8880/movie/54739/54739/2025.mkv
-#EXTINF:-1 group-title="Channel&Movies", Dagaalty (2020)
+#EXTINF:-1 group-title="Movies", Dagaalty (2020)
 http://watchindia.net:8880/movie/54739/54739/2026.mkv
-#EXTINF:-1 group-title="Channel&Movies", Iruttu (2019)
+#EXTINF:-1 group-title="Movies", Iruttu (2019)
 http://watchindia.net:8880/movie/54739/54739/2027.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chennai Palani Mars (2019)
+#EXTINF:-1 group-title="Movies", Chennai Palani Mars (2019)
 http://watchindia.net:8880/movie/54739/54739/2028.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kanni Maadam (2020)
+#EXTINF:-1 group-title="Movies", Kanni Maadam (2020)
 http://watchindia.net:8880/movie/54739/54739/2029.mkv
-#EXTINF:-1 group-title="Channel&Movies", Utraan (2020)
+#EXTINF:-1 group-title="Movies", Utraan (2020)
 http://watchindia.net:8880/movie/54739/54739/2030.mkv
-#EXTINF:-1 group-title="Channel&Movies", Yennai Arindhaal (2015)
+#EXTINF:-1 group-title="Movies", Yennai Arindhaal (2015)
 http://watchindia.net:8880/movie/54739/54739/2031.mkv
-#EXTINF:-1 group-title="Channel&Movies", Adhyarathri (2019)
+#EXTINF:-1 group-title="Movies", Adhyarathri (2019)
 http://watchindia.net:8880/movie/54739/54739/2032.mkv
-#EXTINF:-1 group-title="Channel&Movies", Happy Wedding (2016)
+#EXTINF:-1 group-title="Movies", Happy Wedding (2016)
 http://watchindia.net:8880/movie/54739/54739/2033.mp4
-#EXTINF:-1 group-title="Channel&Movies", Gentleman
+#EXTINF:-1 group-title="Movies", Gentleman
 http://watchindia.net:8880/movie/54739/54739/2034.mkv
-#EXTINF:-1 group-title="Channel&Movies", Rubaru Roshni (2019)
+#EXTINF:-1 group-title="Movies", Rubaru Roshni (2019)
 http://watchindia.net:8880/movie/54739/54739/2067.mp4
-#EXTINF:-1 group-title="Channel&Movies", Chintu Ka Birthday (2020)
+#EXTINF:-1 group-title="Movies", Chintu Ka Birthday (2020)
 http://watchindia.net:8880/movie/54739/54739/2068.mkv
-#EXTINF:-1 group-title="Channel&Movies", Gulabo Sitabo (2020)
+#EXTINF:-1 group-title="Movies", Gulabo Sitabo (2020)
 http://watchindia.net:8880/movie/54739/54739/2069.mkv
-#EXTINF:-1 group-title="Channel&Movies", Axone (2019)
+#EXTINF:-1 group-title="Movies", Axone (2019)
 http://watchindia.net:8880/movie/54739/54739/2070.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kadakh (2020)
+#EXTINF:-1 group-title="Movies", Kadakh (2020)
 http://watchindia.net:8880/movie/54739/54739/2071.mkv
-#EXTINF:-1 group-title="Channel&Movies", Chaman Bahar (2020)
+#EXTINF:-1 group-title="Movies", Chaman Bahar (2020)
 http://watchindia.net:8880/movie/54739/54739/2072.mkv
-#EXTINF:-1 group-title="Channel&Movies", Yahan Sabhi Gyani Hain (2020)
+#EXTINF:-1 group-title="Movies", Yahan Sabhi Gyani Hain (2020)
 http://watchindia.net:8880/movie/54739/54739/2073.mkv
-#EXTINF:-1 group-title="Channel&Movies", Shikara (2020)
+#EXTINF:-1 group-title="Movies", Shikara (2020)
 http://watchindia.net:8880/movie/54739/54739/2074.mkv
-#EXTINF:-1 group-title="Channel&Movies", Baaghi 3 (2020)
+#EXTINF:-1 group-title="Movies", Baaghi 3 (2020)
 http://watchindia.net:8880/movie/54739/54739/2075.mkv
-#EXTINF:-1 group-title="Channel&Movies", Doordarshan (2020)
+#EXTINF:-1 group-title="Movies", Doordarshan (2020)
 http://watchindia.net:8880/movie/54739/54739/2076.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kappela (2020)
+#EXTINF:-1 group-title="Movies", Kappela (2020)
 http://watchindia.net:8880/movie/54739/54739/2077.mkv
-#EXTINF:-1 group-title="Channel&Movies", She (2019)
+#EXTINF:-1 group-title="Movies", She (2019)
 http://watchindia.net:8880/movie/54739/54739/2078.mkv
-#EXTINF:-1 group-title="Channel&Movies", Penguin (2020)
+#EXTINF:-1 group-title="Movies", Penguin (2020)
 http://watchindia.net:8880/movie/54739/54739/2079.mkv
-#EXTINF:-1 group-title="Channel&Movies", Musical Chair (2020)
+#EXTINF:-1 group-title="Movies", Musical Chair (2020)
 http://watchindia.net:8880/movie/54739/54739/2086.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sufiyum Sujatayum (2020)
+#EXTINF:-1 group-title="Movies", Sufiyum Sujatayum (2020)
 http://watchindia.net:8880/movie/54739/54739/2087.mkv
-#EXTINF:-1 group-title="Channel&Movies", Eelam (2019)
+#EXTINF:-1 group-title="Movies", Eelam (2019)
 http://watchindia.net:8880/movie/54739/54739/2106.mkv
-#EXTINF:-1 group-title="Channel&Movies", Silencer (2020)
+#EXTINF:-1 group-title="Movies", Silencer (2020)
 http://watchindia.net:8880/movie/54739/54739/2107.mkv
-#EXTINF:-1 group-title="Channel&Movies", Yaara (2020)
+#EXTINF:-1 group-title="Movies", Yaara (2020)
 http://watchindia.net:8880/movie/54739/54739/2108.mkv
-#EXTINF:-1 group-title="Channel&Movies", Shakuntala Devi (2020)
+#EXTINF:-1 group-title="Movies", Shakuntala Devi (2020)
 http://watchindia.net:8880/movie/54739/54739/2109.mkv
-#EXTINF:-1 group-title="Channel&Movies", Raat Akeli Hai (2020)
+#EXTINF:-1 group-title="Movies", Raat Akeli Hai (2020)
 http://watchindia.net:8880/movie/54739/54739/2110.mkv
-#EXTINF:-1 group-title="Channel&Movies", Lootcase (2020)
+#EXTINF:-1 group-title="Movies", Lootcase (2020)
 http://watchindia.net:8880/movie/54739/54739/2111.avi
-#EXTINF:-1 group-title="Channel&Movies", Virgin Bhanupriya (2020)
+#EXTINF:-1 group-title="Movies", Virgin Bhanupriya (2020)
 http://watchindia.net:8880/movie/54739/54739/2112.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kilometers and Kilometers (2020)
+#EXTINF:-1 group-title="Movies", Kilometers and Kilometers (2020)
 http://watchindia.net:8880/movie/54739/54739/2128.mkv
-#EXTINF:-1 group-title="Channel&Movies", C U Soon. (2020)
+#EXTINF:-1 group-title="Movies", C U Soon. (2020)
 http://watchindia.net:8880/movie/54739/54739/2129.mkv
-#EXTINF:-1 group-title="Channel&Movies", Valiyaperunnal (2019)
+#EXTINF:-1 group-title="Movies", Valiyaperunnal (2019)
 http://watchindia.net:8880/movie/54739/54739/2130.mkv
-#EXTINF:-1 group-title="Channel&Movies", 2 States (2020)
+#EXTINF:-1 group-title="Movies", 2 States (2020)
 http://watchindia.net:8880/movie/54739/54739/2131.mkv
-#EXTINF:-1 group-title="Channel&Movies", Maniyarayile Ashokan (2020)
+#EXTINF:-1 group-title="Movies", Maniyarayile Ashokan (2020)
 http://watchindia.net:8880/movie/54739/54739/2132.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kannum Kannum Kollaiyadithaal (2020)
+#EXTINF:-1 group-title="Movies", Kannum Kannum Kollaiyadithaal (2020)
 http://watchindia.net:8880/movie/54739/54739/2133.mkv
-#EXTINF:-1 group-title="Channel&Movies", Irandam Kuththu (2020)
+#EXTINF:-1 group-title="Movies", Irandam Kuththu (2020)
 http://watchindia.net:8880/movie/54739/54739/2206.mkv
-#EXTINF:-1 group-title="Channel&Movies", Gatham (2020)
+#EXTINF:-1 group-title="Movies", Gatham (2020)
 http://watchindia.net:8880/movie/54739/54739/2207.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sab Kushal Mangal (2020)
+#EXTINF:-1 group-title="Movies", Sab Kushal Mangal (2020)
 http://watchindia.net:8880/movie/54739/54739/2208.mkv
-#EXTINF:-1 group-title="Channel&Movies", Biskoth (2020)
+#EXTINF:-1 group-title="Movies", Biskoth (2020)
 http://watchindia.net:8880/movie/54739/54739/2209.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mookuthi Amman (2020)
+#EXTINF:-1 group-title="Movies", Mookuthi Amman (2020)
 http://watchindia.net:8880/movie/54739/54739/2210.mkv
-#EXTINF:-1 group-title="Channel&Movies", Patra Vaitha Nerupondru (2020)
+#EXTINF:-1 group-title="Movies", Patra Vaitha Nerupondru (2020)
 http://watchindia.net:8880/movie/54739/54739/2211.mkv
-#EXTINF:-1 group-title="Channel&Movies", 13 aam Pakkam Paarkka (2014)
+#EXTINF:-1 group-title="Movies", 13 aam Pakkam Paarkka (2014)
 http://watchindia.net:8880/movie/54739/54739/2212.mkv
-#EXTINF:-1 group-title="Channel&Movies", Andhaghaaram (2020)
+#EXTINF:-1 group-title="Movies", Andhaghaaram (2020)
 http://watchindia.net:8880/movie/54739/54739/2213.mkv
-#EXTINF:-1 group-title="Channel&Movies", Naanga Romba Busy (2020)
+#EXTINF:-1 group-title="Movies", Naanga Romba Busy (2020)
 http://watchindia.net:8880/movie/54739/54739/2214.mp4
-#EXTINF:-1 group-title="Channel&Movies", Drishyam 2 (2021)
+#EXTINF:-1 group-title="Movies", Drishyam 2 (2021)
 http://watchindia.net:8880/movie/54739/54739/2218.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vaanku (2021)
+#EXTINF:-1 group-title="Movies", Vaanku (2021)
 http://watchindia.net:8880/movie/54739/54739/2219.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vellam (2021)
+#EXTINF:-1 group-title="Movies", Vellam (2021)
 http://watchindia.net:8880/movie/54739/54739/2220.mkv
-#EXTINF:-1 group-title="Channel&Movies", The Great Indian Kitchen (2021)
+#EXTINF:-1 group-title="Movies", The Great Indian Kitchen (2021)
 http://watchindia.net:8880/movie/54739/54739/2221.mkv
-#EXTINF:-1 group-title="Channel&Movies", Guardian (2021)
+#EXTINF:-1 group-title="Movies", Guardian (2021)
 http://watchindia.net:8880/movie/54739/54739/2222.mkv
-#EXTINF:-1 group-title="Channel&Movies", Prathividhi (2020)
+#EXTINF:-1 group-title="Movies", Prathividhi (2020)
 http://watchindia.net:8880/movie/54739/54739/2223.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bhoomiyile Manohara Swakaryam (2020)
+#EXTINF:-1 group-title="Movies", Bhoomiyile Manohara Swakaryam (2020)
 http://watchindia.net:8880/movie/54739/54739/2224.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kozhipporu (2020)
+#EXTINF:-1 group-title="Movies", Kozhipporu (2020)
 http://watchindia.net:8880/movie/54739/54739/2225.mkv
-#EXTINF:-1 group-title="Channel&Movies", Bhoomi (2021)
+#EXTINF:-1 group-title="Movies", Bhoomi (2021)
 http://watchindia.net:8880/movie/54739/54739/2226.mkv
-#EXTINF:-1 group-title="Channel&Movies", Master (2021)
+#EXTINF:-1 group-title="Movies", Master (2021)
 http://watchindia.net:8880/movie/54739/54739/2227.mkv
-#EXTINF:-1 group-title="Channel&Movies", Confessions of a Cuckoo (2021)
+#EXTINF:-1 group-title="Movies", Confessions of a Cuckoo (2021)
 http://watchindia.net:8880/movie/54739/54739/2229.mkv
-#EXTINF:-1 group-title="Channel&Movies", Middle Class Melodies (2020)
+#EXTINF:-1 group-title="Movies", Middle Class Melodies (2020)
 http://watchindia.net:8880/movie/54739/54739/2230.mkv
-#EXTINF:-1 group-title="Channel&Movies", Miss India (2020)
+#EXTINF:-1 group-title="Movies", Miss India (2020)
 http://watchindia.net:8880/movie/54739/54739/2235.mkv
-#EXTINF:-1 group-title="Channel&Movies", Soorarai Pottru (2020)
+#EXTINF:-1 group-title="Movies", Soorarai Pottru (2020)
 http://watchindia.net:8880/movie/54739/54739/2236.mkv
-#EXTINF:-1 group-title="Channel&Movies", Operation Java (2021)
+#EXTINF:-1 group-title="Movies", Operation Java (2021)
 http://watchindia.net:8880/movie/54739/54739/2241.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vishudha Rathrikal (2021)
+#EXTINF:-1 group-title="Movies", Vishudha Rathrikal (2021)
 http://watchindia.net:8880/movie/54739/54739/2242.mkv
-#EXTINF:-1 group-title="Channel&Movies", Aarkkariyam (2021)
+#EXTINF:-1 group-title="Movies", Aarkkariyam (2021)
 http://watchindia.net:8880/movie/54739/54739/2244.mkv
-#EXTINF:-1 group-title="Channel&Movies", Mohan Kumar Fans (2021)
+#EXTINF:-1 group-title="Movies", Mohan Kumar Fans (2021)
 http://watchindia.net:8880/movie/54739/54739/2245.mkv
-#EXTINF:-1 group-title="Channel&Movies", Nizhal (2021)
+#EXTINF:-1 group-title="Movies", Nizhal (2021)
 http://watchindia.net:8880/movie/54739/54739/2246.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sidharthan Enna Njan (2019)
+#EXTINF:-1 group-title="Movies", Sidharthan Enna Njan (2019)
 http://watchindia.net:8880/movie/54739/54739/2247.mkv
-#EXTINF:-1 group-title="Channel&Movies", The Kung Fu Master (2020)
+#EXTINF:-1 group-title="Movies", The Kung Fu Master (2020)
 http://watchindia.net:8880/movie/54739/54739/2248.mkv
-#EXTINF:-1 group-title="Channel&Movies", Kuttiyappanum Daivadhootharum
+#EXTINF:-1 group-title="Movies", Kuttiyappanum Daivadhootharum
 http://watchindia.net:8880/movie/54739/54739/2249.mkv
-#EXTINF:-1 group-title="Channel&Movies", Vishudha Pusthakam (2019)
+#EXTINF:-1 group-title="Movies", Vishudha Pusthakam (2019)
 http://watchindia.net:8880/movie/54739/54739/2250.mkv
-#EXTINF:-1 group-title="Channel&Movies", Sameer (2021)
+#EXTINF:-1 group-title="Movies", Sameer (2021)
 http://watchindia.net:8880/movie/54739/54739/2251.mkv
-#EXTINF:-1 group-title="Channel&Movies", Isha (2020)
+#EXTINF:-1 group-title="Movies", Isha (2020)
 http://watchindia.net:8880/movie/54739/54739/2252.mkv
-#EXTINF:-1 group-title="Channel&Movies", Varkey (2020)
+#EXTINF:-1 group-title="Movies", Varkey (2020)
 http://watchindia.net:8880/movie/54739/54739/2253.mkv
-#EXTINF:-1 group-title="Channel&Movies", Thimiram (2020)
+#EXTINF:-1 group-title="Movies", Thimiram (2020)
 http://watchindia.net:8880/movie/54739/54739/2254.mkv
-#EXTINF:-1 group-title="Channel&Movies", One (2021)
+#EXTINF:-1 group-title="Movies", One (2021)
 http://watchindia.net:8880/movie/54739/54739/2255.mkv
-#EXTINF:-1 group-title="Channel&Movies", Moral Nights (2021)
+#EXTINF:-1 group-title="Movies", Moral Nights (2021)
 http://watchindia.net:8880/movie/54739/54739/2256.mkv
-#EXTINF:-1 group-title="Channel&Movies", Krishnankutty Pani Thudangi (2021)
+#EXTINF:-1 group-title="Movies", Krishnankutty Pani Thudangi (2021)
 http://watchindia.net:8880/movie/54739/54739/2257.mkv
-#EXTINF:-1 group-title="Channel&Movies", Wolf (2021)
+#EXTINF:-1 group-title="Movies", Wolf (2021)
 http://watchindia.net:8880/movie/54739/54739/2258.mkv
-#EXTINF:-1 group-title="Channel&Movies", Adbhutham (2021)
+#EXTINF:-1 group-title="Movies", Adbhutham (2021)
 http://watchindia.net:8880/movie/54739/54739/2259.mkv
-#EXTINF:-1 group-title="Channel&Movies", Black Coffee (2021)
+#EXTINF:-1 group-title="Movies", Black Coffee (2021)
 http://watchindia.net:8880/movie/54739/54739/2262.mkv
-#EXTINF:-1 group-title="Channel&Movies", Wild Dog (2021)
+#EXTINF:-1 group-title="Movies", Wild Dog (2021)
 http://watchindia.net:8880/movie/54739/54739/2263.mkv
-#EXTINF:-1 group-title="Channel&Movies", The Priest (2021)
+#EXTINF:-1 group-title="Movies", The Priest (2021)
 http://watchindia.net:8880/movie/54739/54739/2269.mkv
