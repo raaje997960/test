@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Channel", Sony BBC Earth HD
 http://watchindia.net:8880/live/54739/54739/789.ts
-#EXTINF:-1 group-title="Channel", Sony TV HD
-http://watchindia.net:8880/live/54739/54739/1969.ts
-#EXTINF:-1 group-title="Channel", Sony TV HD 2
-http://watchindia.net:8880/live/54739/54739/2141.ts
 #EXTINF:-1 group-title="Channel", Star Movies HD
 http://watchindia.net:8880/live/54739/54739/2080.ts
 #EXTINF:-1 group-title="Channel", Star World HD
@@ -33,12 +29,6 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86113
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86114
 #EXTINF:-1 ,group-title="Channel ",  MAKKAL_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86119
-#EXTINF:-1 ,group-title="Channel ",  MK_SIX
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86127
-#EXTINF:-1 ,group-title="Channel ",  MK_TELEVISION
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86128
-#EXTINF:-1 ,group-title="Channel ",  MK_TUNES
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86129
 #EXTINF:-1 ,group-title="Channel ",  MOON_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86130
 #EXTINF:-1 ,group-title="Channel ",  SATHIYAM_TV
@@ -83,98 +73,14 @@ http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 #EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1622175914_MN tv.png",MN TV
 https://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1622174946_aus tamil.png",Aus Tamil
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-#EXTINF:-1 ,DAN TAMIL(INTL)
-https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
 #EXTINF:-1 ,GTA TV HD(INTL)
 http://142.44.213.115:8888//gta_tamil//index.m3u8
-#EXTINF:-1 ,3Tamil TV
-https://j78dp3o6yq5r-hls-live.5centscdn.com/threetamil1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 ,Aathavan HD(INTL)
-http://45.77.66.224:1935/athavantv/live_360p/chunklist_w1302877558.m3u8
-#EXTINF:-1 ,Aathavan Music HD(INTL)
-https://mhdtvapp.xyz/yupp/yupp.php?c=athavan-music-hd&e=.m3u8
-#EXTINF:-1 ,Vannam TV HD(INTL)
-http://tamiltvlive.herokuapp.com/http://remoteiptv.in:1935/vannamtv/vannamtv/playlist.m3u8
-#EXTINF:-1 ,Penguin TV(INTL)
-http://tamiltvlive.herokuapp.com/http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
 #EXTINF:-1 ,Tamil One
 https://mhdtvapp.xyz/yupp/yupp.php?c=tamil-one&e=.m3u8
 #EXTINF:-1 ,Yupp Tamil
 http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 #EXTINF:-1 ,Mon Tamil
 http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 ,Rasi Classic(Local)
-http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
-#EXTINF:-1 ,MN MUSIC HD(Local)
-http://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 ,Tatco TV(Local)
-http://tamiltvlive.herokuapp.com/http://live.singamcloud.in:1935/applemusic/applemusic/chunklist.m3u8
-#EXTINF:-1 ,Apple Digital TV(Local)
-http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
-#EXTINF:-1 ,Singam TV(Local)
-http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
-#EXTINF:-1 ,SMCV TV(Local)
-http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
-#EXTINF:-1 ,Abinaya TV(Local)
-http://tamiltvlive.herokuapp.com/http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
-#EXTINF:-1 ,7 STAR TV HD(Local)
-http://tamiltvlive.herokuapp.com/http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1 ,JAWAHAR TV HD(Local)
-http://tamiltvlive.herokuapp.com/http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-#EXTINF:-1 ,Vani TV HD(Local)
-http://tamiltvlive.herokuapp.com/http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
-#EXTINF:-1 ,AARYA TV HD(Local)
-http://tamiltvlive.herokuapp.com/http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
-#EXTINF:-1 ,KRISHNA TV HD(Local)
-http://tamiltvlive.herokuapp.com/http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1 ,Vaigai TV(Local)
-http://account9.livebox.co.in:80/vaigaitvhls/live.m3u8
-#EXTINF:-1 ,JAY TV HD(Local)
-http://livematrix.in:1935/live/jaytv/playlist.m3u8
-#EXTINF:-1 ,SANA TV HD(Local)
-http://tamiltvlive.herokuapp.com/http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-#EXTINF:-1 ,SANA Plus HD(Local)
-http://tamiltvlive.herokuapp.com/http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
-#EXTINF:-1 ,JAYAM Plus(Local)
-http://tamiltvlive.herokuapp.com/http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
-#EXTINF:-1 ,Asosa TV(Local)
-http://198.144.149.82:8080/NOTV/ASOSATVTAMIL/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 ,JAYAM TV(Local)
-http://tamiltvlive.herokuapp.com/http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
-#EXTINF:-1 ,EZHIL TV(Local)
-http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-#EXTINF:-1 ,Silver Sat HD(Local)
-http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
-#EXTINF:-1 ,KINGS TV(Local)
-http://103.98.62.134:8080/hls/kings.m3u8
-#EXTINF:-1 ,ULTRA MAX(Local)
-http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
-#EXTINF:-1 ,
-http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
-#EXTINF:-1 ,RJ TV(Local)
-http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/rjtv_low/index.m3u8
-#EXTINF:-1 ,Kavin TV(Local)
-http://site1.ultramaxnet.com:80/client/hls/namma-ooru-tv/kavintv/index.m3u8
-#EXTINF:-1 ,MAYA TV(Local)
-http://site1.ultramaxnet.com:80/client/hls/namma-ooru-tv/mayatv/index.m3u8
-#EXTINF:-1 ,Nanban TV(Local)
-http://site1.ultramaxnet.com:80/client/hls/namma-ooru-tv/nanbantv/index.m3u8
-#EXTINF:-1 ,Orange TV(Local)
-http://site1.ultramaxnet.com:80/client/hls/namma-ooru-tv/orangetv-XsFIvEYRNAQwU-stream/index.m3u8
-#EXTINF:-1 ,BAMA TV TAMIL(Local)
-http://livematrix.in:1935/bamahd/bamahd/playlist.m3u8
-#EXTINF:-1 ,N TV(Local)
-http://cdn.live5.in:1935/live/ntv/playlist.m3u8
-#EXTINF:-1 ,JAY TV(Local)
-http://livematrix.in:1935/live/jay/playlist.m3u8
-#EXTINF:-1 ,Xperss TV(Local)
-http://nextgeninfotech.ddns.net:8080/xpres/xpres.m3u8
-#EXTINF:-1 ,Anbu TV(Local)
-http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
-#EXTINF:-1 ,SAR TV(Local)
-http://livematrix.in:1935/sartv/sartv/playlist.m3u8
 #EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616321908_maa tv copy.png",Maa TV
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p)
