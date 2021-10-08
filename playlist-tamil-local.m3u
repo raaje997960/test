@@ -1,320 +1,297 @@
 #EXTM3U
-#EXTINF:-1 ,group-title="Channel ",  Sun Music HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
-#EXTINF:-1 ,group-title="Channel ",  Sun News
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
-#EXTINF:-1 ,group-title="Channel ",  Sun tv HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
-#EXTINF:-1 ,group-title="Channel ",  SUN_LIFE
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
-#EXTINF:-1 ,group-title="Channel ",  Jaya_Plus
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86064
-#EXTINF:-1 ,group-title="Channel ",  IMAYAM_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86105
-#EXTINF:-1 ,group-title="Channel ",  Dheeran_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86101
-#EXTINF:-1 ,group-title="Channel ",  CAPTAIN_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86097
-#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_CHITHIRAM
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86109
-#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_ISAI_ARUVI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86110
-#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_MURASU
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86111
-#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_SEITHIGAL
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86112
-#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_SIRIPPOLI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86113
-#EXTINF:-1 ,group-title="Channel ",  KALAIGNAR_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86114
-#EXTINF:-1 ,group-title="Channel ",  MAKKAL_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86119
-#EXTINF:-1 ,group-title="Channel ",  MOON_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86130
-#EXTINF:-1 ,group-title="Channel ",  SATHIYAM_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86143
-#EXTINF:-1 ,group-title="Channel ",  TAMILAN_TELEVISION
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86149
-#EXTINF:-1 ,group-title="Channel ",  WIN_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86163
-#EXTINF:-1 ,group-title="Channel ",  Zee Tamil HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616305845_hari tv.png",Hari Tv
-http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616319770_vani plus.png",Vani plus
-http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616305553_kalvi tv.png",Kalvi Tv
-http://198.144.149.82:8080/KALVI_GR10/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1618489114_sai tv.png",SAI TV
-http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616307885_malai musasu.png",Malai Murasu
-https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616305063_news18 tamilnadu.png",NEWS18 TAMILNADU
-http://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616305166_news 7.png",NEWS7 TAMIL
-http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616307885_malai musasu.png",Malai Murasu
-https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616307129_thanthi tv.png",Thanthi TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1622186279_sun music.png",Sun Music
-http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1622176561_santhoratv.png",Santhora tv
-http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1622176085_tvi hd.png",TVI HD
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1622175914_MN tv.png",MN TV
-https://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1 ,GTA TV HD(INTL)
-http://142.44.213.115:8888//gta_tamil//index.m3u8
-#EXTINF:-1 ,Tamil One
-https://mhdtvapp.xyz/yupp/yupp.php?c=tamil-one&e=.m3u8
-#EXTINF:-1 ,Yupp Tamil
-http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
-#EXTINF:-1 ,Mon Tamil
-http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 group-title="Channel" tvg-logo="https://singamcloud.com/tv/upload/1616321908_maa tv copy.png",Maa TV
-http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p)
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/P5EXpPy.jpg",7S Music (576p)
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/IgwQ7o5.png",Aathavan TV (720p) [Not 24/7]
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/hAgaVPa.jpg",Akaram Kidz (460p) [Not 24/7]
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png",Asianet News Tamil (360p)
-https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/UXg6sac.png",Captain TV (576p)
-http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/f7J37yv.png",EET TV (720p) [Not 24/7]
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/radWIeb.png",Isai Aruvi (576p)
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg",Kalaignar (576p)
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/ZDXVWVQ.png",Kalaignar Murasu (576p)
-http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qWOnWhQ.png",Kalaignar Seithikal (576p)
-http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://i.imgur.com/bqXRXaZ.png",Kalaignar Sirippoli (576p)
-http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Sv4bLGX.png",Makkal TV (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0l1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/FAytBoW.png",MK Six (576p)
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/m8DPQd6.png",MK Tunes (576p)
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/UxxbaR3.png",MK TV (576p)
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/oBjgUTc.png",News 7 Tamil (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0kp/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/xgEQiso.png",Peppers (576p)
-http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/1q1LQQ9.png",Puthuyugam TV (576p)
-http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/D03gyp2.png",Sana TV (576p) [Not 24/7]
-http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/LsacUVi.png",Santhora TV (720p)
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1 group-title="Channel", Sony BBC Earth HD
-http://watchindia.net:8880/live/54739/54739/789.ts
-#EXTINF:-1 group-title="Channel", Star Movies HD
-http://watchindia.net:8880/live/54739/54739/2080.ts
-#EXTINF:-1 group-title="Channel", Star World HD
-http://watchindia.net:8880/live/54739/54739/2191.ts
 
-#EXTINF:-1 ,Sneh TAMIL (HD)- ADHTIYA TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
-#EXTINF:-1 ,Sneh TAMIL (HD)- COLORS TAMIL HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
-#EXTINF:-1 ,Sneh TAMIL (HD)- DD PODHIGAI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40809
-#EXTINF:-1 ,Sneh TAMIL (HD)- FOX LIFE HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
-#EXTINF:-1 ,Sneh TAMIL (HD)- JAYA TV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40814
-#EXTINF:-1 ,Sneh TAMIL (HD)- KTV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40815
-#EXTINF:-1 ,Sneh TAMIL (HD)- NAT GEO WILD HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40817
-#EXTINF:-1 ,Sneh TAMIL (HD)- NATIONAL GEOGRAPHIC HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40818
-#EXTINF:-1 ,Sneh TAMIL (HD)- RAJ TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40821
-#EXTINF:-1 ,Sneh TAMIL (HD)- SONY BBC EARTH HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
-#EXTINF:-1 ,Sneh TAMIL (HD)- STAR VIJAY HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40824
-#EXTINF:-1 ,Sneh TAMIL (HD)- SUN LIFE
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40825
-#EXTINF:-1 ,Sneh TAMIL (HD)- SUN TV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40828
-#EXTINF:-1 ,Sneh TAMIL (HD)- ZEE TAMIL HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40835
-#EXTINF:-1 ,Sneh TAMIL (HD)- TVI HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40847
-#EXTINF:-1 ,Sneh TAMIL (HD)- ATHAVAN TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40851
-#EXTINF:-1 ,group-title="Channel ",  7SMUSIC
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86088
-http://watchindia.net:8880/live/54739/54739/2081.ts
-#EXTINF:-1 group-title="Channel", Star Maa HD 1
-http://watchindia.net:8880/live/54739/54739/933.ts
-#EXTINF:-1 group-title="Channel", Star Maa HD 2
-http://watchindia.net:8880/live/54739/54739/2168.ts
-#EXTINF:-1 group-title="Channel", Star Maa Movies HD
-http://watchindia.net:8880/live/54739/54739/934.ts
-#EXTINF:-1 group-title="Channel", Star Maa Gold HD
-http://watchindia.net:8880/live/54739/54739/935.ts
-#EXTINF:-1 group-title="Channel", Star Vijay HD
-http://watchindia.net:8880/live/54739/54739/846.ts
-#EXTINF:-1 group-title="Channel", Star Vijay HD 2
-http://watchindia.net:8880/live/54739/54739/2140.ts
-#EXTINF:-1 group-title="Channel", Star Vijay Super
-http://watchindia.net:8880/live/54739/54739/2190.ts
-#EXTINF:-1 group-title="Channel", Sun TV HD
+#EXTINF:-1 ,group-title="Tamil@Channel", Sun TV HD 
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
+#EXTINF:-1 group-title="Tamil@Channel", Sun TV HD 1
 http://watchindia.net:8880/live/54739/54739/843.ts
-#EXTINF:-1 group-title="Channel", Sun TV HD USA
+#EXTINF:-1 group-title="Tamil@Channel",SUN TV HD 2
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40828
+#EXTINF:-1 group-title="Tamil@Channel", Sun TV HD USA
 http://watchindia.net:8880/live/54739/54739/2089.ts
-#EXTINF:-1 group-title="Channel", Sun Life
-http://watchindia.net:8880/live/54739/54739/847.ts
-#EXTINF:-1 group-title="Channel", Sun Music HD
-http://watchindia.net:8880/live/54739/54739/844.ts
-#EXTINF:-1 group-title="Channel", Sun News
-http://watchindia.net:8880/live/54739/54739/869.ts
-#EXTINF:-1 group-title="Channel", Sirippoli TV
-http://watchindia.net:8880/live/54739/54739/2084.ts
-#EXTINF:-1 group-title="Channel", Adithya TV
-http://watchindia.net:8880/live/54739/54739/855.ts
-#EXTINF:-1 group-title="Channel", Colors Tamil
+#EXTINF:-1 group-title="Tamil@Channel", Star Vijay HD
+http://watchindia.net:8880/live/54739/54739/846.ts
+#EXTINF:-1 group-title="Tamil@Channel", Star Vijay HD 1
+http://watchindia.net:8880/live/54739/54739/2140.ts
+#EXTINF:-1 group-title="Tamil@Channel",STAR VIJAY HD 2
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40824
+#EXTINF:-1 group-title="Tamil@Channel", Star Vijay Super
+http://watchindia.net:8880/live/54739/54739/2190.ts
+#EXTINF:-1 ,group-title="Tamil@Channel", SUN_LIFE
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
+#EXTINF:-1 group-title="Tamil@Channel",SUN LIFE 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40825
+#EXTINF:-1 group-title="Tamil@Channel", Colors Tamil
 http://watchindia.net:8880/live/54739/54739/2083.ts
-#EXTINF:-1 group-title="Channel", Captain News
-http://watchindia.net:8880/live/54739/54739/878.ts
-#EXTINF:-1 group-title="Channel", Captain TV
-http://watchindia.net:8880/live/54739/54739/876.ts
-#EXTINF:-1 group-title="Channel", Discovery Tamil
-http://watchindia.net:8880/live/54739/54739/2085.ts
-#EXTINF:-1 group-title="Channel", History TV HD
-http://watchindia.net:8880/live/54739/54739/791.ts
-#EXTINF:-1 group-title="Channel", Jaya Max
-http://watchindia.net:8880/live/54739/54739/852.ts
-#EXTINF:-1 group-title="Channel", Jaya Movie
-http://watchindia.net:8880/live/54739/54739/849.ts
-#EXTINF:-1 group-title="Channel", Jaya Plus
-http://watchindia.net:8880/live/54739/54739/850.ts
-#EXTINF:-1 group-title="Channel", Jaya TV HD
-http://watchindia.net:8880/live/54739/54739/851.ts
-#EXTINF:-1 group-title="Channel", Isaiaruvi TV
-http://watchindia.net:8880/live/54739/54739/2149.ts
-#EXTINF:-1 group-title="Channel", Kalaignar TV
-http://watchindia.net:8880/live/54739/54739/2148.ts
-#EXTINF:-1 group-title="Channel", KTV HD
-http://watchindia.net:8880/live/54739/54739/845.ts
-#EXTINF:-1 group-title="Channel", Makkal TV
-http://watchindia.net:8880/live/54739/54739/871.ts
-#EXTINF:-1 group-title="Channel", Murasu TV
-http://watchindia.net:8880/live/54739/54739/880.ts
-#EXTINF:-1 group-title="Channel", National Geographic HD
-http://watchindia.net:8880/live/54739/54739/790.ts
-#EXTINF:-1 group-title="Channel", Peppers
-http://watchindia.net:8880/live/54739/54739/870.ts
-#EXTINF:-1 group-title="Channel", Polimer TV
-http://watchindia.net:8880/live/54739/54739/2147.ts
-#EXTINF:-1 group-title="Channel", Polimer News
-http://watchindia.net:8880/live/54739/54739/877.ts
-#EXTINF:-1 group-title="Channel", Puthiya Thalaimurai
-http://watchindia.net:8880/live/54739/54739/879.ts
-#EXTINF:-1 group-title="Channel", Puthuyugam TV
-http://watchindia.net:8880/live/54739/54739/865.ts
-#EXTINF:-1 group-title="Channel", Raj Digital Plus
-http://watchindia.net:8880/live/54739/54739/857.ts
-#EXTINF:-1 group-title="Channel", Raj Musix
-http://watchindia.net:8880/live/54739/54739/286.ts
-#EXTINF:-1 group-title="Channel", Raj News
-http://watchindia.net:8880/live/54739/54739/291.ts
-#EXTINF:-1 group-title="Channel", Raj TV
-http://watchindia.net:8880/live/54739/54739/854.ts
-#EXTINF:-1 group-title="Channel", Tamil Vision TV
-http://watchindia.net:8880/live/54739/54739/863.ts
-#EXTINF:-1 group-title="Channel", Tamilian TV
-http://watchindia.net:8880/live/54739/54739/864.ts
-#EXTINF:-1 group-title="Channel", Thanthi TV
-http://watchindia.net:8880/live/54739/54739/860.ts
-#EXTINF:-1 group-title="Channel", Thanthi TV
-http://watchindia.net:8880/live/54739/54739/947.ts
-#EXTINF:-1 group-title="Channel", TravelXP HD
-http://watchindia.net:8880/live/54739/54739/792.ts
-#EXTINF:-1 group-title="Channel", Vasanth TV
-http://watchindia.net:8880/live/54739/54739/858.ts
-#EXTINF:-1 group-title="Channel", Vendhar TV
-http://watchindia.net:8880/live/54739/54739/2146.ts
-#EXTINF:-1 group-title="Channel", Zee Tamil
-http://watchindia.net:8880/live/54739/54739/887.ts
-#EXTINF:-1 group-title="Channel", Sony Pix HD
-http://watchindia.net:8880/live/54739/54739/2101.ts
-#EXTINF:-1 group-title="Channel", Movies Now HD
-http://watchindia.net:8880/live/54739/54739/2102.ts
-#EXTINF:-1 group-title="Channel", Discovery Channel
-http://watchindia.net:8880/live/54739/54739/2036.ts
-#EXTINF:-1 group-title="Channel", Discovery Life
-http://watchindia.net:8880/live/54739/54739/2124.ts
-#EXTINF:-1 group-title="Channel", National Geographic
-http://watchindia.net:8880/live/54739/54739/2037.ts
-#EXTINF:-1 group-title="Channel", Nat Geo Wild
-http://watchindia.net:8880/live/54739/54739/2047.ts
-#EXTINF:-1 group-title="Channel", Animal Planet
-http://watchindia.net:8880/live/54739/54739/2039.ts
-#EXTINF:-1 group-title="Channel", Zee Thirai
-http://watchindia.net:8880/live/54739/54739/2142.ts
-#EXTINF:-1 group-title="Channel", Kalaignar News
-http://watchindia.net:8880/live/54739/54739/874.ts
-#EXTINF:-1 group-title="Sports",Sony Six HD 1
-http://watchindia.net:8880/live/54739/54739/1763.ts
-#EXTINF:-1 group-title="Sports",Sony Six HD 2
-http://watchindia.net:8880/live/54739/54739/2144.ts
-#EXTINF:-1 group-title="Sports",Sony Ten 1 HD 1
-http://watchindia.net:8880/live/54739/54739/1756.ts
-#EXTINF:-1 group-title="Sports",Sony Ten 1 HD 2
-http://watchindia.net:8880/live/54739/54739/2215.ts
-#EXTINF:-1 group-title="Sports",Sony Ten 2 HD
-http://watchindia.net:8880/live/54739/54739/1757.ts
-#EXTINF:-1 group-title="Sports",Sony Ten 3 HD
-http://watchindia.net:8880/live/54739/54739/1758.ts
-#EXTINF:-1 group-title="Sports",Ten Sports
-http://watchindia.net:8880/live/54739/54739/1068.ts
-#EXTINF:-1 group-title="Sports",Star Sports 1 HD Hindi 1
-http://watchindia.net:8880/live/54739/54739/1072.ts
-#EXTINF:-1 group-title="Sports",Star Sports 1 HD Hindi 2
-http://watchindia.net:8880/live/54739/54739/2167.ts
-#EXTINF:-1 group-title="Sports",Star Sports 1 HD 1
-http://watchindia.net:8880/live/54739/54739/808.ts
-#EXTINF:-1 group-title="Sports",Star Sports 1 HD 2
-http://watchindia.net:8880/live/54739/54739/2162.ts
-#EXTINF:-1 group-title="Sports",Star Sports 1 HD 3
-http://watchindia.net:8880/live/54739/54739/2186.ts
-#EXTINF:-1 group-title="Sports",Star Sports 1 HD 4
-http://watchindia.net:8880/live/54739/54739/2232.ts
-#EXTINF:-1 group-title="Sports",Star Sports 2 HD 1
-http://watchindia.net:8880/live/54739/54739/1069.ts
-#EXTINF:-1 group-title="Sports",Star Sports 2 HD 2
-http://watchindia.net:8880/live/54739/54739/2163.ts
-#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD
-http://watchindia.net:8880/live/54739/54739/1070.ts
-#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
-http://watchindia.net:8880/live/54739/54739/1071.ts
-#EXTINF:-1 group-title="Channel", Malayalam Box Office
-http://watchindia.net:8880/live/54739/54739/2156.ts
-#EXTINF:-1 group-title="Channel", Bollywood Box Office
-http://watchindia.net:8880/live/54739/54739/2157.ts
-#EXTINF:-1 group-title="Channel", Kollywood Box Office
-http://watchindia.net:8880/live/54739/54739/2152.ts
-#EXTINF:-1 group-title="Channel", Colors TV HD 2
+#EXTINF:-1 group-title="Tamil@Channel", Colors TV HD 1
 http://watchindia.net:8880/live/54739/54739/2264.ts
-#EXTINF:-1 group-title="Channel", Telugu Box Office
-http://watchindia.net:8880/live/54739/54739/2155.ts
-#EXTINF:-1 group-title="Channel", Bol Entertainment
-http://watchindia.net:8880/live/54739/54739/1030.ts
+#EXTINF:-1 group-title="Tamil@Channel",COLORS TAMIL HD 2
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
+#EXTINF:-1 group-title="Tamil@Channel", Zee Tamil
+http://watchindia.net:8880/live/54739/54739/887.ts
+#EXTINF:-1 group-title="Tamil@Channel",ZEE TAMIL HD 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40835
+#EXTINF:-1 ,group-title="Tamil@Channel",  Zee Tamil HD 2
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
+#EXTINF:-1 ,group-title="Tamil@Channel",  Jaya_Plus
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86064
+#EXTINF:-1 group-title="Tamil@Channel", Jaya Plus 1
+http://watchindia.net:8880/live/54739/54739/850.ts
+#EXTINF:-1 group-title="Tamil@Channel", Jaya TV HD
+http://watchindia.net:8880/live/54739/54739/851.ts
+#EXTINF:-1 group-title="Tamil@Channel",JAYA TV HD 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40814
+#EXTINF:-1 ,group-title="Tamil@Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg",  KALAIGNAR_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86114
+#EXTINF:-1 group-title="Tamil@Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg", KALAIGNAR_TV 1
+http://watchindia.net:8880/live/54739/54739/2148.ts
+#EXTINF:-1  group-title="Tamil@Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg",KALAIGNAR_TV 2
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 ,group-title="Tamil@Channel",  CAPTAIN_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86097
+#EXTINF:-1 group-title="Tamil@Channel", CAPTAIN_TV 1
+http://watchindia.net:8880/live/54739/54739/876.ts
+#EXTINF:-1 group-title="Tamil@Channel" tvg-logo="https://i.imgur.com/UXg6sac.png",CAPTAIN_TV 2
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 group-title="Tamil@Channel" tvg-logo="https://i.imgur.com/bqXRXaZ.png",Kalaignar Sirippoli
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1 ,group-title="Tamil@Channel",  Kalaignar Sirippoli 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86113
+#EXTINF:-1 group-title="Tamil@Channel", Kalaignar Sirippoli 2
+http://watchindia.net:8880/live/54739/54739/2084.ts
+#EXTINF:-1 group-title="Tamil@Channel", Adithya TV
+http://watchindia.net:8880/live/54739/54739/855.ts
+#EXTINF:-1 group-title="Tamil@Channel",Adithya TV 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
+#EXTINF:-1 group-title="Tamil@Channel" tvg-logo="https://i.imgur.com/Sv4bLGX.png",Makkal TV
+http://14.199.164.20:4001/play/a0l1/index.m3u8
+#EXTINF:-1 group-title="Tamil@Channel", Raj TV
+http://watchindia.net:8880/live/54739/54739/854.ts
+#EXTINF:-1 group-title="Tamil@Channel",RAJ TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40821
+#EXTINF:-1 group-title="Tamil@Channel", Peppers
+http://watchindia.net:8880/live/54739/54739/870.ts
+#EXTINF:-1 group-title="Tamil@Channel" tvg-logo="https://i.imgur.com/xgEQiso.png",Peppers
+http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
+#EXTINF:-1 ,group-title="Tamil@Channel",  IMAYAM_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86105
+#EXTINF:-1 ,group-title="Tamil@Channel",  Dheeran_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86101
+#EXTINF:-1 group-title="Tamil@Channel", Polimer TV
+http://watchindia.net:8880/live/54739/54739/2147.ts
+#EXTINF:-1 group-title="Tamil@Channel",DD PODHIGAI
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40809
+#EXTINF:-1  group-title="Tamil@Channel" tvg-logo="https://i.imgur.com/1q1LQQ9.png",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 group-title="Tamil@Channel", Vasanth TV
+http://watchindia.net:8880/live/54739/54739/858.ts
+#EXTINF:-1 group-title="Tamil@Channel", Vendhar TV
+http://watchindia.net:8880/live/54739/54739/2146.ts
+#EXTINF:-1 group-title="Tamil@Channel", Tamilian TV
+http://watchindia.net:8880/live/54739/54739/864.ts
+#EXTINF:-1 ,group-title="Tamil@Channel",  TAMILAN_TELEVISION
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86149
+#EXTINF:-1 ,group-title="Tamil@Channel",  MOON_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86130
+#EXTINF:-1 ,group-title="Tamil@Channel",  SATHIYAM_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86143
+#EXTINF:-1 ,group-title="Tamil@Channel",  WIN_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86163
+#EXTINF:-1 group-title="Tamil@Movies",Yupp Tamil
+http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
+#EXTINF:-1 group-title="Tamil@Movies", Kollywood Box Office
+http://watchindia.net:8880/live/54739/54739/2152.ts
+#EXTINF:-1 group-title="Tamil@Movies", Zee Thirai
+http://watchindia.net:8880/live/54739/54739/2142.ts
+#EXTINF:-1 group-title="Tamil@Movies", KTV HD
+http://watchindia.net:8880/live/54739/54739/845.ts
+#EXTINF:-1 group-title="Tamil@Movies",KTV HD 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40815
+#EXTINF:-1 group-title="Tamil@Movies", Jaya Movie
+http://watchindia.net:8880/live/54739/54739/849.ts
+#EXTINF:-1 group-title="Tamil@Movies", Jaya Max
+http://watchindia.net:8880/live/54739/54739/852.ts
+#EXTINF:-1 group-title="Tamil@Movies", Sun Life
+http://watchindia.net:8880/live/54739/54739/847.ts
+#EXTINF:-1 group-title="Tamil@Movies",  KALAIGNAR_CHITHIRAM
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86109
+#EXTINF:-1 group-title="Tamil@Movies", Raj Digital Plus
+http://watchindia.net:8880/live/54739/54739/857.ts
+#EXTINF:-1 group-title="Tamil@Movies", Puthuyugam TV
+http://watchindia.net:8880/live/54739/54739/865.ts
+#EXTINF:-1 group-title="Tamil@News", Sun News
+http://watchindia.net:8880/live/54739/54739/869.ts
+#EXTINF:-1 ,group-title="Tamil@News",  Sun News 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
+#EXTINF:-1 group-title="Tamil@News", Kalaignar News
+http://watchindia.net:8880/live/54739/54739/874.ts
+#EXTINF:-1 ,group-title="Tamil@News",  KALAIGNAR_SEITHIGAL 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86112
+#EXTINF:-1 group-title="Tamil@News" tvg-logo="https://i.imgur.com/qWOnWhQ.png",Kalaignar Seithikal 2
+http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
+#EXTINF:-1 group-title="Tamil@News", Thanthi TV
+http://watchindia.net:8880/live/54739/54739/860.ts
+#EXTINF:-1 group-title="Tamil@News", Thanthi TV 1
+http://watchindia.net:8880/live/54739/54739/947.ts
+#EXTINF:-1 group-title="Tamil@News" tvg-logo="https://singamcloud.com/tv/upload/1616307129_thanthi tv.png",Thanthi TV 2
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
+#EXTINF:-1 group-title="Tamil@News" tvg-logo="https://i.imgur.com/oBjgUTc.png",News 7 Tamil
+http://14.199.164.20:4001/play/a0kp/index.m3u8
+#EXTINF:-1 group-title="Tamil@News" tvg-logo="https://singamcloud.com/tv/upload/1616305166_news 7.png",NEWS7 TAMIL 1
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 group-title="Tamil@News" tvg-logo="https://singamcloud.com/tv/upload/1616305063_news18 tamilnadu.png",NEWS18 TAMILNADU
+http://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Tamil@News", Raj News
+http://watchindia.net:8880/live/54739/54739/291.ts
+#EXTINF:-1 group-title="Tamil@News", Polimer News
+http://watchindia.net:8880/live/54739/54739/877.ts
+#EXTINF:-1 group-title="Tamil@News", Puthiya Thalaimurai
+http://watchindia.net:8880/live/54739/54739/879.ts
+#EXTINF:-1 group-title="Tamil@News", Captain News
+http://watchindia.net:8880/live/54739/54739/878.ts
+#EXTINF:-1 group-title="Tamil@News" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png",Asianet News Tamil
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 group-title="Tamil@News", Murasu TV
+http://watchindia.net:8880/live/54739/54739/880.ts
+#EXTINF:-1 group-title="Tamil@News" tvg-logo="https://singamcloud.com/tv/upload/1616307885_malai musasu.png",Malai Murasu
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+#EXTINF:-1 ,group-title="Tamil@Music",  Sun Music HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
+#EXTINF:-1 group-title="Tamil@Music", Sun Music HD 1
+http://watchindia.net:8880/live/54739/54739/844.ts
+#EXTINF:-1 group-title="Tamil@Music" tvg-logo="https://singamcloud.com/tv/upload/1622186279_sun music.png",Sun Music
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8
+#EXTINF:-1 group-title="Tamil@Music", Isaiaruvi TV
+http://watchindia.net:8880/live/54739/54739/2149.ts
+#EXTINF:-1 group-title="Tamil@Music" tvg-logo="https://i.imgur.com/radWIeb.png",Isai Aruvi 1
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 ,group-title="Tamil@Music",  KALAIGNAR_ISAI_ARUVI 2
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86110
+#EXTINF:-1 ,group-title="Tamil@Music",  7SMUSIC
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86088
+#EXTINF:-1 group-title="Tamil@Music" tvg-logo="https://i.imgur.com/P5EXpPy.jpg",7S Music 1
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://singamcloud.com/tv/upload/1616305845_hari tv.png",Hari Tv
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://i.imgur.com/D03gyp2.png",Sana TV
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1  group-title="Tamil@Local" tvg-logo="https://i.imgur.com/FAytBoW.png",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1  group-title="Tamil@Local" tvg-logo="https://i.imgur.com/m8DPQd6.png",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://i.imgur.com/UxxbaR3.png",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://singamcloud.com/tv/upload/1616321908_maa tv copy.png",Maa TV
+http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil@Local", Mon Tamil
+http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 group-title="Tamil@Local", GTA TV HD(INTL)
+http://142.44.213.115:8888//gta_tamil//index.m3u8
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://singamcloud.com/tv/upload/1622176085_tvi hd.png",TVI HD
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1 group-title="Tamil@Local", TVI HD 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40847
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://singamcloud.com/tv/upload/1622175914_MN tv.png",MN TV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://singamcloud.com/tv/upload/1616319770_vani plus.png",Vani plus
+http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://singamcloud.com/tv/upload/1618489114_sai tv.png",SAI TV
+http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8
+#EXTINF:-1 group-title="Tamil@Local", Tamil Vision TV
+http://watchindia.net:8880/live/54739/54739/863.ts
+#EXTINF:-1 group-title="Tamil@Local", ATHAVAN TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40851
+#EXTINF:-1  group-title="Tamil@Local", tvg-logo="https://i.imgur.com/LsacUVi.png",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://singamcloud.com/tv/upload/1622176561_santhoratv.png",Santhora tv 1
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://i.imgur.com/f7J37yv.png",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://i.imgur.com/IgwQ7o5.png",Aathavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 group-title="Tamil@Local" tvg-logo="https://i.imgur.com/P5EXpPy.jpg",7S Music 
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="Tamil@Local", Tamil One
+https://mhdtvapp.xyz/yupp/yupp.php?c=tamil-one&e=.m3u8
+#EXTINF:-1 group-title="Discover&Geographic", Sony BBC Earth HD
+http://watchindia.net:8880/live/54739/54739/789.ts
+#EXTINF:-1 group-title="Discover&Geographic",SONY BBC EARTH HD TAMIL
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
+#EXTINF:-1 group-title="Discover&Geographic", Discovery Channel
+http://watchindia.net:8880/live/54739/54739/2036.ts
+#EXTINF:-1 group-title="Discover&Geographic", Discovery Tamil
+http://watchindia.net:8880/live/54739/54739/2085.ts
+#EXTINF:-1 group-title="Discover&Geographic", History TV HD
+http://watchindia.net:8880/live/54739/54739/791.ts
+#EXTINF:-1 group-title="Discover&Geographic", Discovery Life
+http://watchindia.net:8880/live/54739/54739/2124.ts
+#EXTINF:-1 group-title="Discover&Geographic",NATIONAL GEOGRAPHIC HD TAMIL
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40818
+#EXTINF:-1 group-title="Discover&Geographic", National Geographic
+http://watchindia.net:8880/live/54739/54739/2037.ts
+#EXTINF:-1 group-title="Discover&Geographic", National Geographic HD
+http://watchindia.net:8880/live/54739/54739/790.ts
+#EXTINF:-1 group-title="Discover&Geographic",NAT GEO WILD HD TAMIL
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40817
+#EXTINF:-1 group-title="Discover&Geographic", Nat Geo Wild
+http://watchindia.net:8880/live/54739/54739/2047.ts
+#EXTINF:-1 group-title="Discover&Geographic", Animal Planet
+http://watchindia.net:8880/live/54739/54739/2039.ts
+#EXTINF:-1 group-title="Discover&Geographic", TravelXP HD
+http://watchindia.net:8880/live/54739/54739/792.ts
+#EXTINF:-1 group-title="Discover&Geographic",FOX LIFE HD TAMIL
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
+#EXTINF:-1 group-title="Sports@Channel",Sony Six HD 1
+http://watchindia.net:8880/live/54739/54739/1763.ts
+#EXTINF:-1 group-title="Sports@Channel",Sony Six HD 2
+http://watchindia.net:8880/live/54739/54739/2144.ts
+#EXTINF:-1 group-title="Sports@Channel",Sony Ten 1 HD 1
+http://watchindia.net:8880/live/54739/54739/1756.ts
+#EXTINF:-1 group-title="Sports@Channel",Sony Ten 1 HD 2
+http://watchindia.net:8880/live/54739/54739/2215.ts
+#EXTINF:-1 group-title="Sports@Channel",Sony Ten 2 HD
+http://watchindia.net:8880/live/54739/54739/1757.ts
+#EXTINF:-1 group-title="Sports@Channel",Sony Ten 3 HD
+http://watchindia.net:8880/live/54739/54739/1758.ts
+#EXTINF:-1 group-title="Sports@Channel",Ten Sports
+http://watchindia.net:8880/live/54739/54739/1068.ts
+#EXTINF:-1 group-title="Sports@Channel",Star Sports 1 HD Hindi 1
+http://watchindia.net:8880/live/54739/54739/1072.ts
+#EXTINF:-1 group-title="Sports@Channel",Star Sports 1 HD Hindi 2
+http://watchindia.net:8880/live/54739/54739/2167.ts
+#EXTINF:-1 group-title="Sports@Channel",Star Sports 1 HD 1
+http://watchindia.net:8880/live/54739/54739/808.ts
+#EXTINF:-1 group-title="Sports@Channel",Star Sports 1 HD 2
+http://watchindia.net:8880/live/54739/54739/2162.ts
+#EXTINF:-1 group-title="Sports@Channel",Star Sports 1 HD 3
+http://watchindia.net:8880/live/54739/54739/2186.ts
+#EXTINF:-1 group-title="Sports@Channel",Star Sports 1 HD 4
+http://watchindia.net:8880/live/54739/54739/2232.ts
+#EXTINF:-1 group-title="Sports@Channel",Star Sports 2 HD 1
+http://watchindia.net:8880/live/54739/54739/1069.ts
+#EXTINF:-1 group-title="Sports@Channel",Star Sports 2 HD 2
+http://watchindia.net:8880/live/54739/54739/2163.ts
+#EXTINF:-1 group-title="Sports@Channel",Star Sports Select 1 HD
+http://watchindia.net:8880/live/54739/54739/1070.ts
+#EXTINF:-1 group-title="Sports@Channel",Star Sports Select 2 HD
+http://watchindia.net:8880/live/54739/54739/1071.ts
+#EXTINF:-1 group-title="Others@Channel", Star Maa HD 1
+http://watchindia.net:8880/live/54739/54739/933.ts
+#EXTINF:-1 group-title="Others@Channel", Star Maa HD 2
+http://watchindia.net:8880/live/54739/54739/2168.ts
+#EXTINF:-1 group-title="Others@Channel", Star Maa Movies HD
+http://watchindia.net:8880/live/54739/54739/934.ts
+#EXTINF:-1 group-title="Others@Channel", Star Maa Gold HD
+http://watchindia.net:8880/live/54739/54739/935.ts
+#EXTINF:-1 group-title="Movies@English", Sony Pix HD
+http://watchindia.net:8880/live/54739/54739/2101.ts
+#EXTINF:-1 group-title="Movies@English", Movies Now HD
+http://watchindia.net:8880/live/54739/54739/2102.ts
+#EXTINF:-1 group-title="Movies@English", Star Movies HD
+http://watchindia.net:8880/live/54739/54739/2080.ts
+#EXTINF:-1 group-title="Movies@English", Star World HD
+http://watchindia.net:8880/live/54739/54739/2191.ts
+#EXTINF:-1 group-title="Movies@English", HBO
+http://watchindia.net:8880/live/54739/54739/2081.ts
 
 #EXTINF:-1 group-title="Movies", Anjaam Pathiraa (2020)
 http://watchindia.net:8880/movie/54739/54739/1076.mkv
