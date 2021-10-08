@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="Channel", Sony BBC Earth HD
-http://watchindia.net:8880/live/54739/54739/789.ts
-#EXTINF:-1 group-title="Channel", Star Movies HD
-http://watchindia.net:8880/live/54739/54739/2080.ts
-#EXTINF:-1 group-title="Channel", Star World HD
-http://watchindia.net:8880/live/54739/54739/2191.ts
-#EXTINF:-1 group-title="Channel" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",HBO (MY)
-https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 ,group-title="Channel ",  Sun Music HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
+#EXTINF:-1 ,group-title="Channel ",  Sun News
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
+#EXTINF:-1 ,group-title="Channel ",  Sun tv HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
+#EXTINF:-1 ,group-title="Channel ",  SUN_LIFE
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
 #EXTINF:-1 ,group-title="Channel ",  Jaya_Plus
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86064
 #EXTINF:-1 ,group-title="Channel ",  IMAYAM_TV
@@ -33,14 +33,6 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86119
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86130
 #EXTINF:-1 ,group-title="Channel ",  SATHIYAM_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86143
-#EXTINF:-1 ,group-title="Channel ",  Sun Music HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
-#EXTINF:-1 ,group-title="Channel ",  Sun News
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
-#EXTINF:-1 ,group-title="Channel ",  Sun tv HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
-#EXTINF:-1 ,group-title="Channel ",  SUN_LIFE
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
 #EXTINF:-1 ,group-title="Channel ",  TAMILAN_TELEVISION
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86149
 #EXTINF:-1 ,group-title="Channel ",  WIN_TV
@@ -125,6 +117,12 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/LsacUVi.png",Santhora TV (720p)
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 group-title="Channel", Sony BBC Earth HD
+http://watchindia.net:8880/live/54739/54739/789.ts
+#EXTINF:-1 group-title="Channel", Star Movies HD
+http://watchindia.net:8880/live/54739/54739/2080.ts
+#EXTINF:-1 group-title="Channel", Star World HD
+http://watchindia.net:8880/live/54739/54739/2191.ts
 
 #EXTINF:-1 ,Sneh TAMIL (HD)- ADHTIYA TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
