@@ -235,8 +235,8 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
 http://watchindia.net:8880/live/54739/54739/2036.ts
 #EXTINF:-1 group-title="Discover&Geographic", Discovery Tamil
 http://watchindia.net:8880/live/54739/54739/2085.ts
-#EXTINF:-1 group-title="Discover&Geographic", History TV HD
-http://watchindia.net:8880/live/54739/54739/791.ts
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Discover&Geographic", Zee Zest HD
+https://snehz5tvnew.herokuapp.com?c=0-9-348 
 #EXTINF:-1 group-title="Discover&Geographic", Discovery Life
 http://watchindia.net:8880/live/54739/54739/2124.ts
 #EXTINF:-1 group-title="Discover&Geographic",NATIONAL GEOGRAPHIC HD TAMIL
@@ -255,6 +255,13 @@ http://watchindia.net:8880/live/54739/54739/2039.ts
 http://watchindia.net:8880/live/54739/54739/792.ts
 #EXTINF:-1 group-title="Discover&Geographic",FOX LIFE HD TAMIL
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
+#EXTINF: -1 tvg-id="569" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Discover&Geographic", D Tamil
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Tamil&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="579" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Discover&Geographic", History TV18 HD Tamil
+http://jo123.biz/jweb/m3u8.php?c=History_18_Tamil&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="814" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Discover&Geographic", Travel XP Tamil
+http://jo123.biz/jweb/m3u8.php?c=Travel_XP_Tamil&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="853" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Discover&Geographic", Sony BBC Earth HD Tamil
 #EXTINF:-1 group-title="Sports@Channel",Sony Six HD 1
 http://watchindia.net:8880/live/54739/54739/1763.ts
 #EXTINF:-1 group-title="Sports@Channel",Sony Six HD 2
@@ -303,10 +310,24 @@ http://watchindia.net:8880/live/54739/54739/2101.ts
 http://watchindia.net:8880/live/54739/54739/2102.ts
 #EXTINF:-1 group-title="Movies@English", Star Movies HD
 http://watchindia.net:8880/live/54739/54739/2080.ts
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Movies@English",&flix
+https://snehz5tvnew.herokuapp.com?c=0-9-channel_2105335046
+#EXTINF:-1 group-title="Movies@English" tvg-logo="https://i.imgur.com/8u8TbPx.png",& Pictures SD (2)
+http://103.205.133.18/hls/andpicture.m3u8
+#EXTINF:-1 group-title="Movies@English" tvg-logo="https://i.imgur.com/8u8TbPx.png",& Pictures FHD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae493a4359cfdcea90f8dfa04e4bc42fcca7bcd1d853320dab3c4ded7709401b7a6c66646711c947c824d2ef15ce47a2eea6846438f5ceee0f55402b01fd8caad8034216e4c458138d898027cf262530fc9defd78a48d9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 group-title="Movies@English", Star World HD
 http://watchindia.net:8880/live/54739/54739/2191.ts
 #EXTINF:-1 group-title="Movies@English", HBO
 http://watchindia.net:8880/live/54739/54739/2081.ts
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies@English",&Pictures
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies@English",&Pictures 1
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/playlist.m3u8
+#EXTINF:-1 tvg-id="AndPriveHD.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies@English",&privé HD
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-id="AndPriveHD.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies@English",&privé HD 1
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 group-title="Movies", Anjaam Pathiraa (2020)
 http://watchindia.net:8880/movie/54739/54739/1076.mkv
